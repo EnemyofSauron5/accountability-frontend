@@ -20,22 +20,24 @@ export default function AboutContactPage() {
   return (
     <div className="min-h-screen bg-white text-black p-6">
       {/* Navigation and emblem bar */}
-      <div className="flex gap-4 text-sm font-semibold">
-  <a href="/" className="hover:underline">Home</a>
-  <a href="#about" className="hover:underline">About Us</a>
-  <a href="#contact" className="hover:underline">Contact Us</a>
-</div>
+      <div className="flex justify-between items-center mb-6">
+  <div className="flex gap-4 text-sm font-semibold">
+    <a href="/" className="hover:underline">Home</a>
+    <a href="#about" className="hover:underline">About Us</a>
+    <a href="#contact" className="hover:underline">Contact Us</a>
+  </div>
 
-        <div className="flex flex-col items-center w-20">
-  <img
-    src="/emblem-bkc.png"
-    alt="Be Kind. Be Curious. emblem"
-    className="h-12 w-12 max-w-[80px] shadow-md object-contain"
-  />
-  <div className="text-xs mt-1 italic text-center leading-tight">Be Kind. Be Curious.</div>
+  <div className="flex flex-col items-center w-20">
+    <img
+      src="/emblem-bkc.png"
+      alt="Be Kind. Be Curious. emblem"
+      className="h-12 w-12 max-w-[80px] shadow-md object-contain"
+    />
+    <div className="text-xs mt-1 italic text-center leading-tight">
+      Be Kind. Be Curious.
+    </div>
+  </div>
 </div>
-      </div>
-
       {/* About Section */}
       <section id="about" className="mb-12">
         <h1 className="text-3xl font-bold mb-4">🔍 About Us</h1>
@@ -102,9 +104,9 @@ export default function AboutContactPage() {
             <button type="submit" className="px-4 py-2 bg-black text-white rounded hover:bg-gray-800">
               Send Message
             </button>
-          </form>
-        )}
-      </section>
-    </div>
+            </form>
+      )}
+    </section>
+</div>
   );
 }
