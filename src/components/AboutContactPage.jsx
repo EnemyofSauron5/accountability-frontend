@@ -26,14 +26,14 @@ export default function AboutContactPage() {
           <a href="#about" className="hover:underline">About Us</a>
           <a href="#contact" className="hover:underline">Contact Us</a>
         </div>
-        <div className="flex flex-col items-center">
-          <img
-            src="/emblem-bkc.png"
-            alt="Be Kind. Be Curious. emblem"
-            className="h-16 w-16 shadow-md"
-          />
-          <div className="text-xs mt-1 italic">Be Kind. Be Curious.</div>
-        </div>
+        <div className="flex flex-col items-center w-20">
+  <img
+    src="/emblem-bkc.png"
+    alt="Be Kind. Be Curious. emblem"
+    className="h-12 w-12 max-w-[80px] shadow-md object-contain"
+  />
+  <div className="text-xs mt-1 italic text-center leading-tight">Be Kind. Be Curious.</div>
+</div>
       </div>
 
       {/* About Section */}
