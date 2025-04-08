@@ -20,12 +20,12 @@ export default function AboutContactPage() {
   return (
     <div className="min-h-screen bg-white text-black p-6">
       {/* Navigation and emblem bar */}
-      <div className="flex justify-between items-center mb-6">
-        <div className="space-x-4 text-sm font-semibold">
-          <a href="/" className="hover:underline">Home</a>
-          <a href="#about" className="hover:underline">About Us</a>
-          <a href="#contact" className="hover:underline">Contact Us</a>
-        </div>
+      <div className="flex gap-4 text-sm font-semibold">
+  <a href="/" className="hover:underline">Home</a>
+  <a href="#about" className="hover:underline">About Us</a>
+  <a href="#contact" className="hover:underline">Contact Us</a>
+</div>
+
         <div className="flex flex-col items-center w-20">
   <img
     src="/emblem-bkc.png"
