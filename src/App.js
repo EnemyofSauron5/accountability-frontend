@@ -1,3 +1,4 @@
+import AboutContactPage from './components/AboutContactPage';
 import React, { useEffect, useState } from 'react';
 import EntryCard from './components/EntryCard';
 import FilterPanel from './components/FilterPanel';
