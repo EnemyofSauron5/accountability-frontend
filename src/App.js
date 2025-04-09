@@ -54,9 +54,11 @@ export default function App() {
                 <EntryCard key={idx} entry={entry} />
               ))}
             </div>
-            <div className="view-all-button">
-              <a href="/about">About & Contact →</a>
-            </div>
+            <div className="flex justify-between w-full text-sm font-semibold">
+  <a href="/" className="hover:underline">Home</a>
+  <a href="#about" className="hover:underline">About Us</a>
+  <a href="#contact" className="hover:underline">Contact Us</a>
+</div>
           </div>
         } />
         <Route path="/about" element={<AboutContactPage />} />
