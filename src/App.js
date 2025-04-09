@@ -3,7 +3,6 @@ import React, { useEffect, useState } from 'react';
 import EntryCard from './components/EntryCard';
 import FilterPanel from './components/FilterPanel';
 import { loadEntries } from './data/loadEntries';
-import AboutContactPage from './components/AboutContactPage';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './styles/main.css';
 
