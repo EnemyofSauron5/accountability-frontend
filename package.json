@@ -13,12 +13,13 @@
     "postcss": "^8.5.3",
     "tailwindcss": "^3.4.17"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build && cp public/_routes.json build/",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
+ "scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "postbuild": "cp public/_routes.json build/",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+},
   "browserslist": {
     "production": [
       ">0.2%",
