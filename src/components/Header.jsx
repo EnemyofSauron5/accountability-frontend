@@ -30,11 +30,11 @@ export default function Header() {
 
       {/* Right: Emblem */}
       <div className="flex items-center justify-center">
-        <img
-          src="/emblem-bkc.png"
-          alt="Be Kind. Be Curious."
-          className="h-12 w-12 object-contain shadow-md"
-        />
+      <img
+  src="/emblem-bkc.png"
+  alt="Be Kind. Be Curious."
+  className="max-w-full h-auto mx-auto"
+/>  
       </div>
     </header>
   );
