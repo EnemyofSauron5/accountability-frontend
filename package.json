@@ -16,7 +16,7 @@
  "scripts": {
   "start": "react-scripts start",
   "build": "react-scripts build",
-  "postbuild": "cp public/_routes.json build/",
+  "postbuild": "node scripts/copyRoutes.js",
   "test": "react-scripts test",
   "eject": "react-scripts eject"
 },
