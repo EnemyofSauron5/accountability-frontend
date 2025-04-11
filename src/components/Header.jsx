@@ -6,7 +6,7 @@ function Header() {
     <header className="w-full bg-gray-100 py-4 shadow-md">
       <div className="max-w-4xl mx-auto flex flex-col items-center px-4">
         <img
-          src="/your-snake-image.png"
+          src="/emblem-bkc.png"
           alt="Be Kind. Be Curious."
           className="max-w-full h-auto mb-4"
         />
