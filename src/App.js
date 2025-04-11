@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Header />
-      <main className="...">
+      <main className="app">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
