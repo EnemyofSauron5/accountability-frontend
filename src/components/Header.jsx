@@ -1,41 +1,23 @@
 import React from 'react';
-import { Link, useLocation } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
-export default function Header() {
-  const location = useLocation();
-
+function Header() {
   return (
-    <header className="w-full bg-gray-100 p-4 shadow-md flex items-center justify-between">
-      {/* Left: Navigation links */}
-      <nav className="flex gap-4 text-sm font-semibold">
-        <Link
-          to="/"
-          className={`hover:underline ${location.pathname === '/' ? 'text-blue-700' : ''}`}
-        >
-          Home
-        </Link>
-        <Link
-          to="/about"
-          className={`hover:underline ${location.pathname === '/about' ? 'text-blue-700' : ''}`}
-        >
-          About Us
-        </Link>
-        <Link
-          to="/contact"
-          className={`hover:underline ${location.pathname === '/contact' ? 'text-blue-700' : ''}`}
-        >
-          Contact Us
-        </Link>
-      </nav>
-
-      {/* Right: Emblem */}
-      <div className="flex items-center justify-center">
-      <img
-  src="/emblem-bkc.png"
-  alt="Be Kind. Be Curious."
-  className="max-w-full h-auto mx-auto"
-/>  
+    <header className="w-full bg-gray-100 py-4 shadow-md">
+      <div className="max-w-4xl mx-auto flex flex-col items-center px-4">
+        <img
+          src="/your-snake-image.png"
+          alt="Be Kind. Be Curious."
+          className="max-w-full h-auto mb-4"
+        />
+        <nav className="space-x-4 text-lg font-semibold">
+          <Link to="/" className="text-blue-600 hover:underline">Home</Link>
+          <Link to="/about" className="text-blue-600 hover:underline">About</Link>
+          <Link to="/contact" className="text-blue-600 hover:underline">Contact Us</Link>
+        </nav>
       </div>
     </header>
   );
 }
+
+export default Header;
