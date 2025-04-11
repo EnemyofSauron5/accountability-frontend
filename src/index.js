@@ -1,7 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
 import './index.css';
 import './main.css';
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 import App from './App';  // <-- THIS is the missing or broken line
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
