@@ -35,9 +35,6 @@ export default function Header() {
           alt="Be Kind. Be Curious."
           className="h-12 w-12 max-w-[80px] shadow-md object-contain"
         />
-        <div className="text-xs mt-1 italic text-center leading-tight">
-          Be Kind. Be Curious.
-        </div>
       </div>
     </header>
   );
