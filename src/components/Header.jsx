@@ -5,9 +5,9 @@ export default function Header() {
   const location = useLocation();
 
   return (
-    <header className="relative mb-6">
-      {/* Nav links on the top-left */}
-      <nav className="absolute top-4 left-4 flex flex-col gap-2 text-sm font-semibold">
+    <header className="w-full bg-gray-100 p-4 shadow-md flex items-center justify-between">
+      {/* Left: Navigation links */}
+      <nav className="flex gap-4 text-sm font-semibold">
         <Link
           to="/"
           className={`hover:underline ${location.pathname === '/' ? 'text-blue-700' : ''}`}
@@ -28,12 +28,12 @@ export default function Header() {
         </Link>
       </nav>
 
-      {/* Emblem on the top-right */}
-      <div className="absolute top-4 right-4 flex flex-col items-center w-20">
+      {/* Right: Emblem */}
+      <div className="flex items-center justify-center">
         <img
           src="/emblem-bkc.png"
           alt="Be Kind. Be Curious."
-          className="h-12 w-12 max-w-[80px] shadow-md object-contain"
+          className="h-12 w-12 object-contain shadow-md"
         />
       </div>
     </header>
