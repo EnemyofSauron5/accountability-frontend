@@ -8,7 +8,7 @@ function Header() {
         <img
           src="/emblem-bkc.png"
           alt="Be Kind. Be Curious."
-          className="max-w-full h-auto mb-4"
+          className="w-32 h-auto absolute top-4 right-4"
         />
         <nav className="space-x-4 text-lg font-semibold">
           <Link to="/" className="text-blue-600 hover:underline">Home</Link>
