@@ -1,61 +1,60 @@
-import React, { useEffect, useState } from 'react';
+// src/components/Home.jsx
+import React, { useState, useEffect } from 'react';
 import EntryCard from './EntryCard';
 import FilterPanel from './FilterPanel';
 import { loadEntries } from '../data/loadEntries';
 
-export default function Home() {
+const Home = () => {
   const [entries, setEntries] = useState([]);
-  const [filteredEntries, setFilteredEntries] = useState([]);
-  const [selectedTags, setSelectedTags] = useState([]);
+  const [activeTag, setActiveTag] = useState(null);
 
   useEffect(() => {
-    async function fetchData() {
-      const data = await loadEntries();
-      const sorted = data.sort((a, b) => new Date(a.date) - new Date(b.date));
+    loadEntries().then((data) => {
+      const sorted = [...data].sort(
+        (a, b) => new Date(a.date) - new Date(b.date)
+      );
       setEntries(sorted);
-      setFilteredEntries(sorted);
-    }
-    fetchData();
+    });
   }, []);
 
-  const handleFilterChange = (tags) => {
-    setSelectedTags(tags);
-    if (tags.length === 0) {
-      setFilteredEntries(entries);
-    } else {
-      const filtered = entries.filter((entry) =>
-        tags.every((tag) => entry.tags.includes(tag))
-      );
-      setFilteredEntries(filtered);
-    }
-  };
+  const filteredEntries = activeTag
+    ? entries.filter((entry) => entry.tags?.includes(activeTag))
+    : entries;
 
   return (
-    <div>
-      <h1 className="text-3xl font-bold mb-4">Accountability Archive</h1>
-      <p className="mb-6">2 + 2 = 4. No exceptions.</p>
+    <div className="home-container max-w-6xl mx-auto px-4 py-6">
+      <FilterPanel onTagChange={setActiveTag} />
 
-      <FilterPanel
-        tags={extractTags(entries)}
-        selectedTags={selectedTags}
-        onChange={handleFilterChange}
-      />
+      {activeTag && (
+        <h2 className="text-center text-xl font-semibold text-blue-700 mb-4">
+          Showing entries tagged: {activeTag}
+        </h2>
+      )}
 
-      <div className="grid gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {filteredEntries.map((entry, index) => (
           <EntryCard key={index} entry={entry} />
-        ))}
+        )
+        )}
       </div>
+
+      {filteredEntries.length === 0 && (
+        <div className="text-center py-12 text-gray-500">
+          No entries found with the selected tag.
+        </div>
+      )}
+     {activeTag && (
+  <div className="text-center mt-6">
+    <button
+      onClick={() => setActiveTag(null)}
+      className="px-3 py-1 bg-gray-800 text-white rounded-full text-sm hover:bg-gray-700"
+    >
+      Return to Timeline
+    </button>
+  </div>
+)}
     </div>
   );
-}
+};
 
-function extractTags(entries) {
-  const tagSet = new Set();
-  entries.forEach((entry) => {
-    if (entry?.tags?.length) {
-      entry.tags.forEach((tag) => tagSet.add(tag));
-    }
-  });
-  return Array.from(tagSet).sort();
-}
+export default Home;

@@ -1,23 +1,30 @@
+// src/components/Header.jsx
 import React from 'react';
-import { Link } from 'react-router-dom';
 
-function Header() {
+const Header = () => {
   return (
-    <header className="w-full bg-gray-100 py-4 shadow-md">
-      <div className="max-w-4xl mx-auto flex flex-col items-center px-4">
+    <header className="w-full max-w-6xl mx-auto relative mb-2 px-4">
+      <nav className="w-full text-center text-sm text-blue-700 mb-1">
+        <a href="/" className="mx-4 hover:text-blue-900 font-medium">Home</a>
+        <a href="/about" className="mx-4 hover:text-blue-900 font-medium">About</a>
+        <a href="/contact" className="mx-4 hover:text-blue-900 font-medium">Contact</a>
+      </nav>
+
+      <div className="w-full h-0.5 bg-red-600 mb-1"></div>
+
+      <div className="flex justify-center my-2">
         <img
           src="/emblem-bkc.png"
-          alt="Be Kind. Be Curious."
-          className="w-32 h-auto absolute top-4 right-4"
+          alt="Snake Emblem"
+          className="w-28 h-auto"
         />
-        <nav className="space-x-4 text-lg font-semibold">
-          <Link to="/" className="text-blue-600 hover:underline">Home</Link>
-          <Link to="/about" className="text-blue-600 hover:underline">About</Link>
-          <Link to="/contact" className="text-blue-600 hover:underline">Contact Us</Link>
-        </nav>
       </div>
+
+      <div className="w-full h-0.5 bg-red-600 mb-1"></div>
+
+      <h1 className="text-3xl font-bold text-center text-black">Accountability Archive</h1>
     </header>
   );
-}
+};
 
 export default Header;
