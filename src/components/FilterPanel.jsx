@@ -23,13 +23,13 @@ const FilterPanel = ({ onTagChange }) => {
   };
 
   return (
-    <div className="filter-panel my-4 px-2 max-w-6xl mx-auto">
+    <div className="filter-panel my-6 px-2 max-w-6xl mx-auto">
       <div className="flex flex-wrap gap-1 justify-center">
         {allTags.map((tag) => (
           <button
             key={tag}
             onClick={() => handleTagClick(tag)}
-            className={`px-3 py-1 rounded-full text-xs transition border ${
+            className={`px-3 py-1 rounded-full text-sm transition border ${
               activeTag === tag
                 ? 'bg-blue-700 text-white border-blue-700'
                 : 'bg-blue-100 text-blue-800 hover:bg-blue-200 border-blue-200'
@@ -42,7 +42,7 @@ const FilterPanel = ({ onTagChange }) => {
         {activeTag && (
           <button
             onClick={() => handleTagClick(activeTag)}
-            className="ml-2 px-3 py-1 bg-gray-800 text-white rounded-full text-xs hover:bg-gray-700"
+            className="ml-2 px-3 py-1 bg-gray-800 text-white rounded-full text-sm hover:bg-gray-700"
           >
             Return to Timeline
           </button>

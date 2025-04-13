@@ -14,7 +14,7 @@ export default function EntryCard({ entry }) {
 
   return (
     <div
-      className={`bg-white text-black border border-blue-600 rounded-xl shadow-md hover:shadow-lg transition-all duration-200 p-4 ${
+      className={`bg-white text-black border border-blue-600 rounded-xl shadow-md hover:shadow-lg hover:scale-[1.01] transition-all duration-200 p-4 ${
         expanded ? '' : 'aspect-square'
       }`}
     >
