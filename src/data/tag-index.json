@@ -3,39 +3,22 @@
     "Self-Dealing",
     "Emoluments",
     "Foreign Influence",
-    "Insider Access",
-    "Real Estate Conflicts",
     "Campaign Finance Violations"
   ],
   "actors": [
     "Donald Trump",
-    "Donald Trump Jr.",
     "Eric Trump",
-    "Jared Kushner",
-    "Ivanka Trump",
-    "Trump Org",
-    "Foreign Governments"
+    "Jared Kushner"
   ],
   "domains": [
-    "National Security",
-    "Foreign Policy",
-    "Real Estate",
-    "Tech Regulation",
-    "Energy",
-    "Law Enforcement"
+    "Real Estate"
   ],
   "geography": [
     "US",
     "Saudi Arabia",
-    "China",
-    "UAE",
-    "EU",
-    "State-Level"
+    "China"
   ],
   "outcome": [
-    "Ongoing",
-    "Under Investigation",
-    "Settled",
-    "Prosecuted"
+    "Ongoing"
   ]
 }
