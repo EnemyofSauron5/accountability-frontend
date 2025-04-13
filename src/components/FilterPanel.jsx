@@ -23,7 +23,7 @@ const FilterPanel = ({ onTagChange }) => {
   };
 
   return (
-    <div className="filter-panel pt-2 pb-4 px-2 max-w-6xl mx-auto">
+    <div className="filter-panel my-4 px-2 max-w-6xl mx-auto">
       <div className="flex flex-wrap gap-1 justify-center">
         {allTags.map((tag) => (
           <button
