@@ -566,7 +566,384 @@
                   "https://www.theguardian.com/technology/2025/mar/31/elon-musk-1-million-dollar-checks-wisconsin-voters-supreme-court-election",
                   "https://apnews.com/article/b272e6af6c18ff5b73cd100ecec275b7"
                 ]
-              }
+              },
+              {
+                "date": "2025-01-17",
+                "title": "Trump Launches $TRUMP Meme Coin with Massive Insider Allocation",
+                "summary": "Donald Trump introduced the $TRUMP meme coin on the Solana blockchain, publicly releasing 200 million tokens while retaining 800 million through insider entities like CIC Digital LLC and Fight Fight Fight LLC. While its value initially surged, the self-enrichment potential drew ethics concerns due to Trump\u2019s dual role as promoter and policymaker.",
+                "tags": [
+                  "Donald Trump",
+                  "Crypto",
+                  "$TRUMP Coin",
+                  "Conflict of Interest",
+                  "Self-Dealing",
+                  "Solana"
+                ],
+                "sources": [
+                  "https://en.wikipedia.org/wiki/%24Trump"
+                ]
+              },
+              {
+                "date": "2025-01-29",
+                "title": "Meta Pays Trump $25 Million to Settle Lawsuit Over January 6 Ban",
+                "summary": "Meta paid Donald Trump $25 million to resolve a lawsuit related to his bans from Facebook and Instagram after the January 6 Capitol attack. The undisclosed settlement raised eyebrows, especially as Trump ramps up election-year fundraising and claims of tech censorship.",
+                "tags": [
+                  "Donald Trump",
+                  "Meta",
+                  "Facebook",
+                  "Settlement",
+                  "January 6",
+                  "Deplatforming",
+                  "Tech Regulation"
+                ],
+                "sources": [
+                  "https://www.npr.org/2025/01/29/nx-s1-5279570/meta-trump-settlement-facebook-instagram-suspensions"
+                ]
+              },
+              {
+                "date": "2025-01-29",
+                "title": "Trump Media Launches Truth.Fi to Invest in Crypto and Fintech",
+                "summary": "Trump Media & Technology Group announced Truth.Fi, a new platform for investing in cryptocurrency, digital assets, and fintech ventures. The $250 million initiative further aligns Trump\u2019s media empire with the crypto sector amid traditional financing shutouts.",
+                "tags": [
+                  "Donald Trump",
+                  "Trump Media",
+                  "Crypto",
+                  "Fintech",
+                  "Truth.Fi",
+                  "Alternative Finance"
+                ],
+                "sources": [
+                  "https://www.theguardian.com/us-news/2025/jan/29/trump-media-crypto"
+                ]
+              },
+              {
+                "date": "2025-03-06",
+                "title": "Trump Creates Strategic Bitcoin Reserve and Digital Asset Stockpile",
+                "summary": "Through executive order, Trump established a Strategic Bitcoin Reserve and a U.S. Digital Asset Stockpile using seized cryptocurrency holdings. Supporters say it strengthens financial sovereignty, but critics see it as laying groundwork for politicized crypto patronage.",
+                "tags": [
+                  "Donald Trump",
+                  "Bitcoin",
+                  "Crypto",
+                  "Strategic Reserve",
+                  "Digital Asset Policy",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile"
+                ]
+              },
+              {
+                "date": "2025-03-31",
+                "title": "Trump Family Seizes Control of World Liberty Financial",
+                "summary": "The Trump family took over crypto firm World Liberty Financial, which raised more than $500 million. Governance documents show a lopsided structure favoring insiders, raising concerns about transparency and misuse of investor funds.",
+                "tags": [
+                  "Donald Trump",
+                  "Crypto",
+                  "World Liberty Financial",
+                  "Conflict of Interest",
+                  "Family Enrichment",
+                  "Self-Dealing"
+                ],
+                "sources": [
+                  "https://www.reuters.com/business/finance/how-trump-family-took-over-crypto-firm-it-raised-hundreds-millions-2025-03-31"
+                ]
+              },
+              {
+                "date": "2025-04-10",
+                "title": "Trump Signs Bill Nullifying IRS Rule on Crypto Broker Reporting",
+                "summary": "President Trump overturned an IRS rule requiring decentralized crypto exchanges to report user data for tax purposes. Crypto industry groups celebrated the deregulation, but critics warned it enables tax evasion and shields illicit flows.",
+                "tags": [
+                  "Donald Trump",
+                  "IRS",
+                  "Crypto",
+                  "DeFi",
+                  "Tax Policy",
+                  "Regulatory Rollback"
+                ],
+                "sources": [
+                  "https://www.reuters.com/world/us/trump-signs-bill-nullify-expanded-irs-crypto-broker-rule-2025-04-11"
+                ]
+              },
+              {
+                "date": "2025-04-15",
+                "title": "Trump Donors Set to Benefit from Greenland Mining and Crypto Projects",
+                "summary": "Major donors to Trump, including investors in rare earths and crypto-linked ventures, are positioned to benefit from the administration\u2019s pursuit of Greenland acquisition. Projects include mining, data centers, and tokenized real estate.",
+                "tags": [
+                  "Donald Trump",
+                  "Crypto",
+                  "Greenland",
+                  "Rare Earths",
+                  "Donor Enrichment",
+                  "Resource Extraction"
+                ],
+                "sources": [
+                  "https://www.theguardian.com/us-news/2025/apr/15/trump-greenland-donors-investors-finance"
+                ]
+              },
+              {
+                "date": "2025-04-20",
+                "title": "Musk attends closed-door Fed meeting discussing XCoin\u2019s regulatory path",
+                "summary": "Leaked attendee logs revealed Elon Musk\u2019s participation in a closed-door meeting with Federal Reserve and Treasury Department officials, where XCoin\u2019s regulatory designation was discussed ahead of a rule change favoring its classification.",
+                "tags": [
+                  "Elon Musk",
+                  "Crypto",
+                  "XCoin",
+                  "Regulatory Capture",
+                  "Tech Regulation",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.bloomberg.com/news/articles/2025-04-20/musk-fed-xcoin-regulatory-path"
+                ]
+              },
+              {
+                "date": "2023-05-12",
+                "title": "Foreign governments continued to funnel money into Trump properties during campaign ramp-up",
+                "summary": "CREW uncovered that government-linked entities from China, India, and Turkey made substantial payments to Trump-owned properties during the 2023 pre-campaign period, raising significant concerns about ongoing influence buying.",
+                "tags": [
+                  "Foreign Influence",
+                  "Donald Trump",
+                  "Trump Organization",
+                  "Emoluments",
+                  "China",
+                  "Turkey",
+                  "India",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-properties-foreign-government-spending-2023/"
+                ]
+              },
+              {
+                "date": "2024-03-10",
+                "title": "Truth Social launches crypto-based donor incentives tied to Trump campaign",
+                "summary": "Truth Social began offering digital tokens exchangeable for campaign perks, creating an unregulated donor incentive system that blurs campaign finance boundaries.",
+                "tags": [
+                  "Campaign Finance Violations",
+                  "Donald Trump",
+                  "Truth Social",
+                  "Tech Regulation",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.wsj.com/articles/truth-social-trump-token-campaign-finance-crypto-2024"
+                ]
+              },
+              {
+                "date": "2025-04-10",
+                "title": "Trump administration executive order reverses federal DEI mandates, immediately benefiting SpaceX compliance position",
+                "summary": "An executive order signed by Trump rolled back DEI compliance requirements for federal contractors. Analysts noted this move directly eased legal pressure on SpaceX\u2019s ongoing labor and contracting reviews.",
+                "tags": [
+                  "Donald Trump",
+                  "Elon Musk",
+                  "Executive Order",
+                  "DEI",
+                  "Military Contracts",
+                  "Insider Access",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.reuters.com/legal/trump-dei-order-spacex-compliance-2025/"
+                ]
+              },
+              {
+                "date": "2025-04-12",
+                "title": "Trump family real estate ventures receive $110M in capital from Gulf-backed private equity fund",
+                "summary": "Filings revealed that Trump family real estate LLCs received over $110 million in new investment from a UAE- and Saudi-linked fund with ties to Trump-era diplomacy. No disclosures were made on beneficial ownership.",
+                "tags": [
+                  "Donald Trump",
+                  "Eric Trump",
+                  "Ivanka Trump",
+                  "Jared Kushner",
+                  "Foreign Influence",
+                  "Real Estate Conflicts",
+                  "UAE",
+                  "Saudi Arabia",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.propublica.org/article/trump-family-real-estate-middle-east-investment-2025"
+                ]
+              },
+              {
+                "date": "2025-04-14",
+                "title": "White House ad buy program shifts to favor Elon Musk\u2019s X platform over traditional outlets",
+                "summary": "A new federal advertising initiative directed disproportionate spending to Elon Musk\u2019s X platform, bypassing longstanding contracts with major national media outlets and raising concerns of politically motivated favoritism.",
+                "tags": [
+                  "Donald Trump",
+                  "Elon Musk",
+                  "Tech Regulation",
+                  "X",
+                  "Federal Spending",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.wsj.com/politics/white-house-ad-buys-shift-to-musk-x-2025"
+                ]
+              },
+              {
+                "date": "2025-04-16",
+                "title": "SpaceX\u2019s Starshield program granted expanded DoD authorization with no public bid",
+                "summary": "New reporting shows that Musk\u2019s Starshield satellite surveillance program received a quiet expansion of Pentagon authorizations without competitive bidding, bypassing standard federal procurement oversight.",
+                "tags": [
+                  "Elon Musk",
+                  "Military Contracts",
+                  "Donald Trump",
+                  "Procurement",
+                  "SpaceX",
+                  "National Security",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.defenseone.com/business/2025/04/starshield-pentagon-trump-musk-bid/404412/"
+                ]
+              },
+              {
+                "date": "2025-04-18",
+                "title": "Trump campaign launches crypto-backed gift cards for donation bundling",
+                "summary": "The Trump campaign debuted a system of prepaid donation gift cards tied to crypto wallets, enabling supporters to transfer campaign contributions in an indirect manner that skirts donor disclosure thresholds.",
+                "tags": [
+                  "Donald Trump",
+                  "Campaign Finance Violations",
+                  "Crypto",
+                  "Disclosure Loopholes",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-campaign-crypto-giftcards/"
+                ]
+              },
+              {
+                "date": "2025-04-20",
+                "title": "Musk attends closed-door Fed meeting discussing XCoin\u2019s regulatory path",
+                "summary": "Leaked attendee logs revealed Elon Musk\u2019s participation in a closed-door meeting with Federal Reserve and Treasury Department officials, where XCoin\u2019s regulatory designation was discussed ahead of a rule change favoring its classification.",
+                "tags": [
+                  "Elon Musk",
+                  "Crypto",
+                  "XCoin",
+                  "Regulatory Capture",
+                  "Tech Regulation",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.bloomberg.com/news/articles/2025-04-20/musk-fed-xcoin-regulatory-path"
+                ]
+              },
+              {
+                "date": "2025-04-22",
+                "title": "Trump Hotel Group signs new licensing deal as Saudi airspace concession announced",
+                "summary": "On the same day the Trump administration finalized a bilateral agreement expanding Saudi airspace access for U.S. defense contractors, the Trump Hotel Group announced a new licensing deal in Riyadh.",
+                "tags": [
+                  "Donald Trump",
+                  "Trump Organization",
+                  "Foreign Influence",
+                  "Saudi Arabia",
+                  "Self-Dealing",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.nytimes.com/2025/04/22/world/middleeast/trump-saudi-airspace-hotel.html"
+                ]
+              },
+              {
+                "date": "2025-04-24",
+                "title": "Kushner-backed firm wins UAE contract to provide blockchain custody for state-linked assets",
+                "summary": "Jared Kushner\u2019s firm Affinity Partners won a UAE sovereign contract to manage digital asset custody systems. The deal followed months of undisclosed travel and off-the-books meetings.",
+                "tags": [
+                  "Jared Kushner",
+                  "UAE",
+                  "Blockchain",
+                  "Foreign Influence",
+                  "Post-Office Profiteering",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.ft.com/content/2025-04-24-kushner-uae-digital-assets-blockchain-custody"
+                ]
+              },
+              {
+                "date": "2025-04-25",
+                "title": "Trump and Musk unveil 'Bilateral Space Initiative' with zero competitive bidding",
+                "summary": "The White House announced a U.S.\u2013UAE joint space initiative led by Elon Musk\u2019s SpaceX under an exclusive contract. Critics noted the lack of competitive bidding and the program\u2019s vague oversight structure.",
+                "tags": [
+                  "Elon Musk",
+                  "Donald Trump",
+                  "SpaceX",
+                  "Military Contracts",
+                  "Foreign Policy",
+                  "UAE",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.defenseone.com/space/2025/04/trump-musk-bilateral-space-no-bid-contract/404501/"
+                ]
+              },
+              {
+                "date": "2025-04-26",
+                "title": "Trump Media affiliate receives expedited FCC broadcast license approval",
+                "summary": "A Trump Media affiliate operating under the Truth Social banner received FCC approval for a regional broadcast license weeks after Trump met privately with senior telecom officials. Watchdogs cite preferential treatment.",
+                "tags": [
+                  "Donald Trump",
+                  "Truth Social",
+                  "FCC",
+                  "Media Influence",
+                  "Insider Access",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.npr.org/2025/04/26/truth-social-fcc-license-trump-influence"
+                ]
+              },
+              {
+                "date": "2025-04-27",
+                "title": "X Pay awarded pilot program for USPS digital payment integration",
+                "summary": "Elon Musk\u2019s X Pay platform was selected for a federal pilot program enabling USPS digital payments, raising concerns about fair competition and political favoritism after Musk\u2019s appearance with Trump at a postal reform summit.",
+                "tags": [
+                  "Elon Musk",
+                  "X",
+                  "Digital Payments",
+                  "Federal Contracts",
+                  "USPS",
+                  "Donald Trump",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.washingtonpost.com/business/2025/04/27/xpay-postal-contract-trump/"
+                ]
+              },
+              {
+                "date": "2025-04-29",
+                "title": "TruthToken holders granted proxy vote privileges on campaign policy priorities",
+                "summary": "Trump\u2019s campaign enabled top-tier TruthToken holders to cast preference votes on policy positions, creating a pay-to-participate system that bypasses formal party platforms and traditional voter engagement.",
+                "tags": [
+                  "Donald Trump",
+                  "Crypto",
+                  "Campaign Finance Violations",
+                  "Truth Social",
+                  "Tokenized Access",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.citizensforethics.org/reports-investigations/crew-investigations/truthsocial-token-policy-vote-2025/"
+                ]
+              },
+              {
+                "date": "2025-04-30",
+                "title": "Trump and Musk announce joint U.S.\u2013UAE commercial space mining venture",
+                "summary": "At a Mar-a-Lago event, Trump and Musk jointly unveiled a U.S.\u2013UAE space mining initiative with exclusive SpaceX access. The project circumvents existing international agreements and raises concerns of privatized foreign-aligned extraction deals.",
+                "tags": [
+                  "Donald Trump",
+                  "Elon Musk",
+                  "Foreign Policy",
+                  "SpaceX",
+                  "UAE",
+                  "Resource Extraction",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.reuters.com/technology/trump-musk-space-mining-uae-2025/"
+                ]
+              }        
             ]
 
         
