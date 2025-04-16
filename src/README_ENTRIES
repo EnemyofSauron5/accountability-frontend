@@ -1,0 +1,5 @@
+Purpose | Location
+JSON entries live in | /data/index.json or /data/loadEntries.js
+Loaded in app via | /src/data/loadEntries.js
+Rendered on page | /src/components/Home.jsx
+Displayed using | /src/components/EntryCard.jsx

@@ -11,7 +11,7 @@ const Home = () => {
   useEffect(() => {
     loadEntries().then((data) => {
       const sorted = [...data].sort(
-        (a, b) => new Date(a.date) - new Date(b.date)
+        (a, b) => new Date(a.date) - new Date(b.date)  // Original order - oldest first for chronological narrative
       );
       setEntries(sorted);
     });
@@ -23,8 +23,8 @@ const Home = () => {
 
   return (
     <div className="home-container max-w-6xl mx-auto px-4 py-6">
-      <FilterPanel onTagChange={setActiveTag} />
-
+      <FilterPanel onTagChange={setActiveTag} activeTag={activeTag} />
+      
       {activeTag && (
         <h2 className="text-center text-xl font-semibold text-blue-700 mb-4">
           Showing entries tagged: {activeTag}
@@ -34,8 +34,7 @@ const Home = () => {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {filteredEntries.map((entry, index) => (
           <EntryCard key={index} entry={entry} />
-        )
-        )}
+        ))}
       </div>
 
       {filteredEntries.length === 0 && (
@@ -43,16 +42,17 @@ const Home = () => {
           No entries found with the selected tag.
         </div>
       )}
-     {activeTag && (
-  <div className="text-center mt-6">
-    <button
-      onClick={() => setActiveTag(null)}
-      className="px-3 py-1 bg-gray-800 text-white rounded-full text-sm hover:bg-gray-700"
-    >
-      Return to Timeline
-    </button>
-  </div>
-)}
+
+      {activeTag && (
+        <div className="text-center mt-6">
+          <button
+            onClick={() => setActiveTag(null)}
+            className="px-3 py-1 bg-gray-800 text-white rounded-full text-sm hover:bg-gray-700"
+          >
+            Return to Timeline
+          </button>
+        </div>
+      )}
     </div>
   );
 };
