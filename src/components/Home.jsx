@@ -11,7 +11,7 @@ const Home = () => {
   useEffect(() => {
     loadEntries().then((data) => {
       const sorted = [...data].sort(
-        (a, b) => new Date(a.date) - new Date(b.date)  // Original order - oldest first for chronological narrative
+        (a, b) => new Date(a.date) - new Date(b.date)  // Oldest first for chronological narrative
       );
       setEntries(sorted);
     });
@@ -23,6 +23,15 @@ const Home = () => {
 
   return (
     <div className="home-container max-w-6xl mx-auto px-4 py-6">
+      {/* Add a wrapper div with fixed height around the activeTag display */}
+      <div className="activeTag-display h-8 text-center text-gray-400">
+        {activeTag && (
+          <div className="text-sm">
+            activeTag: {activeTag}
+          </div>
+        )}
+      </div>
+      
       <FilterPanel onTagChange={setActiveTag} activeTag={activeTag} />
       
       {activeTag && (
@@ -43,8 +52,9 @@ const Home = () => {
         </div>
       )}
 
+      {/* Always show the bottom "Return to Timeline" button when a tag is selected */}
       {activeTag && (
-        <div className="text-center mt-6">
+        <div className="text-center mt-8 mb-4">
           <button
             onClick={() => setActiveTag(null)}
             className="px-3 py-1 bg-gray-800 text-white rounded-full text-sm hover:bg-gray-700"

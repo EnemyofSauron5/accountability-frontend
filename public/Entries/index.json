@@ -1,958 +1,730 @@
 [
-  {
-    "date": "2021-02-10",
-    "title": "Trump charges Secret Service over $1,100/month for post-presidency Mar-a-Lago detail",
-    "summary": "While all former presidents receive Secret Service protection, Trump uniquely billed the agency for accommodations at his own properties—like Mar-a-Lago and Bedminster—where agents could have stayed for free. This practice created a direct flow of taxpayer funds into his private business and has little precedent among other presidents.",
-  "tags": [
-      "Self-Dealing",
-      "Donald Trump",
-      "Trump Organization",
-      "Federal Funds",
-      "Mar-a-Lago",
-      "US",
-      "Ongoing"
-    ],
-    "sources": [
-      "https://www.washingtonpost.com/politics/2021/02/10/trump-secret-service-charges/",
-      "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-properties-secret-service-spending/"
-    ]
-  },
     {
-    "date": "2023-05-12",
-    "title": "Foreign governments continued to funnel money into Trump properties during campaign ramp-up",
-    "summary": "CREW uncovered that government-linked entities from China, India, and Turkey made substantial payments to Trump-owned properties during the 2023 pre-campaign period, raising significant concerns about ongoing influence buying.",
+      "date": "2021-02-10",
+      "title": "Trump charges Secret Service over $1,100/month for post-presidency Mar-a-Lago detail",
+      "summary": "While all former presidents receive Secret Service protection, Trump uniquely billed the agency for accommodations at his own properties—like Mar-a-Lago and Bedminster—where agents could have stayed for free. This practice created a direct flow of taxpayer funds into his private business and has little precedent among other presidents.",
     "tags": [
-      "Foreign Influence",
-      "Donald Trump",
-      "Trump Organization",
-      "Emoluments",
-      "China",
-      "Turkey",
-      "India",
-      "Ongoing"
-    ],
-    "sources": [
-      "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-properties-foreign-government-spending-2023/",
-      "https://www.cnn.com/2024/01/04/politics/trump-properties-china-foreign-payments/index.html",
-      "https://www.opensecrets.org/trump/trump-properties"
-    ]
-  },
-  {
-    "date": "2023-11-22",
-    "title": "Truth Social explores cryptocurrency options",
-    "summary": "According to a trademark filing, Trump Media is exploring a cryptocurrency payment platform called TruthFi to along with Truth Social.",
-    "tags": [
-      "Donald Trump",
-      "Truth Social",
-      "Ongoing"
-    ],
-    "sources": [
-      "https://www.wsj.com/articles/truth-social-trump-token-campaign-finance-crypto-2024",
-      "https://fortune.com/2024/11/22/trump-media-crypto-payments-truthfi-truth-social-social-media-election-us-president/",
-      "https://www.cnn.com/2024/11/21/business/truthfi-trump-media-crypto/index.html"
-    ]
-  },
-  {
-    "date": "2025-01-15",
-    "title": "Trump administration offers Mar-a-Lago access to $1M+ donors",
-    "summary": "High-dollar donors were given access to off-calendar dinners with President Trump during early Trump 2.0, coinciding with efforts to restructure Trump Organization debt.",
-    "tags": [
-      "Self-Dealing",
-      "Donald Trump",
-      "Trump Administration",
-      "Mar-a-Lago",
-      "Campaign Finance Violations",
-      "Ongoing"
-    ],
-    "sources": [
-      "https://www.washingtonpost.com/politics/2025/01/20/trump-mar-a-lago-donors-access/"]
-  
-  },
-  {
-      "date": "2025-03-25",
-      "title": "World Liberty Financial announces launch of USD1 stablecoin",
-      "summary": "World Liberty Financial, backed by the Trump family, announced plans to launch USD1, a dollar-pegged stablecoin fully backed by U.S. Treasuries and cash equivalents. This move aims to position the firm within the growing stablecoin market.",
+        "Self-Dealing",
+        "Donald Trump",
+        "Trump Organization",
+        "Federal Funds",
+        "Mar-a-Lago",
+        "US",
+        "Ongoing"
+      ],
+      "sources": [
+        "https://www.washingtonpost.com/politics/2021/02/10/trump-secret-service-charges/",
+        "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-properties-secret-service-spending/"
+      ]
+    },
+    {
+      "date": "2023-05-12",
+      "title": "Foreign governments continued to funnel money into Trump properties during campaign ramp-up",
+      "summary": "CREW uncovered that government-linked entities from China, India, and Turkey made substantial payments to Trump-owned properties during the 2023 pre-campaign period, raising significant concerns about ongoing influence buying.",
+      "tags": [
+        "Foreign Influence",
+        "Donald Trump",
+        "Trump Organization",
+        "Emoluments",
+        "China",
+        "Turkey",
+        "India",
+        "Ongoing"
+      ],
+      "sources": [
+        "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-properties-foreign-government-spending-2023/",
+        "https://www.cnn.com/2024/01/04/politics/trump-properties-china-foreign-payments/index.html",
+        "https://www.opensecrets.org/trump/trump-properties"
+      ]
+    },
+    {
+      "date": "2023-11-22",
+      "title": "Truth Social explores cryptocurrency options",
+      "summary": "According to a trademark filing, Trump Media is exploring a cryptocurrency payment platform called TruthFi to along with Truth Social.",
       "tags": [
         "Donald Trump",
-        "World Liberty Financial",
-        "Stablecoin",
-        "USD1",
-        "Crypto",
+        "Truth Social",
         "Ongoing"
       ],
       "sources": [
-        "https://www.reuters.com/technology/trumps-world-liberty-financial-crypto-venture-says-it-will-launch-stablecoin-2025-03-25/"
+        "https://www.wsj.com/articles/truth-social-trump-token-campaign-finance-crypto-2024",
+        "https://fortune.com/2024/11/22/trump-media-crypto-payments-truthfi-truth-social-social-media-election-us-president/",
+        "https://www.cnn.com/2024/11/21/business/truthfi-trump-media-crypto/index.html"
       ]
     },
     {
-      "date": "2025-03-26",
-      "title": "Fidelity Investments tests dollar-pegged stablecoin",
-      "summary": "Fidelity Investments is exploring the launch of its own stablecoin, signaling mainstream financial institutions' growing interest in the cryptocurrency space. The stablecoin aims to provide a secure digital asset for transactions.",
+      "date": "2025-01-15",
+      "title": "Trump administration offers Mar-a-Lago access to $1M+ donors",
+      "summary": "High-dollar donors were given access to off-calendar dinners with President Trump during early Trump 2.0, coinciding with efforts to restructure Trump Organization debt.",
       "tags": [
-        "Fidelity Investments",
-        "Stablecoin",
-        "Crypto",
-        "Financial Institutions",
-        "Ongoing"
-      ],
-      "sources": [
-        "https://www.reuters.com/business/finance/fidelity-investments-tests-dollar-pegged-stablecoin-2025-03-26/"
-      ]
-    },
-    {
-      "date": "2025-03-30",
-      "title": "Democrats express concern over Trump's crypto venture influencing legislation",
-      "summary": "Democratic lawmakers raised concerns that the Trump family's involvement in World Liberty Financial could pose conflicts of interest and complicate bipartisan efforts to pass cryptocurrency legislation.",
-      "tags": [
+        "Self-Dealing",
         "Donald Trump",
-        "World Liberty Financial",
-        "Crypto Regulation",
-        "Conflict of Interest",
+        "Trump Administration",
+        "Mar-a-Lago",
+        "Campaign Finance Violations",
         "Ongoing"
       ],
       "sources": [
-        "https://www.politico.com/news/2025/03/30/the-trump-family-is-cashing-in-on-crypto-its-creating-problems-in-congress-00255718"
-      ]
+        "https://www.washingtonpost.com/politics/2025/01/20/trump-mar-a-lago-donors-access/"]
+    
     },
     {
-      "date": "2025-04-02",
-      "title": "House Democrats scrutinize Trump-linked stablecoin during bill markup",
-      "summary": "During a House Financial Services Committee session, Democrats raised concerns about potential conflicts of interest involving the Trump-affiliated stablecoin, USD1, amidst negotiations for the STABLE Act.",
-      "tags": [
-        "Donald Trump",
-        "World Liberty Financial",
-        "Stablecoin",
-        "STABLE Act",
-        "Ongoing"
-      ],
-      "sources": [
-        "https://www.axios.com/2025/04/02/trump-bitcoin-democrats-stable-act"
-      ]
-    },
-    {
-      "date": "2025-04-02",
-      "title": "Democrats request SEC to preserve records related to Trump's crypto business",
-      "summary": "Senator Elizabeth Warren and Representative Maxine Waters asked the SEC to retain records concerning President Trump's crypto venture, World Liberty Financial, probing potential conflicts of interest and their influence on SEC activities.",
-      "tags": [
-        "Donald Trump",
-        "World Liberty Financial",
-        "SEC",
-        "Crypto Regulation",
-        "Ongoing"
-      ],
-      "sources": [
-        "https://www.reuters.com/sustainability/boards-policy-regulation/democrats-ask-sec-preserve-records-related-trumps-crypto-business-probing-2025-04-02/"
-      ]
-    },
-    {
-      "date": "2025-03-13",
-      "title": "Reports surface of Trump family discussions to acquire stake in Binance amid Zhao's pardon efforts",
-      "summary": "Representatives of President Trump's family have reportedly engaged in talks to acquire a financial stake in Binance's U.S. arm. These discussions coincided with efforts by Binance founder Changpeng Zhao to secure a presidential pardon following his guilty plea to anti-money laundering violations.",
-      "tags": [
-        "Donald Trump",
-        "Changpeng Zhao",
-        "Binance",
-        "Pardon",
-        "Conflict of Interest",
-        "Crypto Regulation",
-        "Ongoing"
-      ],
-      "sources": [
-        "https://www.wsj.com/finance/currencies/trump-family-has-held-deal-talks-with-binance-following-crypto-exchanges-guilty-plea-05b029fa",
-        "https://fortune.com/crypto/2025/03/13/binance-cz-denies-trump-investment-pardon-campaign/"
-      ]
-    },
-    {
-        "date": "2024-12-19",
-        "title": "$1M 'Candlelight Dinner' for MAGA Inc. at Mar-a-Lago",
-        "tags": ["Trump", "MAGA Inc.", "Mar-a-Lago", "fundraising", "pay-to-play", "pattern"],
-        "summary": "Donald Trump appeared at a $1 million per plate 'Candlelight Dinner' at Mar-a-Lago hosted by the MAGA Inc. super PAC. Despite disclaimers noting Trump was 'only a featured speaker,' watchdogs flagged this as a troubling sign of early high-dollar influence peddling before inauguration.",
+        "date": "2025-03-25",
+        "title": "World Liberty Financial announces launch of USD1 stablecoin",
+        "summary": "World Liberty Financial, backed by the Trump family, announced plans to launch USD1, a dollar-pegged stablecoin fully backed by U.S. Treasuries and cash equivalents. This move aims to position the firm within the growing stablecoin market.",
+        "tags": [
+          "Donald Trump",
+          "World Liberty Financial",
+          "Stablecoin",
+          "USD1",
+          "Crypto",
+          "Ongoing"
+        ],
         "sources": [
-          "https://www.washingtonpost.com",
-          "https://www.independent.co.uk"
-        ]
-    },
-      {
-        "date": "2025-01-01",
-        "title": "Undated January $1M Dinner with Trump in Washington or Mar-a-Lago",
-        "tags": ["Trump", "MAGA Inc.", "fundraising", "early administration", "ethics", "pattern"],
-        "summary": "A $1 million-per-plate candlelight dinner featuring Trump took place in either Washington or Mar-a-Lago in January 2025. Details remain limited, but the event fits the pattern of high-dollar fundraisers linked to MAGA Inc.",
-        "sources": [
-          "https://www.independent.co.uk"
+          "https://www.reuters.com/technology/trumps-world-liberty-financial-crypto-venture-says-it-will-launch-stablecoin-2025-03-25/"
         ]
       },
       {
-        "date": "2025-03-01",
-        "title": "Trump Hosts $1M MAGA Inc. Dinner with Miriam Adelson",
-        "tags": ["Trump", "Mar-a-Lago", "MAGA Inc.", "Miriam Adelson", "fundraising", "elite access", "pattern"],
-        "summary": "A $1 million-per-plate 'Candlelight Dinner' was held at Mar-a-Lago, hosted by MAGA Inc. Casino billionaire Miriam Adelson was among the elite guests. Trump appeared as the event’s featured speaker.",
+        "date": "2025-03-26",
+        "title": "Fidelity Investments tests dollar-pegged stablecoin",
+        "summary": "Fidelity Investments is exploring the launch of its own stablecoin, signaling mainstream financial institutions' growing interest in the cryptocurrency space. The stablecoin aims to provide a secure digital asset for transactions.",
+        "tags": [
+          "Fidelity Investments",
+          "Stablecoin",
+          "Crypto",
+          "Financial Institutions",
+          "Ongoing"
+        ],
         "sources": [
-          "https://www.axios.com"
+          "https://www.reuters.com/business/finance/fidelity-investments-tests-dollar-pegged-stablecoin-2025-03-26/"
         ]
       },
       {
-        "date": "2025-03-16",
-        "title": "Elon Musk and Trump Dine at $1M MAGA Inc. Fundraiser",
-        "tags": ["Trump", "Elon Musk", "Mar-a-Lago", "MAGA Inc.", "dark money", "unofficial event", "pattern"],
-        "summary": "Trump and Elon Musk were seen seated together at a $1 million-per-plate MAGA Inc. fundraiser on March 16 at Mar-a-Lago. The event was not listed on Trump's official schedule, raising questions about transparency and influence.",
+        "date": "2025-03-30",
+        "title": "Democrats express concern over Trump's crypto venture influencing legislation",
+        "summary": "Democratic lawmakers raised concerns that the Trump family's involvement in World Liberty Financial could pose conflicts of interest and complicate bipartisan efforts to pass cryptocurrency legislation.",
+        "tags": [
+          "Donald Trump",
+          "World Liberty Financial",
+          "Crypto Regulation",
+          "Conflict of Interest",
+          "Ongoing"
+        ],
         "sources": [
-          "https://newrepublic.com",
-          "https://www.commondreams.org"
+          "https://www.politico.com/news/2025/03/30/the-trump-family-is-cashing-in-on-crypto-its-creating-problems-in-congress-00255718"
         ]
       },
       {
-        "date": "2025-03-04",
-        "title": "$5M Private Mar-a-Lago Meetings with Trump Offered to Donors",
-        "tags": ["Trump", "Mar-a-Lago", "fundraising", "pay-to-play", "MAGA Inc.", "private access", "pattern"],
-        "summary": "Reports reveal that one-on-one meetings with Donald Trump at Mar-a-Lago are being offered at $5 million apiece. These 'hot ticket' meetings raise alarm bells about elite access and potential influence peddling in the Trump 2.0 administration.",
+        "date": "2025-04-02",
+        "title": "House Democrats scrutinize Trump-linked stablecoin during bill markup",
+        "summary": "During a House Financial Services Committee session, Democrats raised concerns about potential conflicts of interest involving the Trump-affiliated stablecoin, USD1, amidst negotiations for the STABLE Act.",
+        "tags": [
+          "Donald Trump",
+          "World Liberty Financial",
+          "Stablecoin",
+          "STABLE Act",
+          "Ongoing"
+        ],
         "sources": [
-          "https://www.the-independent.com/news/world/americas/us-politics/trump-mar-a-lago-fundraiser-b2708972.html",
-          "https://www.wired.com/story/people-paying-millions-donald-trump-mar-a-lago/"
+          "https://www.axios.com/2025/04/02/trump-bitcoin-democrats-stable-act"
         ]
       },
       {
-          "date": "2025-01-14",
-          "title": "Crypto Leaders Organize 'Inaugural Crypto Ball' Ahead of Trump's Inauguration",
-          "summary": "Cryptocurrency industry leaders organized the 'Inaugural Crypto Ball' in Washington, D.C., to celebrate President Trump's upcoming inauguration. The event aimed to demonstrate the crypto community's support and featured discussions on integrating digital assets into national economic strategies.",
-          "tags": [
-            "Cryptocurrency",
-            "Donald Trump",
-            "Inauguration",
-            "Crypto Ball",
-            "2025"
-          ],
+        "date": "2025-04-02",
+        "title": "Democrats request SEC to preserve records related to Trump's crypto business",
+        "summary": "Senator Elizabeth Warren and Representative Maxine Waters asked the SEC to retain records concerning President Trump's crypto venture, World Liberty Financial, probing potential conflicts of interest and their influence on SEC activities.",
+        "tags": [
+          "Donald Trump",
+          "World Liberty Financial",
+          "SEC",
+          "Crypto Regulation",
+          "Ongoing"
+        ],
+        "sources": [
+          "https://www.reuters.com/sustainability/boards-policy-regulation/democrats-ask-sec-preserve-records-related-trumps-crypto-business-probing-2025-04-02/"
+        ]
+      },
+      {
+        "date": "2025-03-13",
+        "title": "Reports surface of Trump family discussions to acquire stake in Binance amid Zhao's pardon efforts",
+        "summary": "Representatives of President Trump's family have reportedly engaged in talks to acquire a financial stake in Binance's U.S. arm. These discussions coincided with efforts by Binance founder Changpeng Zhao to secure a presidential pardon following his guilty plea to anti-money laundering violations.",
+        "tags": [
+          "Donald Trump",
+          "Changpeng Zhao",
+          "Binance",
+          "Pardon",
+          "Conflict of Interest",
+          "Crypto Regulation",
+          "Ongoing"
+        ],
+        "sources": [
+          "https://www.wsj.com/finance/currencies/trump-family-has-held-deal-talks-with-binance-following-crypto-exchanges-guilty-plea-05b029fa",
+          "https://fortune.com/crypto/2025/03/13/binance-cz-denies-trump-investment-pardon-campaign/"
+        ]
+      },
+      {
+          "date": "2025-01-01",
+          "title": "Undated January $1M Dinner with Trump in Washington or Mar-a-Lago",
+          "tags": ["Trump", "MAGA Inc.", "fundraising", "early administration", "ethics", "pattern"],
+          "summary": "A $1 million-per-plate candlelight dinner featuring Trump took place in either Washington or Mar-a-Lago in January 2025. Details remain limited, but the event fits the pattern of high-dollar fundraisers linked to MAGA Inc.",
           "sources": [
-            "https://www.blockhead.co/2025/01/14/inaugural-crypto-ball-for-trump-before-white-house-inauguration/"
+            "https://www.independent.co.uk"
           ]
         },
         {
-          "date": "2025-01-23",
-          "title": "President Trump Signs Executive Order on Digital Assets",
-          "summary": "President Donald Trump signed an executive order titled 'Strengthening American Leadership in Digital Financial Technology,' focusing on promoting U.S. leadership in blockchain, digital assets, and other emerging financial technologies, including cryptocurrency.",
-          "tags": [
-            "Executive Order",
-            "Digital Assets",
-            "Blockchain",
-            "Cryptocurrency",
-            "2025"
-          ],
+          "date": "2025-03-01",
+          "title": "Trump Hosts $1M MAGA Inc. Dinner with Miriam Adelson",
+          "tags": ["Trump", "Mar-a-Lago", "MAGA Inc.", "Miriam Adelson", "fundraising", "elite access", "pattern"],
+          "summary": "A $1 million-per-plate 'Candlelight Dinner' was held at Mar-a-Lago, hosted by MAGA Inc. Casino billionaire Miriam Adelson was among the elite guests. Trump appeared as the event’s featured speaker.",
           "sources": [
-            "https://www.hklaw.com/en/insights/publications/2025/01/president-trump-signs-executive-order-on-digital-assets"
+            "https://www.axios.com"
           ]
         },
         {
-          "date": "2025-03-28",
-          "title": "Kushner's Affinity Partners' Assets Jump to $4.8 Billion After Gulf Cash Injection",
-          "summary": "Jared Kushner's investment company, Affinity Partners, saw its assets under management increase by 60% to $4.8 billion after receiving significant investments from Middle Eastern entities, including Qatar's sovereign wealth fund.",
-          "tags": [
-            "Jared Kushner",
-            "Affinity Partners",
-            "Middle East Investments",
-            "Finance",
-            "2025"
-          ],
+          "date": "2025-03-16",
+          "title": "Elon Musk and Trump Dine at $1M MAGA Inc. Fundraiser",
+          "tags": ["Trump", "Elon Musk", "Mar-a-Lago", "MAGA Inc.", "dark money", "unofficial event", "pattern"],
+          "summary": "Trump and Elon Musk were seen seated together at a $1 million-per-plate MAGA Inc. fundraiser on March 16 at Mar-a-Lago. The event was not listed on Trump's official schedule, raising questions about transparency and influence.",
           "sources": [
-            "https://www.reuters.com/business/finance/kushners-affinitys-assets-jump-48-billion-after-gulf-cash-injection-2025-03-28/"
+            "https://newrepublic.com",
+            "https://www.commondreams.org"
           ]
         },
         {
-          "date": "2025-03-31",
-          "title": "Trump Family Takes Control of Crypto Firm Amid Major Fundraising",
-          "summary": "As World Liberty Financial raised over half a billion dollars, President Donald Trump's family took control of the crypto venture, securing a significant portion of the funds. Governance terms favoring insiders facilitated this consolidation.",
-          "tags": [
-            "Donald Trump",
-            "World Liberty Financial",
-            "Cryptocurrency",
-            "Finance",
-            "2025"
-          ],
+          "date": "2025-03-04",
+          "title": "$5M Private Mar-a-Lago Meetings with Trump Offered to Donors",
+          "tags": ["Trump", "Mar-a-Lago", "fundraising", "pay-to-play", "MAGA Inc.", "private access", "pattern"],
+          "summary": "Reports reveal that one-on-one meetings with Donald Trump at Mar-a-Lago are being offered at $5 million apiece. These 'hot ticket' meetings raise alarm bells about elite access and potential influence peddling in the Trump 2.0 administration.",
           "sources": [
-            "https://www.reuters.com/business/finance/how-trump-family-took-over-crypto-firm-it-raised-hundreds-millions-2025-03-31/"
+            "https://www.the-independent.com/news/world/americas/us-politics/trump-mar-a-lago-fundraiser-b2708972.html",
+            "https://www.wired.com/story/people-paying-millions-donald-trump-mar-a-lago/"
           ]
         },
         {
-          "date": "2025-04-03",
-          "title": "Trump orders global tariffs, markets crash $5T, then sells signed copies at Mar-a-Lago",
-          "summary": "President Trump ordered sweeping global tariffs, triggering a $5 trillion collapse in U.S. markets. The same day, his resort sold signed replicas of the tariff order to supporters for $50, raising concerns about profiting from official acts of government.",
-          "tags": [
-            "Donald Trump",
-            "Tariffs",
-            "Market Crash",
-            "Mar-a-Lago",
-            "Self-Dealing",
-            "Abuse of Office",
-            "Ongoing"
-          ],
-          "sources": [
-            "https://www.nytimes.com/2025/04/05/us/politics/trump-tariffs-market-selloff-merchandise.html"
-          ]
-        },
-        {
-          "date": "2025-04-04",
-          "title": "Trump hosts Saudi-backed LIV Golf tournament at Trump Doral during financial meltdown",
-          "summary": "As a $5 trillion market crash was underway following President Trump's tariff announcement, the Trump family hosted a Saudi sovereign-backed LIV Golf tournament at their Miami Doral resort. Every room was sold out, with prices reaching $13,000 per night. Attendees included Yasir Al-Rumayyan, governor of Saudi Arabia\u2019s sovereign wealth fund and chairman of LIV Golf.",
-          "tags": [
-            "Donald Trump",
-            "Eric Trump",
-            "LIV Golf",
-            "Saudi Arabia",
-            "Conflict of Interest",
-            "Monetization of Office",
-            "Ongoing"
-          ],
-          "sources": [
-            "https://www.nytimes.com/2025/04/05/us/politics/trump-liv-golf-saudi-doral.html"
-          ]
-        },
-        {
-          "date": "2025-04-04",
-          "title": "Trump holds $1M-a-head donor dinner at Mar-a-Lago amid market crash",
-          "summary": "During one of the worst market collapses in U.S. history\u2014sparked by a Trump tariff order\u2014President Trump hosted a $1 million-per-person donor dinner at his private Mar-a-Lago club. Attendees included executives from Lockheed Martin, crypto firms, and energy sectors. Critics cite the monetization of presidential access during economic crisis.",
-          "tags": [
-            "Donald Trump",
-            "Mar-a-Lago",
-            "Campaign Finance",
-            "Donor Access",
-            "Conflict of Interest",
-            "Ongoing"
-          ],
-          "sources": [
-            "https://www.nytimes.com/2025/04/05/us/politics/trump-maralago-donor-dinners.html"
-          ]
-        },
-        {
-          "date": "2025-02-10",
-          "title": "Trump signs executive order pausing FCPA enforcement for 180 days",
-          "summary": "President Trump signed an executive order instructing the Department of Justice to suspend all new investigations and enforcement actions under the Foreign Corrupt Practices Act (FCPA) for 180 days. Critics called it a gift to corporate offenders and a weakening of America\u2019s anti-corruption commitments.",
-          "tags": [
-            "Donald Trump",
-            "Executive Order",
-            "FCPA",
-            "Anti-Corruption",
-            "Abuse of Office",
-            "Ongoing"
-          ],
-          "sources": [
-            "https://www.whitehouse.gov/presidential-actions/2025/02/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security/",
-            "https://www.hklaw.com/en/insights/publications/2025/02/president-trump-issues-executive-order-to-halt-fcpa-enforcement"
-          ]
-        },
-        {
-          "date": "2025-02-12",
-          "title": "DOJ deprioritizes anti-corruption enforcement following Trump order",
-          "summary": "In alignment with Trump's FCPA suspension order, the Department of Justice announced it would shift resources away from corporate corruption investigations, signaling a sweeping rollback in enforcement of anti-bribery laws.",
-          "tags": [
-            "Department of Justice",
-            "Donald Trump",
-            "Anti-Corruption",
-            "Corporate Enforcement",
-            "Ongoing"
-          ],
-          "sources": [
-            "https://www.klgates.com/President-Trump-Orders-FCPA-Freeze-DOJ-Announces-Major-Policy-Realignment-De-Emphasizing-Corporate-Investigations-and-Enforcement-2-12-2025",
-            "https://www.reuters.com/world/us/trumps-justice-department-hits-brakes-anti-corruption-enforcement-2025-02-12/"
-          ]
-        },
-        {
-          "date": "2025-02-17",
-          "title": "Trump dismisses multiple Inspectors General without cause",
-          "summary": "President Trump dismissed multiple Inspectors General from key federal agencies including Defense, State, and Justice, raising concerns about a purge of internal watchdogs during a time of mounting legal scrutiny.",
-          "tags": [
-            "Donald Trump",
-            "Inspectors General",
-            "Watchdog Removal",
-            "Oversight",
-            "Abuse of Power",
-            "Ongoing"
-          ],
-          "sources": [
-            "https://www.propublica.org/article/inspectors-general-fired-trump-2025",
-            "https://oversight.house.gov/news/press-releases/trump-administration-removal-of-inspectors-general-raises-alarm"
-          ]
-        },
-        {
-          "date": "2025-02-21",
-          "title": "Trump appoints ethics official with business conflicts to lead OGE",
-          "summary": "President Trump appointed an individual with documented financial conflicts to lead the Office of Government Ethics. The move was widely criticized as compromising the agency's independence and oversight capabilities.",
-          "tags": [
-            "Donald Trump",
-            "Office of Government Ethics",
-            "Conflicts of Interest",
-            "Oversight",
-            "Ethics",
-            "Ongoing"
-          ],
-          "sources": [
-            "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/evo-media-document/2-21-2025%20GEC%20Letter%20to%20Trump%20re%20OGE%20FINAL.pdf"
-          ]
-        },
-        {
-            "date": "2021-01-11",
-            "title": "Deutsche Bank Cuts Ties with Trump",
-            "summary": "In the wake of the January 6th Capitol riot, Deutsche Bank, one of Donald Trump’s primary lenders, reportedly decided not to do future business with him. At the time, Trump owed Deutsche Bank more than $300 million, much of it tied to properties like Trump Doral and Trump International Hotel in Washington, D.C.",
-            "tags": ["Trump Organization", "Deutsche Bank", "Capitol Riot Fallout"],
+            "date": "2025-01-14",
+            "title": "Crypto Leaders Organize 'Inaugural Crypto Ball' Ahead of Trump's Inauguration",
+            "summary": "Cryptocurrency industry leaders organized the 'Inaugural Crypto Ball' in Washington, D.C., to celebrate President Trump's upcoming inauguration. The event aimed to demonstrate the crypto community's support and featured discussions on integrating digital assets into national economic strategies.",
+            "tags": [
+              "Cryptocurrency",
+              "Donald Trump",
+              "Inauguration",
+              "Crypto Ball",
+              "2025"
+            ],
             "sources": [
-              "https://www.reuters.com/business/deutsche-bank-will-not-do-future-business-with-trump-nyt-2021-01-12/",
-              "https://www.theguardian.com/business/2021/jan/12/deutsche-bank-severs-ties-with-donald-trump"
+              "https://www.blockhead.co/2025/01/14/inaugural-crypto-ball-for-trump-before-white-house-inauguration/"
             ]
           },
           {
-            "date": "2021-01-11",
-            "title": "Signature Bank Closes Trump's Personal Accounts",
-            "summary": "Signature Bank, where Ivanka Trump once served on the board and which held some of Trump’s personal accounts, closed two of his accounts holding about $5.3 million. The bank issued a statement calling for Trump's resignation.",
-            "tags": ["Trump Organization", "Signature Bank", "Capitol Riot Fallout"],
+            "date": "2025-01-23",
+            "title": "President Trump Signs Executive Order on Digital Assets",
+            "summary": "President Donald Trump signed an executive order titled 'Strengthening American Leadership in Digital Financial Technology,' focusing on promoting U.S. leadership in blockchain, digital assets, and other emerging financial technologies, including cryptocurrency.",
+            "tags": [
+              "Executive Order",
+              "Digital Assets",
+              "Blockchain",
+              "Cryptocurrency",
+              "2025"
+            ],
             "sources": [
-              "https://www.bloomberg.com/news/articles/2021-01-12/trump-s-long-favored-banks-pull-back-amid-fallout-from-d-c-riot",
-              "https://nypost.com/2021/01/12/trumps-bankers-cut-ties-call-for-his-resignation/"
+              "https://www.hklaw.com/en/insights/publications/2025/01/president-trump-signs-executive-order-on-digital-assets"
             ]
           },
           {
-            "date": "2021-01-12",
-            "title": "Stripe Drops Trump Campaign Fundraising",
-            "summary": "Stripe announced it would no longer process payments for the Trump campaign’s fundraising website, citing violations of its terms of service related to inciting violence.",
-            "tags": ["Trump Organization", "Stripe", "Campaign Fundraising"],
+            "date": "2025-03-28",
+            "title": "Kushner's Affinity Partners' Assets Jump to $4.8 Billion After Gulf Cash Injection",
+            "summary": "Jared Kushner's investment company, Affinity Partners, saw its assets under management increase by 60% to $4.8 billion after receiving significant investments from Middle Eastern entities, including Qatar's sovereign wealth fund.",
+            "tags": [
+              "Jared Kushner",
+              "Affinity Partners",
+              "Middle East Investments",
+              "Finance",
+              "2025"
+            ],
             "sources": [
-              "https://www.wsj.com/articles/stripe-stops-processing-payments-for-trump-campaign-11610319116",
-              "https://www.cbsnews.com/news/stripe-trump-campaign-payment-processing/"
+              "https://www.reuters.com/business/finance/kushners-affinitys-assets-jump-48-billion-after-gulf-cash-injection-2025-03-28/"
             ]
           },
           {
-            "date": "2021-01-12",
-            "title": "Professional Bank Severs Ties with Trump Organization",
-            "summary": "Florida-based Professional Bank announced it would no longer provide banking services to the Trump Organization, including rejecting previously sought loans, as part of a broader reevaluation of relationships with Trump-affiliated entities.",
-            "tags": ["Trump Organization", "Professional Bank", "Loan Rejection", "Capitol Riot Fallout"],
+            "date": "2025-03-31",
+            "title": "Trump Family Takes Control of Crypto Firm Amid Major Fundraising",
+            "summary": "As World Liberty Financial raised over half a billion dollars, President Donald Trump's family took control of the crypto venture, securing a significant portion of the funds. Governance terms favoring insiders facilitated this consolidation.",
+            "tags": [
+              "Donald Trump",
+              "World Liberty Financial",
+              "Cryptocurrency",
+              "Finance",
+              "2025"
+            ],
             "sources": [
-              "https://www.businessinsider.com/professional-bank-cuts-ties-with-trump-after-us-capitol-siege-2021-1",
-              "https://fortune.com/2021/01/12/professional-bank-lending-services-business-trump-organization/"
+              "https://www.reuters.com/business/finance/how-trump-family-took-over-crypto-firm-it-raised-hundreds-millions-2025-03-31/"
             ]
           },
           {
-            "date": "2021-01-14",
-            "title": "New York City Cancels Trump Contracts",
-            "summary": "New York City announced it would terminate business contracts with the Trump Organization due to its ties to the January 6th insurrection. Affected contracts included operations for the Central Park Carousel and Wollman Rink.",
-            "tags": ["Trump Organization", "New York City", "Contracts Termination", "Capitol Riot Fallout"],
+            "date": "2025-04-03",
+            "title": "Trump orders global tariffs, markets crash $5T, then sells signed copies at Mar-a-Lago",
+            "summary": "President Trump ordered sweeping global tariffs, triggering a $5 trillion collapse in U.S. markets. The same day, his resort sold signed replicas of the tariff order to supporters for $50, raising concerns about profiting from official acts of government.",
+            "tags": [
+              "Donald Trump",
+              "Tariffs",
+              "Market Crash",
+              "Mar-a-Lago",
+              "Self-Dealing",
+              "Abuse of Office",
+              "Ongoing"
+            ],
             "sources": [
-              "https://www.nyc.gov/office-of-the-mayor/news/022-21/mayor-de-blasio-new-york-city-will-cancel-trump-organization-contracts",
-              "https://apnews.com/article/nyc-terminate-trump-contracts-c3ec1eadf286008199074c894de31612"
+              "https://www.nytimes.com/2025/04/05/us/politics/trump-tariffs-market-selloff-merchandise.html"
             ]
           },
           {
-            "date": "2021-03-08",
-            "title": "Capital One to Close 300 Trump Accounts; Lawsuit Filed in 2025",
-            "summary": "Capital One notified the Trump Organization and Eric Trump that it would close over 300 bank accounts associated with them by June 2021. The Trump Organization later filed a lawsuit in 2025 alleging political bias in the closures.",
-            "tags": ["Trump Organization", "Capital One", "Account Closures", "Debanking"],
+            "date": "2025-04-04",
+            "title": "Trump hosts Saudi-backed LIV Golf tournament at Trump Doral during financial meltdown",
+            "summary": "As a $5 trillion market crash was underway following President Trump's tariff announcement, the Trump family hosted a Saudi sovereign-backed LIV Golf tournament at their Miami Doral resort. Every room was sold out, with prices reaching $13,000 per night. Attendees included Yasir Al-Rumayyan, governor of Saudi Arabia\u2019s sovereign wealth fund and chairman of LIV Golf.",
+            "tags": [
+              "Donald Trump",
+              "Eric Trump",
+              "LIV Golf",
+              "Saudi Arabia",
+              "Conflict of Interest",
+              "Monetization of Office",
+              "Ongoing"
+            ],
             "sources": [
-              "https://fortune.com/2025/03/10/trumps-sues-capital-one-bank/",
-              "https://apnews.com/article/trump-bank-lawsuit-florida-28c05cfbf837b258b2018bfa3f02c0c4"
+              "https://www.nytimes.com/2025/04/05/us/politics/trump-liv-golf-saudi-doral.html"
             ]
           },
           {
-            "date": "2021-03-10",
-            "title": "Loan on 40 Wall Street Sparks Refinancing Concerns",
-            "summary": "Trump faced an approaching loan maturity on 40 Wall Street. Lenders reviewed asset valuations and expressed caution about refinancing amid increased scrutiny of Trump’s finances.",
-            "tags": ["Trump Organization", "Loan Maturity", "40 Wall Street", "Refinancing Risk"],
+            "date": "2025-04-04",
+            "title": "Trump holds $1M-a-head donor dinner at Mar-a-Lago amid market crash",
+            "summary": "During one of the worst market collapses in U.S. history\u2014sparked by a Trump tariff order\u2014President Trump hosted a $1 million-per-person donor dinner at his private Mar-a-Lago club. Attendees included executives from Lockheed Martin, crypto firms, and energy sectors. Critics cite the monetization of presidential access during economic crisis.",
+            "tags": [
+              "Donald Trump",
+              "Mar-a-Lago",
+              "Campaign Finance",
+              "Donor Access",
+              "Conflict of Interest",
+              "Ongoing"
+            ],
             "sources": [
-              "https://www.crainsnewyork.com/real-estate/mortgage-trumps-40-wall-street-downgraded-fitch",
-              "https://www.mpamag.com/us/mortgage-industry/industry-trends/former-president-trumps-loan-on-40-wall-st-gets-transferred-to-special-servicer/466449"
+              "https://www.nytimes.com/2025/04/05/us/politics/trump-maralago-donor-dinners.html"
             ]
           },
           {
-            "date": "2021-03-15",
-            "title": "Wells Fargo and Goldman Sachs Reject Trump Loans",
-            "summary": "Wells Fargo, Goldman Sachs, and other banks reportedly refused to participate in new loans for the Trump Organization, citing reputational risks in the aftermath of January 6.",
-            "tags": ["Trump Organization", "Wells Fargo", "Goldman Sachs", "Loan Rejections", "Reputational Risk"],
-            "sources": []
+            "date": "2025-02-10",
+            "title": "Trump signs executive order pausing FCPA enforcement for 180 days",
+            "summary": "President Trump signed an executive order instructing the Department of Justice to suspend all new investigations and enforcement actions under the Foreign Corrupt Practices Act (FCPA) for 180 days. Critics called it a gift to corporate offenders and a weakening of America\u2019s anti-corruption commitments.",
+            "tags": [
+              "Donald Trump",
+              "Executive Order",
+              "FCPA",
+              "Anti-Corruption",
+              "Abuse of Office",
+              "Ongoing"
+            ],
+            "sources": [
+              "https://www.whitehouse.gov/presidential-actions/2025/02/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security/",
+              "https://www.hklaw.com/en/insights/publications/2025/02/president-trump-issues-executive-order-to-halt-fcpa-enforcement"
+            ]
           },
           {
-            "date": "2021-04-05",
-            "title": "PayPal and Square Drop Trump-Linked Businesses",
-            "summary": "PayPal and Square terminated services for businesses associated with the Trump Organization, citing violations of their terms of service involving content that glorifies violence.",
-            "tags": ["Trump Organization", "PayPal", "Square", "Account Terminations", "Terms of Service Violations"],
-            "sources": []
+            "date": "2025-02-12",
+            "title": "DOJ deprioritizes anti-corruption enforcement following Trump order",
+            "summary": "In alignment with Trump's FCPA suspension order, the Department of Justice announced it would shift resources away from corporate corruption investigations, signaling a sweeping rollback in enforcement of anti-bribery laws.",
+            "tags": [
+              "Department of Justice",
+              "Donald Trump",
+              "Anti-Corruption",
+              "Corporate Enforcement",
+              "Ongoing"
+            ],
+            "sources": [
+              "https://www.klgates.com/President-Trump-Orders-FCPA-Freeze-DOJ-Announces-Major-Policy-Realignment-De-Emphasizing-Corporate-Investigations-and-Enforcement-2-12-2025",
+              "https://www.reuters.com/world/us/trumps-justice-department-hits-brakes-anti-corruption-enforcement-2025-02-12/"
+            ]
           },
           {
-              "date": "2021-05-20",
-              "title": "Cushman & Wakefield Ends Relationship with Trump Organization",
-              "summary": "Global real estate firm Cushman & Wakefield announced it would no longer work with the Trump Organization, ending a longstanding partnership involving leasing and property services.",
-              "tags": ["Trump Organization", "Cushman & Wakefield", "Real Estate", "Brokerage Termination"],
+            "date": "2025-02-17",
+            "title": "Trump dismisses multiple Inspectors General without cause",
+            "summary": "President Trump dismissed multiple Inspectors General from key federal agencies including Defense, State, and Justice, raising concerns about a purge of internal watchdogs during a time of mounting legal scrutiny.",
+            "tags": [
+              "Donald Trump",
+              "Inspectors General",
+              "Watchdog Removal",
+              "Oversight",
+              "Abuse of Power",
+              "Ongoing"
+            ],
+            "sources": [
+              "https://www.propublica.org/article/inspectors-general-fired-trump-2025",
+              "https://oversight.house.gov/news/press-releases/trump-administration-removal-of-inspectors-general-raises-alarm"
+            ]
+          },
+          {
+            "date": "2025-02-21",
+            "title": "Trump appoints ethics official with business conflicts to lead OGE",
+            "summary": "President Trump appointed an individual with documented financial conflicts to lead the Office of Government Ethics. The move was widely criticized as compromising the agency's independence and oversight capabilities.",
+            "tags": [
+              "Donald Trump",
+              "Office of Government Ethics",
+              "Conflicts of Interest",
+              "Oversight",
+              "Ethics",
+              "Ongoing"
+            ],
+            "sources": [
+              "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/evo-media-document/2-21-2025%20GEC%20Letter%20to%20Trump%20re%20OGE%20FINAL.pdf"
+            ]
+          },
+          {
+              "date": "2021-01-11",
+              "title": "Deutsche Bank Cuts Ties with Trump",
+              "summary": "In the wake of the January 6th Capitol riot, Deutsche Bank, one of Donald Trump’s primary lenders, reportedly decided not to do future business with him. At the time, Trump owed Deutsche Bank more than $300 million, much of it tied to properties like Trump Doral and Trump International Hotel in Washington, D.C.",
+              "tags": ["Trump Organization", "Deutsche Bank", "Capitol Riot Fallout"],
               "sources": [
-                "https://www.bloomberg.com/news/articles/2021-01-13/real-estate-brokerage-cushman-cuts-ties-with-trump-organization",
-                "https://www.businessinsider.com/cushman-wakefield-cut-ties-donald-trump-organization-tower-40-wall-2021-1"
+                "https://www.reuters.com/business/deutsche-bank-will-not-do-future-business-with-trump-nyt-2021-01-12/",
+                "https://www.theguardian.com/business/2021/jan/12/deutsche-bank-severs-ties-with-donald-trump"
               ]
             },
             {
-              "date": "2021-06-01",
-              "title": "Aon Terminates Insurance Brokerage with Trump Organization",
-              "summary": "Insurance broker Aon PLC ended its relationship with the Trump Organization, discontinuing its services as a provider of risk and insurance solutions.",
-              "tags": ["Trump Organization", "Aon", "Insurance", "Brokerage Termination"],
+              "date": "2021-01-11",
+              "title": "Signature Bank Closes Trump's Personal Accounts",
+              "summary": "Signature Bank, where Ivanka Trump once served on the board and which held some of Trump’s personal accounts, closed two of his accounts holding about $5.3 million. The bank issued a statement calling for Trump's resignation.",
+              "tags": ["Trump Organization", "Signature Bank", "Capitol Riot Fallout"],
               "sources": [
-                "https://www.insurancejournal.com/news/national/2021/01/12/597275.htm",
-                "https://www.bloomberg.com/news/articles/2021-01-13/trump-s-business-suffers-yet-another-defection-this-time-by-aon"
+                "https://www.bloomberg.com/news/articles/2021-01-12/trump-s-long-favored-banks-pull-back-amid-fallout-from-d-c-riot",
+                "https://nypost.com/2021/01/12/trumps-bankers-cut-ties-call-for-his-resignation/"
               ]
             },
             {
-              "date": "2025-01-23",
-              "title": "Trump Accuses Major Banks of Discriminating Against Conservatives",
-              "summary": "At the World Economic Forum in Davos, President Trump accused JPMorgan Chase and Bank of America of denying services to conservatives. Both banks issued statements rejecting the claim, emphasizing they do not close accounts for political reasons and follow extensive regulatory requirements.",
-              "tags": [
-                "Donald Trump",
-                "JPMorgan Chase",
-                "Bank of America",
-                "Financial Institutions",
-                "Political Fallout",
-                "World Economic Forum",
-                "2025"
-              ],
+              "date": "2021-01-12",
+              "title": "Stripe Drops Trump Campaign Fundraising",
+              "summary": "Stripe announced it would no longer process payments for the Trump campaign’s fundraising website, citing violations of its terms of service related to inciting violence.",
+              "tags": ["Trump Organization", "Stripe", "Campaign Fundraising"],
               "sources": [
-                "https://www.investopedia.com/trump-says-jpmorgan-bank-of-america-wont-do-business-with-conservatives-8427871"
+                "https://www.wsj.com/articles/stripe-stops-processing-payments-for-trump-campaign-11610319116",
+                "https://www.cbsnews.com/news/stripe-trump-campaign-payment-processing/"
               ]
             },
             {
-                "date": "2025-02-26",
-                "title": "FAA considers canceling Verizon contract in favor of SpaceX's Starlink",
-                "summary": "The FAA is reportedly close to canceling a $2.4 billion contract with Verizon to upgrade air traffic control systems, potentially awarding the contract to Elon Musk's SpaceX, raising concerns about conflicts of interest.",
-                "tags": ["Elon Musk", "SpaceX", "FAA", "Verizon", "Conflict of Interest"],
-                "sources": [
-                  "https://www.washingtonpost.com/business/2025/02/26/musk-starlink-doge-faa-verizon/",
-                  "https://www.reuters.com/business/media-telecom/usdot-says-verizon-not-moving-fast-enough-24-billion-faa-contract-2025-03-11/"
-                ]
+              "date": "2021-01-12",
+              "title": "Professional Bank Severs Ties with Trump Organization",
+              "summary": "Florida-based Professional Bank announced it would no longer provide banking services to the Trump Organization, including rejecting previously sought loans, as part of a broader reevaluation of relationships with Trump-affiliated entities.",
+              "tags": ["Trump Organization", "Professional Bank", "Loan Rejection", "Capitol Riot Fallout"],
+              "sources": [
+                "https://www.businessinsider.com/professional-bank-cuts-ties-with-trump-after-us-capitol-siege-2021-1",
+                "https://fortune.com/2021/01/12/professional-bank-lending-services-business-trump-organization/"
+              ]
             },
             {
-                "date": "2025-03-31",
-                "title": "SpaceX attempts to block Apple's satellite expansion plans",
-                "summary": "SpaceX has urged U.S. regulators to delay Apple's satellite partner, Globalstar, from expanding its network, citing concerns over spectrum usage and interference, highlighting intensifying competition in satellite communications.",
-                "tags": ["Elon Musk", "SpaceX", "Apple", "Satellite Communications", "Spectrum Interference"],
-                "sources": [
-                  "https://www.wsj.com/tech/apple-elon-musk-satellite-cell-phone-services-ed2d2730",
-                  "https://9to5mac.com/2025/03/31/spacex-trying-to-block-apple-satellite-messaging-expansion-says-wsj/"
-                ]
+              "date": "2021-01-14",
+              "title": "New York City Cancels Trump Contracts",
+              "summary": "New York City announced it would terminate business contracts with the Trump Organization due to its ties to the January 6th insurrection. Affected contracts included operations for the Central Park Carousel and Wollman Rink.",
+              "tags": ["Trump Organization", "New York City", "Contracts Termination", "Capitol Riot Fallout"],
+              "sources": [
+                "https://www.nyc.gov/office-of-the-mayor/news/022-21/mayor-de-blasio-new-york-city-will-cancel-trump-organization-contracts",
+                "https://apnews.com/article/nyc-terminate-trump-contracts-c3ec1eadf286008199074c894de31612"
+              ]
             },
             {
-                "date": "2025-03-11",
-                "title": "President Trump showcases Tesla vehicles at White House event",
-                "summary": "President Trump, alongside Elon Musk, displayed Tesla vehicles, including the Cybertruck, on the White House South Lawn, with Trump expressing intent to purchase a Tesla to support Musk's company amid financial challenges.",
-                "tags": ["Donald Trump", "Elon Musk", "Tesla", "White House", "Campaign Event"],
-                "sources": [
-                  "https://www.npr.org/2025/03/11/nx-s1-5325306/trump-elon-musk-tesla",
-                  "https://www.washingtonpost.com/politics/2025/03/11/trump-musk-tesla-white-house/"
-                ]
+              "date": "2021-03-08",
+              "title": "Capital One to Close 300 Trump Accounts; Lawsuit Filed in 2025",
+              "summary": "Capital One notified the Trump Organization and Eric Trump that it would close over 300 bank accounts associated with them by June 2021. The Trump Organization later filed a lawsuit in 2025 alleging political bias in the closures.",
+              "tags": ["Trump Organization", "Capital One", "Account Closures", "Debanking"],
+              "sources": [
+                "https://fortune.com/2025/03/10/trumps-sues-capital-one-bank/",
+                "https://apnews.com/article/trump-bank-lawsuit-florida-28c05cfbf837b258b2018bfa3f02c0c4"
+              ]
             },
             {
-                "date": "2025-03-12",
-                "title": "Elon Musk plans $100 million donation to Trump's political operation",
-                "summary": "Elon Musk has informed the White House of his intention to donate $100 million to President Trump's political operation, following a White House event showcasing Tesla vehicles.",
-                "tags": ["Elon Musk", "Donald Trump", "Campaign Finance", "Political Donation"],
+              "date": "2021-03-10",
+              "title": "Loan on 40 Wall Street Sparks Refinancing Concerns",
+              "summary": "Trump faced an approaching loan maturity on 40 Wall Street. Lenders reviewed asset valuations and expressed caution about refinancing amid increased scrutiny of Trump’s finances.",
+              "tags": ["Trump Organization", "Loan Maturity", "40 Wall Street", "Refinancing Risk"],
+              "sources": [
+                "https://www.crainsnewyork.com/real-estate/mortgage-trumps-40-wall-street-downgraded-fitch",
+                "https://www.mpamag.com/us/mortgage-industry/industry-trends/former-president-trumps-loan-on-40-wall-st-gets-transferred-to-special-servicer/466449"
+              ]
+            },
+            {
+              "date": "2021-03-15",
+              "title": "Wells Fargo and Goldman Sachs Reject Trump Loans",
+              "summary": "Wells Fargo, Goldman Sachs, and other banks reportedly refused to participate in new loans for the Trump Organization, citing reputational risks in the aftermath of January 6. Deutsche Bank, Trump's longtime lender, had already cut ties in the days around the January 6, 2021 Capitol attack by his supporters, at a time when Trump had hundreds of millions in loans coming due. According to CNN, \"Deutsche Bank, which has loaned the company more than $300 million, said after the January 6, 2021, attack on the US Capitol that it would no longer do any future business with Trump.\" The withdrawal of potential financing came after several major banks, including JPMorgan, Wells Fargo, and Goldman Sachs, had condemned the Capitol violence and paused political donations in response to the events. Following banks' reluctance to provide financing, the Trump Organization eventually turned to alternative lenders like Axos Financial, an internet-only institution, for subsequent loans.",
+              "tags": ["Trump Organization", "Wells Fargo", "Goldman Sachs", "Loan Rejections", "Reputational Risk"],
+              "sources": [
+                "https://www.washingtonpost.com/politics/2023/07/27/trump-loans-axos-bank-gregory-garrabrants/",
+                "https://www.cnn.com/2022/03/10/politics/donald-trump-tower-loan-mortgage/index.html",
+                "https://www.nbcnews.com/politics/donald-trump/trump-organization-used-borrow-major-banks-now-look-lending-money-rcna22068",
+                "https://www.financialadvisoriq.com/c/3018363/371383/bofa_morgan_stanley_others_freeze_donations_after_capitol_violence",
+                "https://www.cnbc.com/2021/01/06/jamie-dimon-other-business-leaders-call-for-trump-to-halt-violence.html"
+              ]
+            },
+            {
+              "date": "2021-04-05",
+              "title": "PayPal and Square Drop Trump-Linked Businesses",
+              "summary": "PayPal and Square terminated services for businesses associated with the Trump Organization and related entities, citing violations of their terms of service involving content that glorifies violence. These actions came in the aftermath of the January 6, 2021 Capitol riot, as part of a broader move by payment processors to enforce policies against inciting violence. According to NBC News, \"Stripe, PayPal and Square said that they had stopped providing services to individuals and organizations connected to the riot as part of a sweeping enforcement of policies against inciting violence.\" These payment companies' moves were part of a significant financial fallout for Trump-linked businesses, which also included Shopify taking the Trump Organization and Trump campaign stores offline.",
+              "tags": ["Trump Organization", "PayPal", "Square", "Account Terminations", "Terms of Service Violations"],
+              "sources": [
+                "https://www.nbcnews.com/business/business-news/too-little-too-late-extremism-experts-criticize-payment-companies-n1253982",
+                "https://www.retailtouchpoints.com/features/news-briefs/reports-shopify-stripe-and-paypal-drop-trump-sites-support-in-wake-of-capitol-riot",
+                "https://www.cnbc.com/2021/01/12/stripe-and-paypal-halt-payments-for-trumps-campaign-and-supporters-capitol-riots-shopify-fintech.html",
+                "https://thehill.com/policy/technology/533580-payment-processor-stripe-cuts-ties-with-trump-campaign/",
+                "https://www.bloomberg.com/news/articles/2021-01-11/paypal-blocks-website-that-helped-send-protesters-to-capitol"
+              ]
+            },
+            {
+                "date": "2021-05-20",
+                "title": "Cushman & Wakefield Ends Relationship with Trump Organization",
+                "summary": "Global real estate firm Cushman & Wakefield announced it would no longer work with the Trump Organization, ending a longstanding partnership involving leasing and property services.",
+                "tags": ["Trump Organization", "Cushman & Wakefield", "Real Estate", "Brokerage Termination"],
                 "sources": [
-                  "https://www.axios.com/2025/03/12/musk-trump-100-million-donation-political-operation",
-                  "https://www.carscoops.com/2025/03/musk-signals-desire-to-donate-100m-to-trump-right-after-president-says-hes-buying-a-tesla/"
+                  "https://www.bloomberg.com/news/articles/2021-01-13/real-estate-brokerage-cushman-cuts-ties-with-trump-organization",
+                  "https://www.businessinsider.com/cushman-wakefield-cut-ties-donald-trump-organization-tower-40-wall-2021-1"
                 ]
               },
               {
-                "date": "2025-02-27",
-                "title": "Elon Musk's Department of Government Efficiency targets federal agencies",
-                "summary": "Under Elon Musk's leadership, the Department of Government Efficiency has initiated significant cuts and restructuring in various federal agencies, including the SEC and CFPB, raising concerns about regulatory oversight.",
-                "tags": ["Elon Musk", "Department of Government Efficiency", "SEC", "CFPB", "Regulatory Capture"],
+                "date": "2021-06-01",
+                "title": "Aon Terminates Insurance Brokerage with Trump Organization",
+                "summary": "Insurance broker Aon PLC ended its relationship with the Trump Organization, discontinuing its services as a provider of risk and insurance solutions.",
+                "tags": ["Trump Organization", "Aon", "Insurance", "Brokerage Termination"],
                 "sources": [
-                  "https://www.theguardian.com/us-news/2025/feb/27/elon-musk-conflicts-of-interest",
-                  "https://www.latimes.com/business/story/2025-03-27/elon-musk-trump-doge-conflicts-of-interest"
+                  "https://www.insurancejournal.com/news/national/2021/01/12/597275.htm",
+                  "https://www.bloomberg.com/news/articles/2021-01-13/trump-s-business-suffers-yet-another-defection-this-time-by-aon"
                 ]
               },
               {
-                "date": "2025-03-31",
-                "title": "Elon Musk's financial incentives in Wisconsin Supreme Court election raise legal questions",
-                "summary": "Elon Musk's offer of $1 million checks to Wisconsin voters ahead of a pivotal state Supreme Court election has prompted legal scrutiny and debates over potential vote-buying.",
-                "tags": ["Elon Musk", "Wisconsin", "Election Interference", "Vote Buying", "SuperPACs"],
-                "sources": [
-                  "https://www.theguardian.com/technology/2025/mar/31/elon-musk-1-million-dollar-checks-wisconsin-voters-supreme-court-election",
-                  "https://apnews.com/article/b272e6af6c18ff5b73cd100ecec275b7"
-                ]
-              },
-              {
-                "date": "2025-01-17",
-                "title": "Trump Launches $TRUMP Meme Coin with Massive Insider Allocation",
-                "summary": "Donald Trump introduced the $TRUMP meme coin on the Solana blockchain, publicly releasing 200 million tokens while retaining 800 million through insider entities like CIC Digital LLC and Fight Fight Fight LLC. While its value initially surged, the self-enrichment potential drew ethics concerns due to Trump\u2019s dual role as promoter and policymaker.",
+                "date": "2025-01-23",
+                "title": "Trump Accuses Major Banks of Discriminating Against Conservatives",
+                "summary": "At the World Economic Forum in Davos, President Trump accused JPMorgan Chase and Bank of America of denying services to conservatives. Both banks issued statements rejecting the claim, emphasizing they do not close accounts for political reasons and follow extensive regulatory requirements.",
                 "tags": [
                   "Donald Trump",
-                  "Crypto",
-                  "$TRUMP Coin",
-                  "Conflict of Interest",
-                  "Self-Dealing",
-                  "Solana"
+                  "JPMorgan Chase",
+                  "Bank of America",
+                  "Financial Institutions",
+                  "Political Fallout",
+                  "World Economic Forum",
+                  "2025"
                 ],
                 "sources": [
-                  "https://en.wikipedia.org/wiki/%24Trump"
+                  "https://www.investopedia.com/trump-says-jpmorgan-bank-of-america-wont-do-business-with-conservatives-8427871"
                 ]
               },
               {
-                "date": "2025-01-29",
-                "title": "Meta Pays Trump $25 Million to Settle Lawsuit Over January 6 Ban",
-                "summary": "Meta paid Donald Trump $25 million to resolve a lawsuit related to his bans from Facebook and Instagram after the January 6 Capitol attack. The undisclosed settlement raised eyebrows, especially as Trump ramps up election-year fundraising and claims of tech censorship.",
-                "tags": [
-                  "Donald Trump",
-                  "Meta",
-                  "Facebook",
-                  "Settlement",
-                  "January 6",
-                  "Deplatforming",
-                  "Tech Regulation"
-                ],
-                "sources": [
-                  "https://www.npr.org/2025/01/29/nx-s1-5279570/meta-trump-settlement-facebook-instagram-suspensions"
-                ]
+                  "date": "2025-02-26",
+                  "title": "FAA considers canceling Verizon contract in favor of SpaceX's Starlink",
+                  "summary": "The FAA is reportedly close to canceling a $2.4 billion contract with Verizon to upgrade air traffic control systems, potentially awarding the contract to Elon Musk's SpaceX, raising concerns about conflicts of interest.",
+                  "tags": ["Elon Musk", "SpaceX", "FAA", "Verizon", "Conflict of Interest"],
+                  "sources": [
+                    "https://www.washingtonpost.com/business/2025/02/26/musk-starlink-doge-faa-verizon/",
+                    "https://www.reuters.com/business/media-telecom/usdot-says-verizon-not-moving-fast-enough-24-billion-faa-contract-2025-03-11/"
+                  ]
               },
               {
-                "date": "2025-01-29",
-                "title": "Trump Media Launches Truth.Fi to Invest in Crypto and Fintech",
-                "summary": "Trump Media & Technology Group announced Truth.Fi, a new platform for investing in cryptocurrency, digital assets, and fintech ventures. The $250 million initiative further aligns Trump\u2019s media empire with the crypto sector amid traditional financing shutouts.",
-                "tags": [
-                  "Donald Trump",
-                  "Trump Media",
-                  "Crypto",
-                  "Fintech",
-                  "Truth.Fi",
-                  "Alternative Finance"
-                ],
-                "sources": [
-                  "https://www.theguardian.com/us-news/2025/jan/29/trump-media-crypto"
-                ]
+                  "date": "2025-03-31",
+                  "title": "SpaceX attempts to block Apple's satellite expansion plans",
+                  "summary": "SpaceX has urged U.S. regulators to delay Apple's satellite partner, Globalstar, from expanding its network, citing concerns over spectrum usage and interference, highlighting intensifying competition in satellite communications.",
+                  "tags": ["Elon Musk", "SpaceX", "Apple", "Satellite Communications", "Spectrum Interference"],
+                  "sources": [
+                    "https://www.wsj.com/tech/apple-elon-musk-satellite-cell-phone-services-ed2d2730",
+                    "https://9to5mac.com/2025/03/31/spacex-trying-to-block-apple-satellite-messaging-expansion-says-wsj/"
+                  ]
               },
               {
-                "date": "2025-03-06",
-                "title": "Trump Creates Strategic Bitcoin Reserve and Digital Asset Stockpile",
-                "summary": "Through executive order, Trump established a Strategic Bitcoin Reserve and a U.S. Digital Asset Stockpile using seized cryptocurrency holdings. Supporters say it strengthens financial sovereignty, but critics see it as laying groundwork for politicized crypto patronage.",
-                "tags": [
-                  "Donald Trump",
-                  "Bitcoin",
-                  "Crypto",
-                  "Strategic Reserve",
-                  "Digital Asset Policy",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile"
-                ]
+                  "date": "2025-03-11",
+                  "title": "President Trump showcases Tesla vehicles at White House event",
+                  "summary": "President Trump, alongside Elon Musk, displayed Tesla vehicles, including the Cybertruck, on the White House South Lawn, with Trump expressing intent to purchase a Tesla to support Musk's company amid financial challenges.",
+                  "tags": ["Donald Trump", "Elon Musk", "Tesla", "White House", "Campaign Event"],
+                  "sources": [
+                    "https://www.npr.org/2025/03/11/nx-s1-5325306/trump-elon-musk-tesla",
+                    "https://www.washingtonpost.com/politics/2025/03/11/trump-musk-tesla-white-house/"
+                  ]
               },
               {
-                "date": "2025-03-31",
-                "title": "Trump Family Seizes Control of World Liberty Financial",
-                "summary": "The Trump family took over crypto firm World Liberty Financial, which raised more than $500 million. Governance documents show a lopsided structure favoring insiders, raising concerns about transparency and misuse of investor funds.",
-                "tags": [
-                  "Donald Trump",
-                  "Crypto",
-                  "World Liberty Financial",
-                  "Conflict of Interest",
-                  "Family Enrichment",
-                  "Self-Dealing"
-                ],
-                "sources": [
-                  "https://www.reuters.com/business/finance/how-trump-family-took-over-crypto-firm-it-raised-hundreds-millions-2025-03-31"
-                ]
-              },
-              {
-                "date": "2025-04-10",
-                "title": "Trump Signs Bill Nullifying IRS Rule on Crypto Broker Reporting",
-                "summary": "President Trump overturned an IRS rule requiring decentralized crypto exchanges to report user data for tax purposes. Crypto industry groups celebrated the deregulation, but critics warned it enables tax evasion and shields illicit flows.",
-                "tags": [
-                  "Donald Trump",
-                  "IRS",
-                  "Crypto",
-                  "DeFi",
-                  "Tax Policy",
-                  "Regulatory Rollback"
-                ],
-                "sources": [
-                  "https://www.reuters.com/world/us/trump-signs-bill-nullify-expanded-irs-crypto-broker-rule-2025-04-11"
-                ]
-              },
-              {
-                "date": "2025-04-15",
-                "title": "Trump Donors Set to Benefit from Greenland Mining and Crypto Projects",
-                "summary": "Major donors to Trump, including investors in rare earths and crypto-linked ventures, are positioned to benefit from the administration\u2019s pursuit of Greenland acquisition. Projects include mining, data centers, and tokenized real estate.",
-                "tags": [
-                  "Donald Trump",
-                  "Crypto",
-                  "Greenland",
-                  "Rare Earths",
-                  "Donor Enrichment",
-                  "Resource Extraction"
-                ],
-                "sources": [
-                  "https://www.theguardian.com/us-news/2025/apr/15/trump-greenland-donors-investors-finance"
-                ]
-              },
-              {
-                "date": "2025-04-20",
-                "title": "Musk attends closed-door Fed meeting discussing XCoin\u2019s regulatory path",
-                "summary": "Leaked attendee logs revealed Elon Musk\u2019s participation in a closed-door meeting with Federal Reserve and Treasury Department officials, where XCoin\u2019s regulatory designation was discussed ahead of a rule change favoring its classification.",
-                "tags": [
-                  "Elon Musk",
-                  "Crypto",
-                  "XCoin",
-                  "Regulatory Capture",
-                  "Tech Regulation",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.bloomberg.com/news/articles/2025-04-20/musk-fed-xcoin-regulatory-path"
-                ]
-              },
-              {
-                "date": "2023-05-12",
-                "title": "Foreign governments continued to funnel money into Trump properties during campaign ramp-up",
-                "summary": "CREW uncovered that government-linked entities from China, India, and Turkey made substantial payments to Trump-owned properties during the 2023 pre-campaign period, raising significant concerns about ongoing influence buying.",
-                "tags": [
-                  "Foreign Influence",
-                  "Donald Trump",
-                  "Trump Organization",
-                  "Emoluments",
-                  "China",
-                  "Turkey",
-                  "India",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-properties-foreign-government-spending-2023/"
-                ]
-              },
-              {
-                "date": "2024-03-10",
-                "title": "Truth Social launches crypto-based donor incentives tied to Trump campaign",
-                "summary": "Truth Social began offering digital tokens exchangeable for campaign perks, creating an unregulated donor incentive system that blurs campaign finance boundaries.",
-                "tags": [
-                  "Campaign Finance Violations",
-                  "Donald Trump",
-                  "Truth Social",
-                  "Tech Regulation",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.wsj.com/articles/truth-social-trump-token-campaign-finance-crypto-2024"
-                ]
-              },
-              {
-                "date": "2025-04-10",
-                "title": "Trump administration executive order reverses federal DEI mandates, immediately benefiting SpaceX compliance position",
-                "summary": "An executive order signed by Trump rolled back DEI compliance requirements for federal contractors. Analysts noted this move directly eased legal pressure on SpaceX\u2019s ongoing labor and contracting reviews.",
-                "tags": [
-                  "Donald Trump",
-                  "Elon Musk",
-                  "Executive Order",
-                  "DEI",
-                  "Military Contracts",
-                  "Insider Access",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.reuters.com/legal/trump-dei-order-spacex-compliance-2025/"
-                ]
-              },
-              {
-                "date": "2025-04-12",
-                "title": "Trump family real estate ventures receive $110M in capital from Gulf-backed private equity fund",
-                "summary": "Filings revealed that Trump family real estate LLCs received over $110 million in new investment from a UAE- and Saudi-linked fund with ties to Trump-era diplomacy. No disclosures were made on beneficial ownership.",
-                "tags": [
-                  "Donald Trump",
-                  "Eric Trump",
-                  "Ivanka Trump",
-                  "Jared Kushner",
-                  "Foreign Influence",
-                  "Real Estate Conflicts",
-                  "UAE",
-                  "Saudi Arabia",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.propublica.org/article/trump-family-real-estate-middle-east-investment-2025"
-                ]
-              },
-              {
-                "date": "2025-04-14",
-                "title": "White House ad buy program shifts to favor Elon Musk\u2019s X platform over traditional outlets",
-                "summary": "A new federal advertising initiative directed disproportionate spending to Elon Musk\u2019s X platform, bypassing longstanding contracts with major national media outlets and raising concerns of politically motivated favoritism.",
-                "tags": [
-                  "Donald Trump",
-                  "Elon Musk",
-                  "Tech Regulation",
-                  "X",
-                  "Federal Spending",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.wsj.com/politics/white-house-ad-buys-shift-to-musk-x-2025"
-                ]
-              },
-              {
-                "date": "2025-04-16",
-                "title": "SpaceX\u2019s Starshield program granted expanded DoD authorization with no public bid",
-                "summary": "New reporting shows that Musk\u2019s Starshield satellite surveillance program received a quiet expansion of Pentagon authorizations without competitive bidding, bypassing standard federal procurement oversight.",
-                "tags": [
-                  "Elon Musk",
-                  "Military Contracts",
-                  "Donald Trump",
-                  "Procurement",
-                  "SpaceX",
-                  "National Security",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.defenseone.com/business/2025/04/starshield-pentagon-trump-musk-bid/404412/"
-                ]
-              },
-              {
-                "date": "2025-04-18",
-                "title": "Trump campaign launches crypto-backed gift cards for donation bundling",
-                "summary": "The Trump campaign debuted a system of prepaid donation gift cards tied to crypto wallets, enabling supporters to transfer campaign contributions in an indirect manner that skirts donor disclosure thresholds.",
-                "tags": [
-                  "Donald Trump",
-                  "Campaign Finance Violations",
-                  "Crypto",
-                  "Disclosure Loopholes",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-campaign-crypto-giftcards/"
-                ]
-              },
-              {
-                "date": "2025-04-20",
-                "title": "Musk attends closed-door Fed meeting discussing XCoin\u2019s regulatory path",
-                "summary": "Leaked attendee logs revealed Elon Musk\u2019s participation in a closed-door meeting with Federal Reserve and Treasury Department officials, where XCoin\u2019s regulatory designation was discussed ahead of a rule change favoring its classification.",
-                "tags": [
-                  "Elon Musk",
-                  "Crypto",
-                  "XCoin",
-                  "Regulatory Capture",
-                  "Tech Regulation",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.bloomberg.com/news/articles/2025-04-20/musk-fed-xcoin-regulatory-path"
-                ]
-              },
-              {
-                "date": "2025-04-22",
-                "title": "Trump Hotel Group signs new licensing deal as Saudi airspace concession announced",
-                "summary": "On the same day the Trump administration finalized a bilateral agreement expanding Saudi airspace access for U.S. defense contractors, the Trump Hotel Group announced a new licensing deal in Riyadh.",
-                "tags": [
-                  "Donald Trump",
-                  "Trump Organization",
-                  "Foreign Influence",
-                  "Saudi Arabia",
-                  "Self-Dealing",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.nytimes.com/2025/04/22/world/middleeast/trump-saudi-airspace-hotel.html"
-                ]
-              },
-              {
-                "date": "2025-04-24",
-                "title": "Kushner-backed firm wins UAE contract to provide blockchain custody for state-linked assets",
-                "summary": "Jared Kushner\u2019s firm Affinity Partners won a UAE sovereign contract to manage digital asset custody systems. The deal followed months of undisclosed travel and off-the-books meetings.",
-                "tags": [
-                  "Jared Kushner",
-                  "UAE",
-                  "Blockchain",
-                  "Foreign Influence",
-                  "Post-Office Profiteering",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.ft.com/content/2025-04-24-kushner-uae-digital-assets-blockchain-custody"
-                ]
-              },
-              {
-                "date": "2025-04-25",
-                "title": "Trump and Musk unveil 'Bilateral Space Initiative' with zero competitive bidding",
-                "summary": "The White House announced a U.S.\u2013UAE joint space initiative led by Elon Musk\u2019s SpaceX under an exclusive contract. Critics noted the lack of competitive bidding and the program\u2019s vague oversight structure.",
-                "tags": [
-                  "Elon Musk",
-                  "Donald Trump",
-                  "SpaceX",
-                  "Military Contracts",
-                  "Foreign Policy",
-                  "UAE",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.defenseone.com/space/2025/04/trump-musk-bilateral-space-no-bid-contract/404501/"
-                ]
-              },
-              {
-                "date": "2025-04-26",
-                "title": "Trump Media affiliate receives expedited FCC broadcast license approval",
-                "summary": "A Trump Media affiliate operating under the Truth Social banner received FCC approval for a regional broadcast license weeks after Trump met privately with senior telecom officials. Watchdogs cite preferential treatment.",
-                "tags": [
-                  "Donald Trump",
-                  "Truth Social",
-                  "FCC",
-                  "Media Influence",
-                  "Insider Access",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.npr.org/2025/04/26/truth-social-fcc-license-trump-influence"
-                ]
-              },
-              {
-                "date": "2025-04-27",
-                "title": "X Pay awarded pilot program for USPS digital payment integration",
-                "summary": "Elon Musk\u2019s X Pay platform was selected for a federal pilot program enabling USPS digital payments, raising concerns about fair competition and political favoritism after Musk\u2019s appearance with Trump at a postal reform summit.",
-                "tags": [
-                  "Elon Musk",
-                  "X",
-                  "Digital Payments",
-                  "Federal Contracts",
-                  "USPS",
-                  "Donald Trump",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.washingtonpost.com/business/2025/04/27/xpay-postal-contract-trump/"
-                ]
-              },
-              {
-                "date": "2025-04-29",
-                "title": "TruthToken holders granted proxy vote privileges on campaign policy priorities",
-                "summary": "Trump\u2019s campaign enabled top-tier TruthToken holders to cast preference votes on policy positions, creating a pay-to-participate system that bypasses formal party platforms and traditional voter engagement.",
-                "tags": [
-                  "Donald Trump",
-                  "Crypto",
-                  "Campaign Finance Violations",
-                  "Truth Social",
-                  "Tokenized Access",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.citizensforethics.org/reports-investigations/crew-investigations/truthsocial-token-policy-vote-2025/"
-                ]
-              },
-              {
-                "date": "2025-04-30",
-                "title": "Trump and Musk announce joint U.S.\u2013UAE commercial space mining venture",
-                "summary": "At a Mar-a-Lago event, Trump and Musk jointly unveiled a U.S.\u2013UAE space mining initiative with exclusive SpaceX access. The project circumvents existing international agreements and raises concerns of privatized foreign-aligned extraction deals.",
-                "tags": [
-                  "Donald Trump",
-                  "Elon Musk",
-                  "Foreign Policy",
-                  "SpaceX",
-                  "UAE",
-                  "Resource Extraction",
-                  "Ongoing"
-                ],
-                "sources": [
-                  "https://www.reuters.com/technology/trump-musk-space-mining-uae-2025/"
-                ]
-              }        
-            ]
-
-        
-        
+                  "date": "2025-03-12",
+                  "title": "Elon Musk plans $100 million donation to Trump's political operation",
+                  "summary": "Elon Musk has informed the White House of his intention to donate $100 million to President Trump's political operation, following a White House event showcasing Tesla vehicles.",
+                  "tags": ["Elon Musk", "Donald Trump", "Campaign Finance", "Political Donation"],
+                  "sources": [
+                    "https://www.axios.com/2025/03/12/musk-trump-100-million-donation-political-operation",
+                    "https://www.carscoops.com/2025/03/musk-signals-desire-to-donate-100m-to-trump-right-after-president-says-hes-buying-a-tesla/"
+                  ]
+                },
+                {
+                  "date": "2025-02-27",
+                  "title": "Elon Musk's Department of Government Efficiency targets federal agencies",
+                  "summary": "Under Elon Musk's leadership, the Department of Government Efficiency has initiated significant cuts and restructuring in various federal agencies, including the SEC and CFPB, raising concerns about regulatory oversight.",
+                  "tags": ["Elon Musk", "Department of Government Efficiency", "SEC", "CFPB", "Regulatory Capture"],
+                  "sources": [
+                    "https://www.theguardian.com/us-news/2025/feb/27/elon-musk-conflicts-of-interest",
+                    "https://www.latimes.com/business/story/2025-03-27/elon-musk-trump-doge-conflicts-of-interest"
+                  ]
+                },
+                {
+                  "date": "2025-03-31",
+                  "title": "Elon Musk's financial incentives in Wisconsin Supreme Court election raise legal questions",
+                  "summary": "Elon Musk's offer of $1 million checks to Wisconsin voters ahead of a pivotal state Supreme Court election has prompted legal scrutiny and debates over potential vote-buying.",
+                  "tags": ["Elon Musk", "Wisconsin", "Election Interference", "Vote Buying", "SuperPACs"],
+                  "sources": [
+                    "https://www.theguardian.com/technology/2025/mar/31/elon-musk-1-million-dollar-checks-wisconsin-voters-supreme-court-election",
+                    "https://apnews.com/article/b272e6af6c18ff5b73cd100ecec275b7"
+                  ]
+                },
+                {
+                  "date": "2025-01-17",
+                  "title": "Trump Launches $TRUMP Meme Coin with Massive Insider Allocation",
+                  "summary": "Donald Trump introduced the $TRUMP meme coin on the Solana blockchain, releasing 200 million tokens publicly while retaining 800 million tokens (80% of the supply) through insider entities like CIC Digital LLC and Fight Fight Fight LLC. The coin initially surged over 300% after its launch, reaching a market cap of approximately $13 billion within days, before falling by about 50% after Trump's inauguration. Ethics experts widely condemned the venture, with former Obama administration ethics advisor Norman Eisen calling it potentially \"the single worst conflict of interest in the modern history of the presidency.\" Critics raised concerns about the potential for foreign influence and corruption, as anyone could anonymously purchase tokens and potentially curry favor with the president, along with the conflict of interest arising from Trump's role in regulating the crypto industry while personally profiting from it.",
+                  "tags": [
+                    "Donald Trump",
+                    "Crypto",
+                    "$TRUMP Coin",
+                    "Conflict of Interest",
+                    "Self-Dealing",
+                    "Solana"
+                  ],
+                  "sources": [
+                    "https://en.wikipedia.org/wiki/$Trump",
+                    "https://www.reuters.com/world/us/trumps-new-crypto-coin-sparks-ethics-concerns-2025-01-20/",
+                    "https://www.washingtonpost.com/politics/2025/01/19/trump-meme-coin-crypto/",
+                    "https://money.usnews.com/investing/cryptocurrency/articles/trump-crypto-coin-controversy-what-are-meme-coins",
+                    "https://www.cnn.com/2025/01/21/investing/meme-coin-trump-crypto-nightcap/index.html",
+                    "https://www.rollingstone.com/politics/political-commentary/trump-crypto-meme-coins-wrong-1235246237/",
+                    "https://www.banking.senate.gov/newsroom/minority/warren-auchincloss-investigate-trump-meme-coins-raise-concerns-about-consumer-ripoffs-foreign-influence-peddling-conflicts-of-interest"
+                  ]
+                },
+                {
+                  "date": "2025-01-29",
+                  "title": "Trump Media Launches Truth.Fi to Invest in Crypto and Fintech",
+                  "summary": "Trump Media & Technology Group announced Truth.Fi, a new platform for investing in cryptocurrency, digital assets, and fintech ventures. The $250 million initiative further aligns Trump\u2019s media empire with the crypto sector amid traditional financing shutouts.",
+                  "tags": [
+                    "Donald Trump",
+                    "Trump Media",
+                    "Crypto",
+                    "Fintech",
+                    "Truth.Fi",
+                    "Alternative Finance"
+                  ],
+                  "sources": [
+                    "https://www.theguardian.com/us-news/2025/jan/29/trump-media-crypto"
+                  ]
+                },
+                {
+                  "date": "2025-01-29",
+                  "title": "Meta Pays Trump $25 Million to Settle Lawsuit Over January 6 Ban",
+                  "summary": "Meta agreed to pay Donald Trump $25 million to settle his 2021 lawsuit alleging First Amendment violations related to his Facebook and Instagram account suspensions following the January 6 Capitol attack. The settlement, first reported by The Wall Street Journal, allocates $22 million toward Trump's presidential library with the remainder covering legal fees and co-plaintiffs. Critics, including Senator Elizabeth Warren, characterized the payment as \"a bribe and a signal to every company that corruption is the name of the game.\" The settlement came after Zuckerberg visited Trump at Mar-a-Lago in November 2024, where Trump reportedly indicated that resolving the litigation was necessary for Zuckerberg to be \"brought into the tent.\" This agreement follows Meta's other actions seen as appeasing the Trump administration, including donating $1 million to his inauguration, ending its U.S. fact-checking program, and appointing Trump ally Dana White to its board of directors.",
+                  "tags": [
+                    "Donald Trump",
+                    "Meta",
+                    "Facebook",
+                    "Settlement",
+                    "January 6",
+                    "Deplatforming",
+                    "Tech Regulation"
+                  ],
+                  "sources": [
+                    "https://www.npr.org/2025/01/29/nx-s1-5279570/meta-trump-settlement-facebook-instagram-suspensions",
+                    "https://variety.com/2025/digital/news/meta-trump-lawsuit-25-million-settle-facebook-instagram-ban-1236290290/",
+                    "https://www.axios.com/2025/01/29/trump-meta-facebook-instagram-settlement",
+                    "https://www.bbc.com/news/articles/c79d74nppvpo",
+                    "https://www.cbsnews.com/news/meta-trump-25-million-lawsuit-settlement/",
+                    "https://www.nbcnews.com/tech/tech-news/meta-agrees-pay-25-million-settle-trump-lawsuit-rcna189918",
+                    "https://www.reuters.com/legal/meta-pay-25-million-settle-trumps-2021-lawsuit-over-suspended-accounts-2025-01-30/",
+                    "https://www.washingtonpost.com/technology/2025/01/29/meta-trump-lawsuit-settlement-censorship/"
+                  ]
+                },
+                {
+                  "date": "2025-03-06",
+                  "title": "Trump Creates Strategic Bitcoin Reserve and Digital Asset Stockpile",
+                  "summary": "Through executive order, Trump established a Strategic Bitcoin Reserve and a U.S. Digital Asset Stockpile using seized cryptocurrency holdings. Supporters say it strengthens financial sovereignty, but critics see it as laying groundwork for politicized crypto patronage.",
+                  "tags": [
+                    "Donald Trump",
+                    "Bitcoin",
+                    "Crypto",
+                    "Strategic Reserve",
+                    "Digital Asset Policy",
+                    "Ongoing"
+                  ],
+                  "sources": [
+                    "https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile"
+                  ]
+                },
+                {
+                  "date": "2025-03-31",
+                  "title": "Trump Family Seizes Control of World Liberty Financial",
+                  "summary": "The Trump family took over World Liberty Financial, a crypto venture that raised $550 million, with governance documents revealing the family gained a 60% stake in the parent entity and entitlement to 75% of token sale revenues. According to Reuters analysis, after the founders' cut, only 5% of funds raised would remain to build the platform. Ethics experts raised significant concerns, with former banking regulator Ross Delston warning it could serve as \"the perfect vehicle\" for foreign entities \"to funnel money to the president,\" while academics like Georgetown's Jim Angel and Marquette's David Krause criticized the governance structure as \"unusually centralized\" and excluding public investors from meaningful participation.",
+                  "tags": [
+                    "Donald Trump",
+                    "Crypto",
+                    "World Liberty Financial",
+                    "Conflict of Interest",
+                    "Family Enrichment",
+                    "Self-Dealing"
+                  ],
+                  "sources": [
+                    "https://www.reuters.com/business/finance/how-trump-family-took-over-world-liberty-financial-it-raised-hundreds-millions-2025-03-31/",
+                    "https://www.reuters.com/technology/trump-connection-why-some-bought-world-liberty-financial-tokens-2025-01-23/",
+                    "https://invezz.com/news/2025/04/01/trump-familys-crypto-fortune-a-400m-takeover-of-world-liberty/",
+                    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062987",
+                    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4986696",
+                    "https://m.economictimes.com/news/international/us/world-liberty-financial-crypto-venture-how-the-trump-family-took-control-amassed-millions-and-ignited-decentralization-controversy/amp_articleshow/119814911.cms",
+                    "https://blogs.law.ox.ac.uk/oblb/blog-post/2024/12/risks-trump-backed-wlfi-governance-token"
+                  ]
+                },
+                {
+                  "date": "2025-04-10",
+                  "title": "Trump Signs Bill Nullifying IRS Rule on Crypto Broker Reporting",
+                  "summary": "President Trump signed legislation overturning an IRS rule that would have required decentralized cryptocurrency exchanges (DeFi platforms) to report user transaction data for tax purposes. The rule, finalized in the last weeks of the Biden administration, was nullified through the Congressional Review Act after bipartisan votes in Congress. Supporters of the repeal, including Rep. Mike Carey who introduced the bill, celebrated it as a win for innovation, claiming the requirements were technically unworkable for decentralized platforms. However, critics warned the move could facilitate tax evasion, with some describing it as potentially turning the United States into \"a destination of choice for those looking to evade taxes\" and warning it could enable illicit financial flows while reducing market transparency.",
+                  "tags": [
+                    "Donald Trump",
+                    "IRS",
+                    "Crypto",
+                    "DeFi",
+                    "Tax Policy",
+                    "Regulatory Rollback"
+                  ],
+                  "sources": [
+                    "https://www.reuters.com/world/us/trump-signs-bill-nullify-expanded-irs-crypto-broker-rule-2025-04-11/",
+                    "https://www.coindesk.com/policy/2025/04/07/president-trump-signs-resolution-erasing-irs-crypto-rule-targeting-defi",
+                    "https://waysandmeans.house.gov/2025/04/10/president-trump-signs-ways-means-resolution-overturning-biden-administrations-burdensome-irs-defi-broker-rule/",
+                    "https://carey.house.gov/2025/04/10/carey-bill-to-eliminate-burdensome-irs-defi-crypto-broker-rule-signed-into-law-by-president-trump/",
+                    "https://cointelegraph.com/news/trump-signs-resolution-killing-irs-defi-broker-rule",
+                    "https://www.onesafe.io/blog/future-of-crypto-repeal-irs-defi-broker-rule",
+                    "https://slate.com/technology/2025/04/crypto-news-congress-united-states-tax-cheating-defi-broker-rule.html",
+                    "https://www.bloomberg.com/news/articles/2025-04-11/trump-signs-bill-blocking-irs-crypto-tax-rule-biden-pushed"
+                  ]
+                },
+                {
+                  "date": "2025-04-15",
+                  "title": "Trump Donors Set to Benefit from Greenland Mining and Crypto Projects",
+                  "summary": "Major donors to Trump, including tech billionaires and crypto executives who contributed millions to his campaign and inauguration, are positioned to benefit from the administration's pursuit of Greenland acquisition. Silicon Valley investors are promoting Greenland as a site for a libertarian 'freedom city' with minimal regulation, while mining companies backed by tech figures like Mark Zuckerberg, OpenAI's Sam Altman, and Jeff Bezos through KoBold Metals are pursuing the island's rare earth minerals essential for AI and technology development. Peter Thiel, a significant Trump donor, has backed ventures like Praxis and Pronomos Capital that aim to establish crypto-focused communities in Greenland, with Ken Howery, a Thiel associate, named as Trump's ambassador to Denmark to lead acquisition negotiations.",
+                  "tags": [
+                    "Donald Trump",
+                    "Crypto",
+                    "Greenland",
+                    "Rare Earths",
+                    "Donor Enrichment",
+                    "Resource Extraction"
+                  ],
+                  "sources": [
+                    "https://www.theguardian.com/us-news/2025/apr/15/trump-greenland-donors-investors-finance",
+                    "https://www.reuters.com/world/europe/greenland-freedom-city-rich-donors-push-trump-tech-hub-up-north-2025-04-10/",
+                    "https://www.independent.co.uk/news/world/americas/us-politics/greenland-trump-tech-moguls-donations-b2734045.html",
+                    "https://www.cnbc.com/2025/01/14/greenland-critical-minerals-are-big-part-of-donald-trumps-fixation.html",
+                    "https://jacobin.com/2025/01/trump-greenland-tech-billionaires-mining",
+                    "https://gizmodo.com/trumps-greenland-obsession-may-be-about-extracting-metals-for-tech-billionaires-2000557117",
+                    "https://gizmodo.com/peter-thiel-backed-startup-that-wanted-to-buy-greenland-is-thrilled-that-trump-wants-to-buy-greenland-2000548415",
+                    "https://theintercept.com/2025/03/07/white-house-crypto-summit-trump-donors/",
+                    "https://www.reuters.com/business/finance/how-trump-family-took-over-crypto-firm-it-raised-hundreds-millions-2025-03-31/"
+                  ]
+                }    
+              ]
+  
+          
+          
+      
+      
+    
     
     
   
-  
-  
-
-    
-   
+      
+     
