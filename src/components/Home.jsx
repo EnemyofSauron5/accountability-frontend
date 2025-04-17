@@ -22,7 +22,7 @@ const Home = () => {
     : entries;
 
   return (
-    <div className="home-container max-w-6xl mx-auto px-4 py-6">
+    <div className="home-container max-w-6xl mx-auto px-4 pt-0 pb-6">
       {/* Add a wrapper div with fixed height around the activeTag display */}
       <div className="activeTag-display h-8 text-center text-gray-400">
         {activeTag && (

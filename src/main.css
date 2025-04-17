@@ -19,7 +19,7 @@ body {
   header {
     border-bottom: 2px solid #c00;
     padding-bottom: 1rem;
-    margin-bottom: 2rem;
+    margin-bottom: 2rem; /* Return to original value of 2rem */
   }
   
   header h1 {
@@ -50,4 +50,7 @@ body {
     text-decoration: none;
     border-radius: 4px;
   }
-  
+  /* Add this to your CSS file */
+.home-container {
+  padding-top: 0.75rem; /* Reduce this from 1.5rem to create balance */
+}

@@ -1,189 +1,146 @@
-# 🧠 Accountability Archive — Tag Management Cheat Sheet
+Here's an updated README file that reflects our adopted protocols:
 
-This document explains how to maintain and update the tag system across the archive, including rewriting, pruning, and auditing tags.
+# 🧠 Accountability Archive — Tag Management System
+
+This document explains how to maintain and update the tag system for the archive, focusing on our consolidated approach for tag organization.
 
 ---
 
-## 📁 Folder Structure
-
-Your relevant files should live in:
+## 📁 Key Files
 
 ```
 accountability-frontend/
 ├── public/
 │   └── Entries/
-│       └── index.json         # Master entry data
+│       └── index.json         # Master entry data with all articles and tags
 ├── src/
 │   └── data/
-│       └── tag-index.json     # Category-organized tag list (optional)
+│       └── tag-index.json     # Category-organized tag index
 ├── scripts/
-│   ├── tagMap.js              # Dictionary of tag rewrites
-│   ├── rewriteTags.js         # Automates tag consolidation
-│   ├── pruneTags.js           # Removes unused tags from tag-index.json
-│   └── auditTags.js           # Shows all tags and usage counts
+│   ├── tagMap.js              # Tag consolidation mapping definitions
+│   ├── rewriteTags.js         # Script to apply tag consolidations
+│   ├── pruneTags.js           # Updates tag-index.json to match entries
+│   └── auditTags.js           # Analyzes and reports on tag usage
 ```
 
 ---
----
 
-## 🧹 Rare Tag Management Workflow
+## 🔄 Tag Management Workflow
 
-Use this workflow when you want to evaluate and clean up infrequently used tags.
+Our tag management follows a three-step process of audit, consolidate, and prune.
 
 ### 📊 Step 1: Audit Tags
+
 ```bash
 node scripts/auditTags.js
 ```
 
-This prints every tag and how many times it’s used.
-- Rare tags (only 1 use) are marked with `🔸 Rare`
+This generates a complete report of all tags and their usage count, highlighting rare tags (used only once) with a 🔸 marker.
 
 ---
 
-### ✏️ Step 2: Manual Review
+### 🔀 Step 2: Consolidate Tags
 
-Decide whether each rare tag:
-- Should be merged (use `tagMap.js`)
-- Should be deleted (edit `index.json`)
-- Should be kept (it's just rare for now)
+After reviewing the audit, update the tag mapping file to define consolidations:
+
+1. Edit `tagMap.js` to define tag mappings:
+   ```javascript
+   // scripts/tagMap.js
+   module.exports = {
+     // Group related tags
+     "pay-to-play": "Pay-to-Play",
+     "Donor Access": "Pay-to-Play",
+     "Cryptocurrency": "Crypto",
+     "Bitcoin": "Crypto", 
+     "Mar-a-Lago": "Trump Residences",
+     // ... more mappings
+   };
+   ```
+
+2. Apply the mappings:
+   ```bash
+   node scripts/rewriteTags.js
+   ```
+
+This will update all entries in `index.json` with the new consolidated tags.
 
 ---
 
-### 🧾 Step 3: Apply Changes
+### 🧹 Step 3: Prune Tag Index
 
-- For merges:
-  - Update `tagMap.js`
-  - Run:
-    ```bash
-    node scripts/rewriteTags.js
-    ```
-- For deletions:
-  - Edit `public/Entries/index.json` directly
-  - Remove unwanted tags from any affected entries
-
----
-
-### 🧹 Step 4: Prune Tag Index
-After rewrites or deletions:
 ```bash
 node scripts/pruneTags.js
 ```
 
-This updates `tag-index.json` to match your entries exactly.
+This synchronizes `tag-index.json` with the actual tags used in your entries, removing any tags that are no longer used after consolidation.
 
 ---
 
-✅ This hybrid approach gives you:
-- Human curation
-- Machine precision
-- Long-term consistency
+## 📋 Consolidation Strategy
 
-Want to know more about each step? Dive in below.
+When consolidating tags, follow these principles:
 
-## 🔁 1. Rewrite Tags (`rewriteTags.js`)
+1. **Group by Narrative Arc**: 
+   - Corruption/Quid Pro Quo
+   - Conflicts of Interest
+   - Financial Dealings
+   - Trump Business Empire
+   - Musk Companies
 
-Use this script to merge, rename, or consolidate tags based on mapping logic defined in `tagMap.js`.
+2. **Standardize Similar Concepts**:
+   - Merge variant spellings and forms (e.g., "fundraising" → "Fundraising")
+   - Consolidate closely related concepts (e.g., "Account Terminations" → "Account Closures")
 
-### Example `tagMap.js`:
-```js
-module.exports = {
-  "Crypto Ball": "Crypto",
-  "Donald Trump Jr.": "Trump Family",
-  "Eric Trump": "Trump Family",
-  "Self-Dealing": "Monetization of Office",
-  "Foreign Governments": "Foreign Influence"
-};
-```
+3. **Create Logical Categories**:
+   - Group locations (e.g., "Trump Residences")
+   - Group organizations (e.g., "Banking Relationships")
+   - Group related activities (e.g., "Influence Peddling")
 
-### To Run:
+---
+
+## 🛠 Common Tasks
+
+### Adding New Mappings
+
+1. Edit `tagMap.js`
+2. Run `node scripts/rewriteTags.js`
+3. Run `node scripts/pruneTags.js`
+4. Verify with `node scripts/auditTags.js`
+
+### Manually Removing Tags
+
+If you need to remove specific tags entirely rather than merging them:
+
+1. Edit the entries directly in `public/Entries/index.json`
+2. Run `node scripts/pruneTags.js` to update the tag index
+
+### Complete Refresh
+
+To apply all current mappings and clean up the tag system:
+
 ```bash
 node scripts/rewriteTags.js
-```
-
-- Set `dryRun = true` in the script to preview changes
-- Set `dryRun = false` to apply rewrites directly to `index.json`
-
----
-
-## 🧹 2. Prune Unused Tags (`pruneTags.js`)
-
-Removes any tag from `tag-index.json` that is no longer used by any entry.
-
-### To Run:
-```bash
 node scripts/pruneTags.js
-```
-
-You should run this after:
-- Adding/removing entries
-- Merging tags via `rewriteTags.js`
-- Manually editing `index.json`
-
----
-
-## 📊 3. Audit Tag Usage (`auditTags.js`)
-
-Prints a report of all current tags in use, alphabetically, with how many entries each appears in.
-
-### To Run:
-```bash
 node scripts/auditTags.js
 ```
 
-### Output Example:
-```
-📊 Tag Usage Report
--------------------
-Crypto                        — 14
-Crypto Ball                   — 1 🔸 Rare
-Donald Trump                  — 24
-Donald Trump Jr.              — 1 🔸 Rare
-...
+---
 
-✅ Audit complete. Consider merging rare tags with tagMap.js if appropriate.
-```
+## 🧠 Best Practices
 
-Use this to identify:
-- Redundant or duplicate tags
-- One-off typos or inconsistencies
-- Candidates for consolidation
+- **Commit Before Changes**: Always `git add . && git commit` before running tag scripts
+- **Iterative Approach**: Make tag consolidations in logical batches rather than all at once
+- **Maintain Records**: Document major tag consolidation decisions
+- **Regular Audits**: Run the audit script periodically to identify new opportunities for consolidation
 
 ---
 
-## 🛠 Suggested Workflow
+## ✅ Results
 
-```bash
-# 1. Run the audit to identify potential problems
-node scripts/auditTags.js
+Our tag management system allows for:
+- Consistent narrative arcs
+- Reduced tag sprawl
+- Intuitive grouping of related concepts
+- Scalable organization as the archive grows
 
-# 2. Edit tagMap.js to define any rewrites or merges
-# 3. Preview what will change
-node scripts/rewriteTags.js   # dryRun = true
-
-# 4. Apply changes
-# (Edit rewriteTags.js to set dryRun = false)
-node scripts/rewriteTags.js
-
-# 5. Prune unused tags from tag-index.json
-node scripts/pruneTags.js
-```
-
----
-
-## 🧠 Tips
-
-- You do **not** need to maintain `tag-index.json` manually—let the scripts handle it.
-- You **can** continue to add entries manually to `public/Entries/index.json`.
-- Always `git add . && git commit` before running tag-rewriting or pruning—just in case.
-
----
-
-## 🚀 You Now Have:
-
-- 🔁 Rewrite automation (`rewriteTags.js`)
-- 🧹 Pruning logic (`pruneTags.js`)
-- 📊 Audit and insight (`auditTags.js`)
-- 🧾 Human-readable `tagMap.js`
-- 🧠 A system that remembers what you want it to do
-
-Let the archive scale—your tag infrastructure is futureproof.
+This approach balances human curation with automated consistency to create a robust, maintainable tagging system.
