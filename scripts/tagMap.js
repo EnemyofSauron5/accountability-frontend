@@ -1,33 +1,24 @@
 // scripts/tagMap.js
 module.exports = {
-  // Corruption/Quid Pro Quo Arc
+  // Existing mappings
   "pay-to-play": "Pay-to-Play",
-  "Donor Access": "Pay-to-Play", 
+  "Donor Access": "Pay-to-Play",
   "elite access": "Pay-to-Play",
   "private access": "Pay-to-Play",
   "Abuse of Power": "Abuse of Office",
   "Monetization of Office": "Self-Dealing",
-  
-  // Conflicts of Interest Arc
-  "Conflicts of Interest": "Conflict of Interest",
   "Family Enrichment": "Self-Dealing",
-  
-  // Finance/Alternative Financing Arc
   "Cryptocurrency": "Crypto",
-  "Bitcoin": "Crypto", 
+  "Bitcoin": "Crypto",
   "$TRUMP Coin": "Crypto",
   "Stablecoin": "Crypto",
   "DeFi": "Crypto",
   "Crypto Ball": "Crypto",
   "Truth.Fi": "World Liberty Financial",
-  
-  // Trump Business Empire
   "Trump Media": "Trump Organization",
   "Truth Social": "Trump Organization",
   "Trump": "Donald Trump",
   "Eric Trump": "Trump Family",
-  
-  // Financial Institution Tags
   "Deutsche Bank": "Banking Relationships",
   "Wells Fargo": "Banking Relationships",
   "Goldman Sachs": "Banking Relationships", 
@@ -39,51 +30,110 @@ module.exports = {
   "PayPal": "Payment Services",
   "Stripe": "Payment Services",
   "Square": "Payment Services",
-  
-  // Event-Based Tags
   "January 6": "Capitol Riot Fallout",
   "Campaign Finance Violations": "Campaign Finance",
   "Campaign Fundraising": "Fundraising",
   "fundraising": "Fundraising",
   "dark money": "Campaign Finance",
   "SuperPACs": "Campaign Finance",
-  
-  // Oversight/Regulation
   "Watchdog Removal": "Oversight Interference",
   "Inspectors General": "Oversight Interference",
   "Oversight": "Oversight Interference",
-  
-  // Financial Markets
   "Market Crash": "Financial Markets",
   "Refinancing Risk": "Financial Markets",
   "Reputational Risk": "Financial Markets",
   "Finance": "Financial Markets",
   "Financial Institutions": "Financial Markets",
-  
-  // Influence & Access
   "Pardon": "Influence Peddling",
   "Political Donation": "Influence Peddling",
   "Political Fallout": "Influence Peddling",
-  
-  // Tech & Media
   "Tech Regulation": "Tech Platforms",
   "Facebook": "Tech Platforms",
   "Meta": "Tech Platforms",
-  
-  // Properties & Venues
   "Mar-a-Lago": "Trump Residences",
   "White House": "Trump Residences",
-  
-  // Musk Companies
   "SpaceX": "Musk Companies",
   "Tesla": "Musk Companies",
-  
-  // Account Related
   "Account Terminations": "Account Closures",
-  
-  // Loan Related
   "Loan Rejection": "Loan Rejections",
+  "ethics": "Ethics",
   
-  // Standardize capitalization
-  "ethics": "Ethics"
+  // New consolidations
+  // Trump Organization consolidation
+  "Trump Family": "Trump Organization",
+  "Trump Residences": "Trump Organization",
+  "40 Wall Street": "Trump Organization",
+  
+  // Immigration enforcement consolidation
+  "Cruel and unusual punishment": "Rights Violations",
+  "Excessive force": "Rights Violations",
+  "Warrantless raids": "Due Process Violations",
+  "Mass deportations": "Deportations",
+  "Wrongful deportation": "Deportations",
+  
+  // Financial/Business consolidation
+  "Economic Policy": "Financial Markets",
+  "Self-Dealing": "Conflicts of Interest",
+  "Personal Enrichment": "Conflicts of Interest",
+  "Conflict of Interest": "Conflicts of Interest",
+  "Pay-to-Play": "Campaign Finance",
+  "Fundraising": "Campaign Finance",
+  
+  // Crypto consolidation
+  "Crypto Regulation": "Crypto",
+  "Memecoins": "Crypto",
+  "Blockchain": "Crypto",
+  "Digital Assets": "Crypto",
+  "Digital Asset Policy": "Crypto",
+  "Fintech": "Financial Markets",
+  "USD1": "Crypto",
+  "Solana": "Crypto",
+  "Strategic Reserve": "Crypto",
+
+  // Regulatory consolidation
+  "Regulatory Capture": "Regulatory Rollback",
+  "Regulatory Evasion": "Regulatory Rollback",
+  
+  // Musk-related consolidation
+  "DOGE": "Musk Companies",
+  
+  // Other consolidations
+  "Abuse of Office": "Oversight Interference",
+  "Falsification of Records": "Oversight Interference",
+  "Corporate Accountability": "Oversight Interference",
+  "Office of Government Ethics": "Ethics",
+  "Terms of Service Violations": "Tech Platforms",
+  "Platform Moderation": "Tech Platforms",
+  "Deplatforming": "Tech Platforms",
+  "Settlement": "Legal Challenges",
+  "Investor Protection": "Financial Markets",
+  "Alternative Finance": "Financial Markets",
+  "Account Closures": "Banking Relationships",
+  "Loan Maturity": "Banking Relationships",
+  "Brokerage Termination": "Banking Relationships",
+  "Debanking": "Banking Relationships",
+  "Insurance": "Financial Markets",
+  "Real Estate": "Financial Markets",
+  "Spectrum Interference": "Satellite Communications",
+  "Surveillance": "Data Privacy",
+  "Middle East Investments": "Foreign Influence",
+  "Corporate Enforcement": "Anti-Corruption",
+  "Misinformation": "Free Speech",
+  "Contracts Termination": "Business Relationships",
+  "New York City": "New York",
+  "unofficial event": "Campaign Event",
+  "early administration": "Trump Administration",
+  "pattern": "Ongoing",
+  "STABLE Act": "Crypto",
+  "Donor Enrichment": "Conflicts of Interest",
+  "Resource Extraction": "Conflicts of Interest",
+  "Election Interference": "Vote Buying",
+  "Tren de Aragua": "Alien Enemies Act",
+  "Political Merchandise": "Merchandising",
+  "Religion and Politics": "Merchandising",
+  "Trade Policy": "Tariffs",
+  "Global Economy": "Financial Markets",
+  "Bible Sales": "Merchandising",
+  "Payment Services": "Financial Markets",
+  "World Economic Forum": "Foreign Influence"
 };

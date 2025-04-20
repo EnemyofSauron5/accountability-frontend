@@ -1,15 +1,11 @@
 {
   "type": [
-    "Self-Dealing",
     "Emoluments",
     "Foreign Influence"
   ],
   "actors": [
     "Donald Trump",
     "Jared Kushner"
-  ],
-  "domains": [
-    "Real Estate"
   ],
   "geography": [
     "US",
