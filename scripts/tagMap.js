@@ -32,6 +32,7 @@ module.exports = {
   "Square": "Payment Services",
   "January 6": "Capitol Riot Fallout",
   "Capitol Riot": "Capitol Riot Fallout",
+  "Trump Campaign": "Capitol Riot Fallout",
   "Campaign Finance Violations": "Campaign Finance",
   "Campaign Fundraising": "Fundraising",
   "fundraising": "Fundraising",
@@ -107,6 +108,8 @@ module.exports = {
   "Platform Moderation": "Tech Platforms",
   "Deplatforming": "Tech Platforms",
   "Settlement": "Legal Challenges",
+  "legal challenges": "Legal Challenges",
+  "Legal challenges": "Legal Challenges",
   "Investor Protection": "Financial Markets",
   "Alternative Finance": "Financial Markets",
   "Account Closures": "Banking Relationships",
@@ -120,6 +123,7 @@ module.exports = {
   "Middle East Investments": "Foreign Influence",
   "Corporate Enforcement": "Anti-Corruption",
   "Misinformation": "Free Speech",
+  "Free speech": "Free Speech",
   "Contracts Termination": "Business Relationships",
   "New York City": "New York",
   "unofficial event": "Campaign Event",
@@ -132,9 +136,10 @@ module.exports = {
   "Tren de Aragua": "Alien Enemies Act",
   "Political Merchandise": "Merchandising",
   "Religion and Politics": "Merchandising",
+  "Merchandising": "MAGA Inc.",
+  "Bible Sales": "MAGA Inc.",
   "Trade Policy": "Tariffs",
   "Global Economy": "Financial Markets",
-  "Bible Sales": "Merchandising",
   "Payment Services": "Financial Markets",
-  "World Economic Forum": "World Economic Forum"  // Changed to be its own category
+  "World Economic Forum": "World Economic Forum"
 };
