@@ -31,6 +31,7 @@ module.exports = {
   "Stripe": "Payment Services",
   "Square": "Payment Services",
   "January 6": "Capitol Riot Fallout",
+  "Capitol Riot": "Capitol Riot Fallout",
   "Campaign Finance Violations": "Campaign Finance",
   "Campaign Fundraising": "Fundraising",
   "fundraising": "Fundraising",
@@ -135,5 +136,5 @@ module.exports = {
   "Global Economy": "Financial Markets",
   "Bible Sales": "Merchandising",
   "Payment Services": "Financial Markets",
-  "World Economic Forum": "Foreign Influence"
+  "World Economic Forum": "World Economic Forum"  // Changed to be its own category
 };

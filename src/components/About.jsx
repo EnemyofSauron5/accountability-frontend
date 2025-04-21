@@ -7,7 +7,7 @@ function About() {
 
       <p className="mb-4">
         <strong>Built by:</strong> <em>Atlas</em> & <em>WhatWouldJesusSay</em><br/>
-        <strong>With gratitude to:</strong> ChatGPT-4.5 (OpenAI), Claude (Anthropic), Gemini (Google), PerplexityAI
+        <strong>With gratitude to:</strong> ChatGPT-4.5 (OpenAI), Claude (Anthropic), Gemini (Google), PerplexityAI & <em>WhatWouldAbrahamSay</em><br/>
       </p>
 
       <p className="mb-4">
