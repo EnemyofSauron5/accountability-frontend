@@ -1809,5 +1809,618 @@
         "https://abcnews.go.com/US/2nd-signal-chat-reveals-hegseth-messaging-yemen-strikes/story?id=120997685",
         "https://www.reuters.com/world/us/trump-stands-behind-hegseth-after-attack-plans-shared-second-signal-chat-white-2025-04-21/"
       ]
-    }
-  ]
+    },
+    {
+        "date": "2025-04-11",
+        "title": "Trump Administration Freezes $2.2 Billion in Grants to Harvard Over Antisemitism Pretext",
+        "summary": "The Trump administration announced it would freeze $2.2 billion in awarded grants and a $60 million federal contract to Harvard University unless it ceded control over admissions and intellectual content to the government. In response, Harvard filed suit, claiming a violation of the First Amendment and accusing the administration of abusing antisemitism concerns to justify overreach. University president Alan Garber warned the freeze would jeopardize life-saving medical and technological research across fields from cancer to battlefield trauma.",
+        "tags": [
+          "Oversight Interference",
+          "Trump Administration",
+          "Donald Trump",
+          "Academic Freedom",
+          "US",
+          "Ongoing"
+        ],
+        "sources": [
+          "https://www.washingtonpost.com/education/2025/04/21/harvard-sues-trump-administration-funding-antisemitism/",
+          "https://www.harvard.edu/president/news/2025/upholding-our-values-defending-our-university/",
+          "https://www.harvard.edu/research-funding/wp-content/uploads/sites/16/2025/04/Harvard-Funding-Freeze-Order-Complaint.pdf"
+        ]
+      },
+      {
+        "date": "2025-04-15",
+        "title": "DOGE Whistleblower Alleges State-Level Cyber Breach and Data Theft at NLRB",
+        "summary": "An NPR investigation revealed that DOGE operatives embedded at the National Labor Relations Board engaged in conduct consistent with a state-sponsored cyberattack. They demanded privileged access, turned off system monitoring tools, manually deleted their tracks, and triggered a data exfiltration spike. An IP address from Russia attempted to log in using new DOGE credentials. The whistleblower reporting the breach received threats, and cybersecurity experts warn the breach resembles tactics used in hostile nation-state operations.",
+        "tags": [
+          "Musk Companies",
+          "Data Privacy",
+          "Oversight Interference",
+          "Trump Administration",
+          "Cybersecurity",
+          "US",
+          "Ongoing"
+        ],
+        "sources": [
+          "https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security",
+          "https://oversightdemocrats.house.gov/news/press-releases/bombshell-reporting-whistleblower-disclosure-lead-ranking-member-connolly"
+        ]
+      },
+      {
+        "date": "2025-04-19",
+        "title": "Judge Halts DOGE Plan to Lay Off 90% of CFPB Staff",
+        "summary": "A federal judge issued an emergency order blocking the Trump administration and DOGE from proceeding with plans to terminate over 1,400 employees—90% of the Consumer Financial Protection Bureau. The layoffs, managed by DOGE operative Gavin Kliger, bypassed proper procedures and prompted litigation from the National Treasury Employees Union. The case reflects DOGE’s wider assault on federal watchdog agencies and financial regulators.",
+        "tags": [
+          "Oversight Interference",
+          "Musk Companies",
+          "Trump Administration",
+          "Donald Trump",
+          "Ongoing",
+          "US"
+        ],
+        "sources": [
+          "https://www.wired.com/story/judge-blocks-doge-from-laying-off-90-percent-of-cfpb/",
+          "https://www.politico.com/news/2025/04/21/trump-hegseth-leadership-00301052"
+        ]
+      },
+      {
+        "date": "2025-04-21",
+        "title": "ACLU Sues Government Over DOGE’s Secret Access to Sensitive Databases",
+        "summary": "The ACLU filed a federal lawsuit against the SSA and the Department of Veterans Affairs, alleging violations of the Freedom of Information Act. The suit demands access to records documenting DOGE’s attempts to access sensitive government databases containing Social Security numbers, bank accounts, and health information. The ACLU cites urgent public interest, ongoing misuse of AI, and disregard for the Privacy Act. Agencies failed to comply with lawful appeals or provide transparency on DOGE's activities.",
+        "tags": [
+          "Data Privacy",
+          "Musk Companies",
+          "Trump Administration",
+          "FOIA",
+          "Oversight Interference",
+          "Ongoing",
+          "US"
+        ],
+        "sources": [
+          "https://www.wired.com/story/aclu-lawsuit-doge-foia-veterans-social-security/"
+        ]
+      },
+      {
+        "date": "2025-04-18",
+        "title": "DOGE Granted Access to Sensitive Labor Department Data on Migrant Workers",
+        "summary": "DOGE operatives embedded at the Department of Labor were given access to sensitive systems containing data on farmworkers, visa applicants, and formerly incarcerated individuals. This includes Social Security numbers, alien registration data, and work history, typically protected under strict privacy rules. The data access was granted following the firing of the DOL's inspector general. Sources warned that these datasets could be cross-referenced to build criminality narratives around immigrants for enforcement or political gain.",
+        "tags": [
+          "Data Privacy",
+          "Musk Companies",
+          "Immigration",
+          "Oversight Interference",
+          "Trump Administration",
+          "US",
+          "Ongoing"
+        ],
+        "sources": [
+          "https://www.wired.com/story/doge-access-labor-department-data-immigrants-farm-workers/"
+        ]
+      },
+      {
+        "date": "2025-03-15",
+        "title": "Venezuelan Immigrant Disappears After Deportation Flight Ordered by Trump Admin",
+        "summary": "Ricardo Prada Vásquez, a Venezuelan immigrant, vanished following his forced removal from the U.S. under a Trump administration deportation operation. Though ICE confirmed he was deported, his name does not appear on the official El Salvador flight manifests, and he cannot be located in any system. Legal scholars say the incident, amid mass deportations using wartime authority, reflects a breakdown of due process and accountability. A federal judge has ruled these deportations illegal, but enforcement continues.",
+        "tags": [
+          "Deportations",
+          "Due Process Violations",
+          "Trump Administration",
+          "Immigration",
+          "Rights Violations",
+          "US",
+          "Ongoing"
+        ],
+        "sources": [
+          "https://www.nytimes.com/2025/04/22/us/immigrant-deportation-disappearance-trump.html"
+        ]
+      },
+      {
+        "date": "2025-03-20",
+        "title": "Trump Executive Order Mandates All Federal Agencies Consolidate Records",
+        "summary": "On March 20, President Trump signed an executive order directing all federal agencies to consolidate and share unclassified records both internally and across agencies. The order provides legal cover for DOGE’s data centralization efforts, including its controversial merging of immigration, tax, biometric, and voting records. DOGE officials and administration allies have characterized the move as a step toward 'Apple-like' digital services, but privacy experts warn it opens the door to unprecedented government surveillance.",
+        "tags": [
+          "Oversight Interference",
+          "Data Privacy",
+          "Trump Administration",
+          "Donald Trump",
+          "Musk Companies",
+          "Ongoing",
+          "US"
+        ],
+        "sources": [
+          "https://www.wired.com/story/plaintext-trump-executive-order-information-silos-privacy/",
+          "https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-eliminates-information-silos-to-stop-waste-fraud-and-abuse-60f3/"
+        ]
+      },
+      {
+        "date": "2025-04-05",
+        "title": "ICE Pays Palantir $30 Million to Build ‘ImmigrationOS’ Surveillance System",
+        "summary": "ICE has contracted Palantir to develop a new surveillance system dubbed 'ImmigrationOS,' which would provide near real-time data on undocumented immigrants. The system is expected to integrate with the broader infrastructure DOGE is building across DHS and the IRS, further expanding the administration's ability to geolocate and track migrants. The $30 million initiative overlaps with DOGE's mega API project, which seeks to create a unified interface to query tax and immigration records simultaneously.",
+        "tags": [
+          "Musk Companies",
+          "Deportations",
+          "Data Privacy",
+          "Immigration",
+          "Oversight Interference",
+          "Trump Administration",
+          "Donald Trump",
+          "Ongoing",
+          "US"
+        ],
+        "sources": [
+          "https://www.wired.com/story/ice-palantir-immigrationos/",
+          "https://www.businessinsider.com/ice-palantir-new-technology-30-million-visa-overstays-self-deportation-2025-4"
+        ]
+      },
+      {
+          "date": "2025-04-15",
+          "title": "DOGE and Palantir Develop 'Mega API' for IRS Data Access",
+          "summary": "DOGE operatives are partnering with Palantir to build a 'mega API' for the IRS, using its Foundry platform to organize taxpayer data and link it with other federal databases. The project aims to centralize access to sensitive tax records, including names, addresses, income, and Social Security numbers. Experts warn that once completed, anyone with access to the system could query, monitor, or even alter IRS data across agencies, potentially using AI to target individuals.",
+          "tags": [
+            "Data Privacy",
+            "Musk Companies",
+            "IRS",
+            "Palantir",
+            "Trump Administration",
+            "Ongoing",
+            "US"
+          ],
+          "sources": [
+            "https://www.wired.com/story/doge-is-planning-a-hackathon-at-the-irs-it-wants-easier-access-to-taxpayer-data/",
+            "https://www.wired.com/story/doge-is-just-getting-warmed-up/"
+          ]
+        },
+        {
+          "date": "2025-04-09",
+          "title": "IRS Commissioner Resigns Over ICE Data Sharing Agreement",
+          "summary": "Acting IRS Commissioner Melanie Krause resigned after the agency signed a memorandum of understanding with ICE, allowing the tax agency to share data on individuals under criminal investigation. Critics warn the MOU could be abused to target immigrants and political opponents, despite longstanding norms that protect tax data privacy under the Tax Reform Act of 1976.",
+          "tags": [
+            "IRS",
+            "Data Privacy",
+            "Immigration",
+            "Oversight Interference",
+            "Trump Administration",
+            "Ongoing"
+          ],
+          "sources": [
+            "https://www.washingtonpost.com/national/2025/04/09/irs-ice-data-sharing-immigrants/",
+            "https://apnews.com/article/irs-ice-immigration-data-sharing-2025-krause-resignation"
+          ]
+        },
+        {
+          "date": "2025-02-06",
+          "title": "DOGE Halts USAID Payments via Treasury System Override",
+          "summary": "DOGE operatives with administrator access to the Treasury’s Bureau of Fiscal Service unilaterally halted USAID disbursements in February. Acting on internal clearance granted by Treasury Secretary Bessent, DOGE officials reviewed and suspended foreign aid payments, raising alarms over improper politicization of federal funding streams.",
+          "tags": [
+            "Treasury",
+            "Foreign Aid",
+            "Oversight Interference",
+            "Musk Companies",
+            "Trump Administration",
+            "Ongoing"
+          ],
+          "sources": [
+            "https://www.propublica.org/article/doge-usaid-payments-halted-elon-musk",
+            "https://www.washingtonpost.com/politics/2025/04/06/usaid-funding-doge-treasury/"
+          ]
+        },
+        {
+          "date": "2025-04-18",
+          "title": "DOGE Illegally Marks 6,300 Immigrants as Deceased in SSA Files",
+          "summary": "Despite a court order barring DOGE access to the SSA's Death Master File, DOGE staff sent a list of 6,300 immigrants to be falsely designated as dead—cutting them off from financial services and work eligibility. The targets were mostly legal immigrants on humanitarian parole, and internal sources confirmed no criminal or terrorist ties were required for inclusion.",
+          "tags": [
+            "SSA",
+            "Data Privacy",
+            "Immigration Policy",
+            "Oversight Interference",
+            "Musk Companies",
+            "Trump Administration",
+            "Ongoing"
+          ],
+          "sources": [
+            "https://www.nytimes.com/2025/04/18/us/politics/immigrants-dead-social-security-doge.html",
+            "https://www.washingtonpost.com/national/2025/04/18/ssa-false-death-doge-order-violation/"
+          ]
+        },
+        {
+          "date": "2025-04-15",
+          "title": "DOGE Accesses NLRB Data; Whistleblower Faces Threats",
+          "summary": "A whistleblower at the National Labor Relations Board (NLRB) reported that DOGE operatives accessed sensitive labor case data and unionization efforts, then attempted to cover their tracks. After the disclosure, the whistleblower received a threatening note containing surveillance photos, raising fears of retaliation against agency staff resisting DOGE overreach.",
+          "tags": [
+            "Labor Rights",
+            "Whistleblower Retaliation",
+            "Oversight Interference",
+            "Musk Companies",
+            "Trump Administration",
+            "Ongoing"
+          ],
+          "sources": [
+            "https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security",
+            "https://truthout.org/articles/whistleblower-who-exposed-doge-raid-of-nlrb-data-finds-threats-taped-to-his-door/"
+          ]
+        },
+        {
+          "date": "2025-04-15",
+          "title": "HUD Shares Data with DHS to Identify Undocumented Tenants",
+          "summary": "The Department of Housing and Urban Development (HUD) signed a data-sharing agreement with DHS allowing DOGE to scan federal housing records for undocumented immigrants. Reports suggest the administration is planning to bar mixed-status families from public housing and has already used the data to initiate removals.",
+          "tags": [
+            "Immigration Policy",
+            "Housing",
+            "Data Privacy",
+            "Oversight Interference",
+            "Trump Administration",
+            "Ongoing"
+          ],
+          "sources": [
+            "https://www.propublica.org/article/hud-immigration-data-sharing-public-housing",
+            "https://www.washingtonpost.com/politics/2025/04/15/hud-data-sharing-dhs-deportations/"
+          ]
+        },
+        {
+          "date": "2025-03-31",
+          "title": "DOGE Granted Access to Federal Payroll System Despite Objections",
+          "summary": "DOGE gained access to the Federal Personnel and Payroll System, which processes pay for hundreds of thousands of federal employees. The Department of the Interior placed career officials on leave after they resisted the access, and DOGE operatives have since been able to view or halt salary disbursements, including for politically disfavored departments.",
+          "tags": [
+            "Data Privacy",
+            "Government Administration",
+            "Oversight Interference",
+            "Musk Companies",
+            "Trump Administration",
+            "Ongoing"
+          ],
+          "sources": [
+            "https://www.wired.com/story/doge-access-federal-payroll-systems-officials-leave-interior/",
+            "https://www.theguardian.com/us-news/2025/apr/01/interior-payroll-doge"
+          ]
+        },
+        {
+          "date": "2025-04-12",
+          "title": "State Department Uses AI to Revoke Student Visas Over Social Media",
+          "summary": "The State Department began using artificial intelligence to scan international students’ social media posts for political views deemed un-American, leading to revoked visas and deportations. Critics argue this constitutes a chilling 'thoughtcrime' policy that violates free expression and disproportionately targets Muslim and left-wing students.",
+          "tags": [
+            "AI Surveillance",
+            "Student Visas",
+            "Immigration Policy",
+            "Free Speech",
+            "Oversight Interference",
+            "Trump Administration",
+            "Ongoing"
+          ],
+          "sources": [
+            "https://www.brookings.edu/articles/state-department-uses-ai-to-monitor-student-speech/",
+            "https://www.nytimes.com/2025/04/13/us/politics/student-visas-ai-state-department.html"
+          ]
+        },
+        {
+            "date": "2025-03-28",
+            "title": "DOGE Gains Access to SEC Systems, Sparking Market Integrity Concerns",
+            "summary": "DOGE operatives were granted access to internal systems at the Securities and Exchange Commission (SEC), including contract databases, staff personnel files, payment systems, and internal communications. The access has triggered alarm among investor protection advocates who warn that DOGE's presence could be used to manipulate enforcement priorities or gain market-moving intelligence for political or financial gain. SEC employees have reportedly faced pressure to cease investigations into crypto-related frauds linked to Trump-aligned entities.",
+            "tags": [
+              "SEC",
+              "Data Privacy",
+              "Oversight Interference",
+              "Musk Companies",
+              "Financial Markets",
+              "Trump Administration",
+              "Ongoing"
+            ],
+            "sources": [
+              "https://www.nytimes.com/2025/04/18/opinion/trump-cryptocurrency-regulation.html",
+              "https://www.reuters.com/world/us/sec-trump-enforcement-priorities-crypto-doge-access-2025-04-01/",
+              "https://www.bloomberg.com/news/articles/2025-04-10/sec-database-accessed-by-musk-linked-officials"
+            ]
+          },
+          {
+            "date": "2025-03-25",
+            "title": "DOGE Quietly Embedded at the FTC Amid Warnings from Ousted Commissioners",
+            "summary": "DOGE operatives were embedded within the Federal Trade Commission (FTC) without public notice, prompting concern among consumer advocates and former officials. Ousted Democratic commissioners warned that DOGE’s access to FTC databases—including staff communications and antitrust litigation strategy—could allow politically motivated misuse of regulatory information. The Trump administration has refused to disclose the full extent of DOGE’s access.",
+            "tags": [
+              "FTC",
+              "Oversight Interference",
+              "Regulatory Rollback",
+              "Tech Platforms",
+              "Trump Administration",
+              "Ongoing"
+            ],
+            "sources": [
+              "https://www.washingtonpost.com/technology/2025/03/26/doge-ftc-access-musk-trump/",
+              "https://www.nbcnews.com/politics/trump-administration/doge-access-ftc-market-intelligence-warnings-rcna200994",
+              "https://www.reuters.com/business/ftc-democrats-removed-warning-market-abuse-2025-03-28/"
+            ]
+          },
+          {
+              "date": "2025-04-10",
+              "title": "DOGE Gains Access to Naturalization Systems Amid Denaturalization Plans",
+              "summary": "DOGE operatives were granted access to the Department of Homeland Security’s naturalization-related IT systems, including databases tracking naturalized U.S. citizens. This access coincided with internal planning discussions for denaturalizing certain citizens based on political or ideological grounds. The Trump administration has not publicly acknowledged the scope of this data use, but former DHS officials confirm that DOGE has full read and partial write access to these systems. Legal scholars warn this could be used to reverse citizenship status through administrative pretexts.",
+              "tags": [
+                "Immigration Policy",
+                "DHS",
+                "Denaturalization",
+                "Oversight Interference",
+                "Trump Administration",
+                "Musk Companies",
+                "Ongoing"
+              ],
+              "sources": [
+                "https://www.propublica.org/article/doge-naturalization-data-access-denaturalization-plans",
+                "https://www.reuters.com/world/us/trump-naturalization-citizenship-threatened-2025-04-12/",
+                "https://www.nytimes.com/2025/04/13/us/politics/doge-naturalization-files-uscis.html"
+              ]
+            },
+            {
+              "date": "2025-03-22",
+              "title": "DOGE Accesses USCIS Citizenship Database Without Oversight",
+              "summary": "DOGE officials gained backend access to the USCIS Central Index System, which tracks the immigration and citizenship status of individuals in the U.S. The access was reportedly initiated through Palantir contractors linked to the Foundry platform. Internal USCIS emails flagged the breach to agency leadership, but no corrective action was taken. Advocates warn that with access to citizenship records, DOGE could cross-reference data for political or ideological targeting under the guise of fraud detection.",
+              "tags": [
+                "USCIS",
+                "Immigration Policy",
+                "Data Privacy",
+                "Oversight Interference",
+                "Musk Companies",
+                "Trump Administration",
+                "Ongoing"
+              ],
+              "sources": [
+                "https://www.wired.com/story/doge-uscis-citizenship-database-access/",
+                "https://www.documentcloud.org/documents/24841320-doge-access-uscis-email-chain"
+              ]
+            },
+            {
+                "date": "2025-04-10",
+                "title": "Clearview AI Deployed by ICE to Target Immigrants Using Facial Recognition",
+                "summary": "ICE has expanded its use of Clearview AI, a controversial facial recognition platform that scrapes billions of images from social media and public websites. The software is now used to identify and track immigrants based on biometric matches. Legal experts have raised alarms about its use without warrants, the lack of accuracy across skin tones, and the risk of false positives leading to wrongful detention or deportation.",
+                "tags": [
+                  "AI Surveillance",
+                  "Immigration Policy",
+                  "Facial Recognition",
+                  "Data Privacy",
+                  "ICE",
+                  "Musk Companies",
+                  "Oversight Interference",
+                  "Trump Administration",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.nbcnews.com/tech/security/ice-clearview-ai-facial-recognition-immigrants-2025-04",
+                  "https://www.washingtonpost.com/technology/2025/04/11/clearview-ai-deportation-database/"
+                ]
+              },
+              {
+                "date": "2025-03-30",
+                "title": "DHS Uses AI to Track Immigrants Through Tattoos, Scars, and License Plates",
+                "summary": "The Department of Homeland Security has implemented AI-powered pattern matching across databases containing tattoo and scar records, license plate scans, and biometric identifiers to locate and flag suspected undocumented immigrants. These tools are reportedly integrated into Palantir's Foundry platform and used in deportation operations, despite known risks of error and racial bias. DHS has refused to disclose accuracy rates or audit logs.",
+                "tags": [
+                  "AI Surveillance",
+                  "Data Privacy",
+                  "Immigration Policy",
+                  "Palantir",
+                  "DHS",
+                  "Trump Administration",
+                  "Oversight Interference",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.propublica.org/article/dhs-tattoo-ai-surveillance-palantir",
+                  "https://www.theverge.com/2025/03/31/dhs-automated-deportation-ai-tools"
+                ]
+              },
+              {
+                "date": "2025-04-12",
+                "title": "State Department Uses AI to Flag International Students Over Social Media Posts",
+                "summary": "The State Department is using artificial intelligence to monitor the social media activity of international students for signs of 'anti-American sentiment.' Visa revocations and detentions have already resulted from posts critical of U.S. foreign policy. Civil liberties groups warn the system violates First Amendment rights and amounts to a digital loyalty test. A Brookings analysis called the program 'unconstitutional surveillance in search of a justification.'",
+                "tags": [
+                  "AI Surveillance",
+                  "Free Speech",
+                  "Student Visas",
+                  "Immigration Policy",
+                  "Trump Administration",
+                  "Oversight Interference",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.brookings.edu/articles/state-department-uses-ai-to-monitor-student-speech/",
+                  "https://www.nytimes.com/2025/04/13/us/politics/student-visas-ai-state-department.html"
+                ]
+              },
+              {
+                "date": "2025-04-07",
+                "title": "ICE Deploys Predictive AI to Prioritize Deportations",
+                "summary": "ICE has begun using predictive analytics and AI modeling tools to determine deportation priorities. The system factors in social media activity, geolocation patterns, and financial records to assign risk scores. Critics warn that the opaque algorithms reinforce racial and ethnic bias, and ICE has not released evaluation metrics or provided due process mechanisms for challenging classification.",
+                "tags": [
+                  "AI Surveillance",
+                  "Immigration Policy",
+                  "ICE",
+                  "Data Privacy",
+                  "Trump Administration",
+                  "Musk Companies",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.axios.com/2025/04/07/ice-ai-deportation-scoring-privacy",
+                  "https://www.technologyreview.com/2025/04/07/ice-deportation-risk-algorithm-ethics/"
+                ]
+              },
+              {
+                "date": "2025-04-21",
+                "title": "Office of Special Counsel Drops Investigation Into Mass Federal Firings",
+                "summary": "The Office of Special Counsel (OSC), the independent agency responsible for protecting federal employees from unlawful firings and retaliation, dropped its inquiry into more than 2,000 complaints from workers dismissed en masse by the Trump administration in February 2025. OSC informed workers that the firings were part of a 'governmentwide effort to reduce the federal service,' not individual terminations, and therefore not subject to investigation. Legal scholars criticized the rationale as legally incoherent. The decision follows President Trump’s removal of OSC chief Hampton Dellinger, who had launched investigations before being replaced by Jamieson Greer. With the Merit Systems Protection Board also leaderless, avenues for appeal are nearly exhausted.",
+                "tags": [
+                  "Oversight Interference",
+                  "Federal Employees",
+                  "Trump Administration",
+                  "Whistleblower Retaliation",
+                  "Ongoing"
+                ],
+                "sources": [
+                  "https://www.nytimes.com/2025/04/21/us/politics/trump-federal-workers-osc-dismissal.html"
+                ]
+              },
+              {
+                  "date": "2025-01-03",
+                  "title": "Trump Signs Executive Order Eliminating OPM Oversight Powers",
+                  "summary": "President Trump signed an executive order stripping the Office of Personnel Management (OPM) of key oversight authorities, reallocating those powers to agency leadership and DOGE operatives. The order eliminates OPM's final say over federal hiring, classification, and workforce discipline decisions. Career civil service advocates called the move a 'soft purge' of independence safeguards.",
+                  "tags": [
+                    "Trump Administration",
+                    "OPM",
+                    "Federal Employees",
+                    "Oversight Interference",
+                    "Musk Companies",
+                    "Ongoing"
+                  ],
+                  "sources": [
+                    "https://www.govexec.com/management/2025/01/trump-orders-opm-authorities-shift-agencies/462317/",
+                    "https://www.washingtonpost.com/politics/2025/01/03/opm-doge-executive-order/"
+                  ]
+                },
+                {
+                  "date": "2025-01-07",
+                  "title": "DOGE Operatives Begin Mass Installation of Unvetted Staff Across Agencies",
+                  "summary": "DOGE operatives were placed in high-level roles across dozens of federal agencies without Senate confirmation or career civil service review. The appointees, many under 30, gained access to sensitive personnel and budgetary systems. Ethics watchdogs say this represents an unprecedented politicization of the executive branch workforce.",
+                  "tags": [
+                    "Trump Administration",
+                    "Musk Companies",
+                    "Federal Agencies",
+                    "Conflicts of Interest",
+                    "Oversight Interference",
+                    "Ongoing"
+                  ],
+                  "sources": [
+                    "https://www.nytimes.com/2025/01/07/us/politics/doge-young-staffers-federal-agencies.html",
+                    "https://www.politico.com/news/2025/01/07/unvetted-doge-staff-appointments-00139875"
+                  ]
+                },
+                {
+                  "date": "2025-01-10",
+                  "title": "CISA Official Placed on Leave After Resisting DOGE Network Access",
+                  "summary": "A top official at the Cybersecurity and Infrastructure Security Agency (CISA) was placed on administrative leave after refusing to comply with a directive granting DOGE access to sensitive internal logs. CISA whistleblowers later reported similar retaliatory suspensions. The case raised fears about weakened cyber protections under politicized oversight.",
+                  "tags": [
+                    "CISA",
+                    "Cybersecurity",
+                    "Oversight Interference",
+                    "Trump Administration",
+                    "Whistleblower Retaliation",
+                    "Musk Companies",
+                    "Ongoing"
+                  ],
+                  "sources": [
+                    "https://www.wired.com/story/cisa-doge-retaliation-cybersecurity-access-2025/",
+                    "https://www.nbcnews.com/politics/national-security/cisa-staff-placed-leave-doge-conflict-2025"
+                  ]
+                },
+                {
+                  "date": "2025-01-20",
+                  "title": "DOGE Begins Extracting Political Donation Records of Federal Employees",
+                  "summary": "DOGE operatives were granted access to Office of Government Ethics datasets and FEC public filings, which they cross-referenced to build political profiles of federal employees. Internal documents revealed DOGE had compiled spreadsheets tracking donation history and employment location. Ethics experts warned this could be used to fuel loyalty purges or surveillance of ideological dissent.",
+                  "tags": [
+                    "Data Privacy",
+                    "Federal Employees",
+                    "Ethics",
+                    "Oversight Interference",
+                    "Trump Administration",
+                    "Musk Companies",
+                    "Ongoing"
+                  ],
+                  "sources": [
+                    "https://www.propublica.org/article/doge-federal-employee-donation-tracking",
+                    "https://www.brookings.edu/articles/doge-political-loyalty-database-federal-workers/"
+                  ]
+                },
+                {
+                    "date": "2025-04-05",
+                    "title": "Trump Threatens FCC Licenses of Outlets That Criticize Him",
+                    "summary": "In a Truth Social post following critical coverage by *60 Minutes* and MSNBC, President Trump called for the FCC to 'immediately investigate and revoke licenses' of outlets that, in his words, 'spread coordinated disinformation.' Though the FCC does not license cable networks, the statement was widely seen as a threat to pressure broadcasters and chill unfavorable coverage. Media law experts noted the danger in using regulatory threats as a tool of editorial intimidation.",
+                    "tags": [
+                      "Donald Trump",
+                      "FCC",
+                      "Press Freedom",
+                      "Censorship",
+                      "Media Capture",
+                      "Ongoing"
+                    ],
+                    "sources": [
+                      "https://www.nytimes.com/2025/04/06/us/politics/trump-fcc-license-threat.html",
+                      "https://www.washingtonpost.com/politics/2025/04/06/fcc-license-media-trump-threat/"
+                    ]
+                  },
+                  {
+                    "date": "2025-04-17",
+                    "title": "DOJ Launches Leak Investigation Targeting Investigative Journalists",
+                    "summary": "The Department of Justice launched a leak investigation involving several journalists at The Washington Post and Reuters following reports on DOGE’s surveillance programs. Subpoenas were issued for reporters’ email metadata, and the FBI obtained court orders to access phone records under the pretense of national security. Press freedom advocates warned that the investigation mirrors previous efforts to silence whistleblowers and intimidate investigative reporting.",
+                    "tags": [
+                      "DOJ",
+                      "Press Freedom",
+                      "Whistleblower Retaliation",
+                      "Surveillance",
+                      "Trump Administration",
+                      "Ongoing"
+                    ],
+                    "sources": [
+                      "https://www.reuters.com/world/us/doj-leak-investigation-journalists-press-freedom-2025-04-17/",
+                      "https://www.washingtonpost.com/media/2025/04/17/leak-probe-doge-reuters-wapo/"
+                    ]
+                  },
+                  {
+                    "date": "2025-04-08",
+                    "title": "State Department Revokes Press Credentials for Critical Foreign Correspondents",
+                    "summary": "The Trump administration revoked credentials for five foreign correspondents representing outlets that had reported critically on U.S. policy, including The Guardian, Al Jazeera, and Der Spiegel. A State Department spokesperson cited vague concerns about 'national interest violations.' Press freedom groups called it a clear attempt to censor global coverage and retaliate against investigative reporting on DOGE’s foreign data partnerships.",
+                    "tags": [
+                      "State Department",
+                      "Press Freedom",
+                      "Censorship",
+                      "Media Capture",
+                      "Foreign Policy",
+                      "Ongoing"
+                    ],
+                    "sources": [
+                      "https://www.theguardian.com/us-news/2025/apr/08/state-department-revokes-press-credentials",
+                      "https://cpj.org/2025/04/state-department-bars-international-reporters-covering-doge-and-trump/"
+                    ]
+                  },
+                  {
+                    "date": "2025-04-18",
+                    "title": "Trump Quietly Shops Refinancing Deal for 40 Wall Street",
+                    "summary": "Facing a major loan maturity in October 2025, Trump Organization officials have begun discreet talks to refinance 40 Wall Street, one of the company’s most valuable properties. Since Deutsche Bank cut ties, Trump has struggled to secure traditional financing. Bloomberg reports that Axos Financial and at least two Gulf-backed private equity firms are considering involvement. Internal financial statements suggest the building’s valuation may have declined, further complicating efforts. Real estate analysts warn the building’s financial health could become a proxy for Trump’s post-presidency solvency.",
+                    "tags": [
+                      "Trump Organization",
+                      "40 Wall Street",
+                      "Banking Relationships",
+                      "Refinancing Risk",
+                      "Financial Markets",
+                      "Conflicts of Interest",
+                      "Ongoing"
+                    ],
+                    "sources": [
+                      "https://www.bloomberg.com/news/articles/2025-04-18/trump-quietly-seeks-loan-to-refinance-40-wall-street",
+                      "https://www.reuters.com/business/finance/trump-loan-deadline-looms-40-wall-street-2025-04-18/"
+                    ]
+                  },
+                  {
+                    "date": "2025-04-20",
+                    "title": "Trump-Linked USD1 Stablecoin Quietly Added to Major Retirement Platforms",
+                    "summary": "Fidelity and Charles Schwab have added Trump-backed stablecoin USD1 to select digital asset retirement portfolios. The move came after the SEC reclassified certain crypto instruments under looser guidelines following pressure from Trump appointee Paul Atkins. Financial analysts warn the inclusion of USD1, issued by World Liberty Financial—a company controlled by Trump’s family—exposes retail investors to unregulated political financial products. The stablecoin is pegged to the U.S. dollar and promoted as 'patriot-backed digital money.'",
+                    "tags": [
+                      "Crypto",
+                      "World Liberty Financial",
+                      "Donald Trump",
+                      "SEC",
+                      "Conflicts of Interest",
+                      "Financial Markets",
+                      "Ongoing"
+                    ],
+                    "sources": [
+                      "https://www.wsj.com/articles/trump-stablecoin-fidelity-retirement-accounts-2025-04-20/",
+                      "https://www.reuters.com/business/trump-crypto-retirement-firms-pushback-2025-04-20/",
+                      "https://www.bloomberg.com/news/articles/2025-04-20/fidelity-schwab-add-trump-backed-usd1-stablecoin-to-offerings"
+                    ]
+                  }
+                ]
+                        
+            
+            
+          
+        
+        
+      
+    
+    
+  
