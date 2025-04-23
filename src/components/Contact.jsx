@@ -20,7 +20,7 @@ export default function Contact() {
     <section id="contact">
       <h1 className="text-3xl font-bold mb-4">📨 Contact Us</h1>
       <p className="mb-4">We welcome suggestions, additions, corrections, or commentary.</p>
-      <p className="mb-6">Email us: <strong>PublicAccountability-Team@gmail.com</strong></p>
+      <p className="mb-6">Email us: <strong>EnemyofSauron5@gmail.com</strong></p>
 
       {submitted ? (
         <p className="text-green-600">Thanks for reaching out! We'll get back to you soon.</p>

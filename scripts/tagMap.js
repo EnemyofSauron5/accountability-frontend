@@ -142,5 +142,8 @@ module.exports = {
   "Global Economy": "Financial Markets",
   "Payment Services": "Financial Markets",
   "World Economic Forum": "World Economic Forum",
-  "2025": null  // Map to null to filter out this tag
+  "US": null,
+  "Ongoing": null,
+  "2025": null
+// Map to null to filter out this tag
 };
