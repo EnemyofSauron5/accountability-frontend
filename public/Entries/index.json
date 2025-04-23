@@ -1,17 +1,18 @@
 [
   {
-    "date": "2021-02-10",
-    "title": "Trump charges Secret Service over $1,100/month for post-presidency Mar-a-Lago detail",
-    "summary": "While all former presidents receive Secret Service protection, Trump uniquely billed the agency for accommodations at his own properties—like Mar-a-Lago and Bedminster—where agents could have stayed for free. This practice created a direct flow of taxpayer funds into his private business and has little precedent among other presidents.",
+    "date": "2021-05-20",
+    "title": "Trump charges Secret Service hundreds per night for post-presidency Mar-a-Lago detail",
+    "summary": "While all former presidents receive Secret Service protection, Trump uniquely billed the agency for accommodations at his own properties—like Mar-a-Lago and Bedminster—where agents could have stayed for free. Records show Trump charged the Secret Service $396.15 per night at Mar-a-Lago after leaving office, the same rate the club had charged since 2017. During his presidency, Trump properties charged the government over $2.5 million for Secret Service stays, with rates as high as $1,185 per night at his DC hotel and $650 per night at Mar-a-Lago.",
     "tags": [
       "Conflicts of Interest",
       "Donald Trump",
-      "Trump Organization",
-      "Federal Funds"
+      "Trump Organization"
     ],
     "sources": [
-      "https://www.washingtonpost.com/politics/2021/02/10/trump-secret-service-charges/",
-      "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-properties-secret-service-spending/"
+      "https://www.washingtonpost.com/politics/trump-secret-service-charges/2021/05/20/d328eb5c-9d36-11eb-b7a8-014b14aeb9e4_story.html",
+      "https://www.citizensforethics.org/reports-investigations/crew-investigations/the-secret-service-spent-nearly-2-million-at-trump-properties/",
+      "https://www.nbcnews.com/politics/donald-trump/trump-organization-charged-secret-service-much-1185-night-stay-trump-d-rcna52521",
+      "https://www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384"
     ]
   },
   {
@@ -1634,8 +1635,7 @@
         "Harvard University",
         "Academic Freedom",
         "Oversight Interference",
-        "Free Speech",
-        "Ongoing"
+        "Free Speech"
       ],
       "sources": [
         "https://www.cnn.com/2025/04/04/us/harvard-trump-administration-demand-letter/index.html"
@@ -1650,8 +1650,7 @@
         "Harvard University",
         "Academic Freedom",
         "Oversight Interference",
-        "Free Speech",
-        "Ongoing"
+        "Free Speech"
       ],
       "sources": [
         "https://news.harvard.edu/gazette/story/2025/04/harvard-wont-comply-with-demands-from-trump-administration/",
@@ -1668,8 +1667,7 @@
         "Harvard University",
         "Academic Freedom",
         "Oversight Interference",
-        "Free Speech",
-        "Ongoing"
+        "Free Speech"
       ],
       "sources": [
         "https://www.cnn.com/2025/04/19/us/harvard-trump-administration-letter-mistake/index.html",
@@ -1687,8 +1685,7 @@
         "Academic Freedom",
         "Oversight Interference",
         "Legal Challenges",
-        "Free Speech",
-        "Ongoing"
+        "Free Speech"
       ],
       "sources": [
         "https://www.cnn.com/2025/04/20/us/harvard-white-house-funding/index.html",
@@ -1706,8 +1703,7 @@
         "Harvard University",
         "Academic Freedom",
         "Oversight Interference",
-        "Free Speech",
-        "Ongoing"
+        "Free Speech"
       ],
       "sources": [
         "https://www.reuters.com/world/us/us-academic-leaders-unite-against-trumps-higher-education-policies-2025-04-22/",
@@ -1715,88 +1711,59 @@
       ]
      },
      {
-    "date": "2025-03-26",
-    "title": "Defense Secretary Hegseth Shared Military Operation Details in Signal Chat",
-    "summary": "The Atlantic published a transcript showing Defense Secretary Pete Hegseth detailed U.S. military attack plans for Yemen in a Signal chat that inadvertently included the magazine's editor-in-chief. The messages revealed precise timing of airstrikes, aircraft deployment schedules, and operational details about a pending attack on Houthi targets. Military experts criticized the disclosure as a significant breach of operational security despite White House claims that no classified information was shared.",
-    "tags": [
-      "National Security",
-      "Oversight Interference",
-      "Donald Trump",
-      "Tech Platforms"
-    ],
-    "sources": [
-      "https://www.cnn.com/2025/03/26/politics/the-atlantic-publishes-signal-messages-yemen-strike/index.html",
-      "https://www.aljazeera.com/news/2025/3/27/pete-hegseth-says-signal-chat-had-no-war-plans-hes-wrong-say-experts",
-      "https://www.nbcnews.com/politics/trump-administration/atlantic-publishes-full-signal-chat-messages-showing-military-plans-us-rcna198148",
-      "https://www.pbs.org/newshour/politics/the-atlantic-releases-the-entire-signal-chat-showing-hegseths-detailed-attack-plans-against-houthis",
-      "https://apnews.com/article/hegseth-atlantic-war-plans-signal-yemen-houthis-c0addd08c627ab01a37ea63621cb695e"
-    ]
-  },
-  {
-    "date": "2025-04-20",
-    "title": "Hegseth Shared Military Plans in Second Signal Chat with Family and Personal Contacts",
-    "summary": "Defense Secretary Pete Hegseth shared details of a March attack on Yemen's Houthis in a second Signal chat that included his wife, brother, and personal lawyer. The second chat, originally created during Hegseth's confirmation process, contained similar sensitive details about military operations to those revealed in the first Signal chat incident. This revelation came as senior Pentagon officials were ousted as part of an internal leak investigation.",
-    "tags": [
-      "National Security",
-      "Oversight Interference",
-      "Donald Trump",
-      "Tech Platforms"
-    ],
-    "sources": [
-      "https://www.reuters.com/world/us/defense-chief-hegseth-shared-war-plans-second-signal-chat-nyt-reports-2025-04-20/",
-      "https://www.cnn.com/2025/04/20/politics/hegseth-second-signal-chat-military-plans/index.html",
-      "https://abcnews.go.com/US/2nd-signal-chat-reveals-hegseth-messaging-yemen-strikes/story?id=120997685",
-      "https://www.reuters.com/world/us/trump-stands-behind-hegseth-after-attack-plans-shared-second-signal-chat-white-2025-04-21/"
-    ]
-  },
-  {
-    "date": "2025-04-11",
-    "title": "Trump Administration Freezes $2.2 Billion in Grants to Harvard Over Antisemitism Pretext",
-    "summary": "The Trump administration announced it would freeze $2.2 billion in awarded grants and a $60 million federal contract to Harvard University unless it ceded control over admissions and intellectual content to the government. In response, Harvard filed suit, claiming a violation of the First Amendment and accusing the administration of abusing antisemitism concerns to justify overreach. University president Alan Garber warned the freeze would jeopardize life-saving medical and technological research across fields from cancer to battlefield trauma.",
-    "tags": [
-      "Oversight Interference",
-      "Trump Administration",
-      "Donald Trump",
-      "Academic Freedom"
-    ],
-    "sources": [
-      "https://www.washingtonpost.com/education/2025/04/21/harvard-sues-trump-administration-funding-antisemitism/",
-      "https://www.harvard.edu/president/news/2025/upholding-our-values-defending-our-university/",
-      "https://www.harvard.edu/research-funding/wp-content/uploads/sites/16/2025/04/Harvard-Funding-Freeze-Order-Complaint.pdf"
-    ]
-  },
-  {
-    "date": "2025-04-15",
-    "title": "DOGE Whistleblower Alleges State-Level Cyber Breach and Data Theft at NLRB",
-    "summary": "An NPR investigation revealed that DOGE operatives embedded at the National Labor Relations Board engaged in conduct consistent with a state-sponsored cyberattack. They demanded privileged access, turned off system monitoring tools, manually deleted their tracks, and triggered a data exfiltration spike. An IP address from Russia attempted to log in using new DOGE credentials. The whistleblower reporting the breach received threats, and cybersecurity experts warn the breach resembles tactics used in hostile nation-state operations.",
-    "tags": [
-      "Musk Companies",
-      "Data Privacy",
-      "Oversight Interference",
-      "Trump Administration",
-      "Cybersecurity"
-    ],
-    "sources": [
-      "https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security",
-      "https://oversightdemocrats.house.gov/news/press-releases/bombshell-reporting-whistleblower-disclosure-lead-ranking-member-connolly"
-    ]
-  },
-  {
-    "date": "2025-04-19",
-    "title": "Judge Halts DOGE Plan to Lay Off 90% of CFPB Staff",
-    "summary": "A federal judge issued an emergency order blocking the Trump administration and DOGE from proceeding with plans to terminate over 1,400 employees—90% of the Consumer Financial Protection Bureau. The layoffs, managed by DOGE operative Gavin Kliger, bypassed proper procedures and prompted litigation from the National Treasury Employees Union. The case reflects DOGE’s wider assault on federal watchdog agencies and financial regulators.",
-    "tags": [
-      "Oversight Interference",
-      "Musk Companies",
-      "Trump Administration",
-      "Donald Trump"
-    ],
-    "sources": [
-      "https://www.wired.com/story/judge-blocks-doge-from-laying-off-90-percent-of-cfpb/",
-      "https://www.politico.com/news/2025/04/21/trump-hegseth-leadership-00301052"
-    ]
-  },
-  {
+      "date": "2025-03-26",
+      "title": "Defense Secretary Hegseth Shared Yemen Military Strike Details in Signal Chat with Atlantic Editor",
+      "summary": "The Atlantic published a transcript showing Defense Secretary Pete Hegseth detailed U.S. military attack plans for Yemen in a Signal chat that inadvertently included the magazine's editor-in-chief Jeffrey Goldberg. The messages revealed precise timing of airstrikes, aircraft deployment schedules, and operational details about a pending attack on Houthi targets. While Hegseth and administration officials denied sharing classified information, military experts and Senate Armed Services Chairman Roger Wicker noted the information was highly sensitive. On April 3, 2025, the Pentagon's acting Inspector General announced a formal review of Hegseth's use of the messaging app.",
+      "tags": [
+        "National Security",
+        "Oversight Interference",
+        "Donald Trump",
+        "Tech Platforms"
+      ],
+      "sources": [
+        "https://apnews.com/article/hegseth-signal-messaging-app-attack-plans-f8581bcb447b91d2e7f9cb7809ae0f06",
+        "https://www.cnn.com/2025/03/26/politics/the-atlantic-publishes-signal-messages-yemen-strike/index.html",
+        "https://www.aljazeera.com/news/2025/3/27/pete-hegseth-says-signal-chat-had-no-war-plans-hes-wrong-say-experts",
+        "https://www.npr.org/2025/04/03/nx-s1-5351647/pentagon-inspector-general-hegseth-signal-yemen",
+        "https://www.foxnews.com/politics/hegseth-says-no-classified-information-shared-signal-group-chat-nobodys-texting-war-plans"
+      ]
+    },
+    {
+      "date": "2025-03-26",
+      "title": "Watchdog Group Sues Hegseth and Trump Officials for Federal Records Act Violations Over Signal Use",
+      "summary": "Government watchdog group American Oversight filed a lawsuit against Defense Secretary Pete Hegseth and other Trump administration officials for allegedly violating the Federal Records Act by using Signal's auto-delete features while discussing military operations. The lawsuit, filed in a D.C. federal court, names Hegseth, DNI Tulsi Gabbard, CIA Director John Ratcliffe, Treasury Secretary Scott Bessent, and Secretary of State Marco Rubio as defendants. American Oversight seeks to recover deleted messages and prevent further destruction of federal records, arguing that all official communications must be preserved regardless of classification status.",
+      "tags": [
+        "National Security",
+        "Oversight Interference",
+        "Donald Trump",
+        "Tech Platforms",
+        "Legal Proceedings"
+      ],
+      "sources": [
+        "https://www.axios.com/2025/03/26/signal-chat-trump-officials-lawsuit-hegseth",
+        "https://www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc",
+        "https://americanoversight.org/american-oversight-sues-trump-administration-for-using-signal-to-plan-military-operations/",
+        "https://www.thedailybeast.com/pete-hegseth-marco-rubio-and-more-are-being-sued-over-shock-signal-group-chat-leak/"
+      ]
+    },
+    {
+      "date": "2025-04-20",
+      "title": "Hegseth Shared Classified Military Plans in Second Signal Chat with Family and Personal Lawyer",
+      "summary": "Defense Secretary Pete Hegseth shared sensitive military details of a March attack on Yemen's Houthis in a second Signal chat that included his wife, brother, and personal lawyer. According to verified reports, this information originated from Army Gen. Michael Erik Kurilla, who had used a secure government system to send operational details to Hegseth. The revelation sparked bipartisan criticism, with Republican Rep. Don Bacon of Nebraska becoming the first sitting GOP member of Congress to call for Hegseth's resignation. President Trump defended Hegseth at an April 22 White House event, stating 'Pete's doing a great job; everybody's happy with him.'",
+      "tags": [
+        "National Security",
+        "Oversight Interference",
+        "Donald Trump",
+        "Tech Platforms"
+      ],
+      "sources": [
+        "https://www.nbcnews.com/politics/national-security/info-pete-hegseth-shared-wife-brother-came-top-generals-secure-message-rcna198838",
+        "https://www.washingtonpost.com/national-security/2025/04/22/pete-hegseth-signal-war-plans/",
+        "https://newrepublic.com/post/194182/pete-hegseth-reaction-second-signal-group-chat",
+        "https://www.reuters.com/world/us/defense-chief-hegseth-shared-war-plans-second-signal-chat-nyt-reports-2025-04-20/"
+      ]
+    },
+    {
     "date": "2025-04-21",
     "title": "ACLU Sues Government Over DOGE’s Secret Access to Sensitive Databases",
     "summary": "The ACLU filed a federal lawsuit against the SSA and the Department of Veterans Affairs, alleging violations of the Freedom of Information Act. The suit demands access to records documenting DOGE’s attempts to access sensitive government databases containing Social Security numbers, bank accounts, and health information. The ACLU cites urgent public interest, ongoing misuse of AI, and disregard for the Privacy Act. Agencies failed to comply with lawful appeals or provide transparency on DOGE's activities.",
