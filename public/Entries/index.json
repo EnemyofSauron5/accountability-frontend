@@ -1626,93 +1626,95 @@
     ]
   },
   {
-    "date": "2025-04-17",
-    "title": "DHS Threatens to Revoke Harvard's Ability to Enroll Foreign Students",
-    "summary": "Homeland Security Secretary Kristi Noem demanded Harvard provide detailed records on \"illegal and violent activities\" of its foreign student visa holders by April 30 or face loss of its ability to enroll international students. This escalation came after Harvard refused administration demands to end diversity programs and cede control over academic matters, resulting in the freezing of $2.2 billion in federal grants. The move was part of a broader pressure campaign against universities that included threats to revoke Harvard's tax-exempt status and demanding records on foreign funding and ties.",
-    "tags": [
-      "Donald Trump",
-      "Kristi Noem",
-      "Harvard University",
-      "Academic Freedom",
-      "Immigration Policy",
-      "Oversight Interference"
-    ],
-    "sources": [
-      "https://www.reuters.com/world/us/us-homeland-security-chief-cancels-two-grants-harvard-university-2025-04-17/",
-      "https://www.cnbc.com/2025/04/17/trump-harvard-foreign-students.html",
-      "https://www.cnn.com/2025/04/16/us/harvard-kristi-noem-international-students/index.html",
-      "https://www.wbur.org/news/2025/04/17/harvard-trump-irs-cambridge-international-students"
-    ]
-  },
-  {
-    "date": "2025-04-04",
-    "title": "Trump Administration's Unprecedented Letter of Demands to Harvard",
-    "summary": "The Trump administration sent Harvard University a letter outlining sweeping demands including eliminating diversity programs, banning masks at protests, and requiring \"full cooperation\" with the Department of Homeland Security. The demands came as the administration announced a review of $8.7 billion in grants and more than $255 million in contracts between Harvard, its affiliates, and the federal government. A second letter on April 11 expanded these demands to include \"audits\" of academic programs and departments, along with the viewpoints of students, faculty, and staff, and changes to the University's governance structure.",
-    "tags": [
-      "Donald Trump",
-      "Harvard University",
-      "Academic Freedom",
-      "Oversight Interference",
-      "Free Speech"
-    ],
-    "sources": [
-      "https://www.cnn.com/2025/04/04/us/harvard-trump-administration-demand-letter/index.html",
-      "https://www.cnn.com/2025/04/14/us/harvard-rejects-policy-changes/index.html",
-      "https://news.harvard.edu/gazette/story/2025/04/harvard-wont-comply-with-demands-from-trump-administration/"
-    ]
-  },
-  {
-    "date": "2025-04-14",
-    "title": "Harvard Rejects Trump Administration's Demands to Maintain Federal Funding",
-    "summary": "Harvard University formally rejected the Trump administration's demands that threatened $9 billion in research funding. In a message to the Harvard community, President Alan Garber stated: \"The University will not surrender its independence or relinquish its constitutional rights.\" In response, the Trump administration announced it was freezing $2.2 billion in grants and $60 million in contracts to Harvard. The administration also threatened to strip Harvard of its tax-exempt status and revoke its ability to enroll foreign students if it did not comply with demands.",
-    "tags": [
-      "Donald Trump",
-      "Harvard University",
-      "Academic Freedom",
-      "Oversight Interference",
-      "Free Speech"
-    ],
-    "sources": [
-      "https://www.cnn.com/2025/04/14/us/harvard-rejects-policy-changes/index.html",
-      "https://news.harvard.edu/gazette/story/2025/04/harvard-wont-comply-with-demands-from-trump-administration/",
-      "https://www.cnn.com/2025/04/15/us/universities-responses-investigations-funding-freeze/index.html",
-      "https://www.reuters.com/world/us/us-homeland-security-chief-cancels-two-grants-harvard-university-2025-04-17/"
-    ]
-  },
-  {
-    "date": "2025-04-19",
-    "title": "Reports Emerge of 'Unauthorized' Harvard Letter as Administration Doubles Down",
-    "summary": "The New York Times reported that the April 11 letter to Harvard was sent \"unauthorized,\" with differing accounts within the Trump administration about how the letter had been mishandled. Despite this report, Harvard maintained that the administration was \"doubling down\" on its demands through its actions, stating: \"Even assuming the administration now wishes to take back its litany of breathtakingly intrusive demands, it appears to have doubled down on those demands through its deeds in recent days.\"",
-    "tags": [
-      "Donald Trump",
-      "Harvard University",
-      "Academic Freedom",
-      "Oversight Interference",
-      "Free Speech"
-    ],
-    "sources": [
-      "https://www.cnn.com/2025/04/19/us/harvard-trump-administration-letter-mistake/index.html",
-      "https://www.reuters.com/world/us/harvard-says-trump-administration-doubled-down-after-sending-letter-reported-2025-04-19/",
-      "https://www.cnbc.com/2025/04/19/trump-white-house-harvard-funding-mistake.html"
-    ]
-  },
-  {
-    "date": "2025-04-20",
-    "title": "Harvard Files Lawsuit Against Trump Administration",
-    "summary": "Harvard University sued the Trump administration in a significant legal challenge to the administration's attempts to control federal funding for the university and impose oversight of its operations. The lawsuit follows escalating demands, including a request from the Department of Health and Human Services' Office for Civil Rights that Harvard turn over all reports generated by school task forces on combating antisemitism and anti-Muslim bias on campus since October 2023, including drafts never released to the public.",
-    "tags": [
-      "Donald Trump",
-      "Harvard University",
-      "Academic Freedom",
-      "Oversight Interference",
-      "Legal Challenges",
-      "Free Speech"
-    ],
-    "sources": [
-      "https://www.cnn.com/2025/04/20/us/harvard-white-house-funding/index.html"
-    ]
-  },
-  {
+      "date": "2025-04-04",
+      "title": "Trump Administration Demands Changes in Letter to Harvard University",
+      "summary": "Harvard University received a letter from a federal task force outlining policy demands tied to nearly $9 billion in federal funding. The demands included eliminating diversity programs, banning masks at protests, and requiring \"full cooperation\" with the Department of Homeland Security. Days before the review's announcement, nearly 800 Harvard faculty members had urged the school to resist demands from the Trump administration.",
+      "tags": [
+        "Donald Trump",
+        "Harvard University",
+        "Academic Freedom",
+        "Oversight Interference",
+        "Free Speech",
+        "Ongoing"
+      ],
+      "sources": [
+        "https://www.cnn.com/2025/04/04/us/harvard-trump-administration-demand-letter/index.html"
+      ]
+    },
+    {
+      "date": "2025-04-14",
+      "title": "Harvard Rejects Trump Administration's Demands",
+      "summary": "Harvard University formally rejected the Trump administration's demands that threatened $9 billion in research funding. In a message to the Harvard community, President Alan Garber stated that \"The University will not surrender its independence or relinquish its constitutional rights.\" Following Harvard's rejection, the Trump administration announced it was freezing $2.3 billion in federal funding to the university.",
+      "tags": [
+        "Donald Trump",
+        "Harvard University",
+        "Academic Freedom",
+        "Oversight Interference",
+        "Free Speech",
+        "Ongoing"
+      ],
+      "sources": [
+        "https://news.harvard.edu/gazette/story/2025/04/harvard-wont-comply-with-demands-from-trump-administration/",
+        "https://www.reuters.com/world/us/harvard-will-fight-trump-administration-demands-over-funding-2025-04-14/",
+        "https://www.npr.org/2025/04/14/nx-s1-5364829/trump-administration-freezes-funds-after-harvard-rejects-dei-demands"
+      ]
+    },
+    {
+      "date": "2025-04-19",
+      "title": "Trump Administration Claims Harvard Letter Was Sent in Error",
+      "summary": "The New York Times reported that the April 11 letter to Harvard was sent \"unauthorized,\" with differing accounts within the Trump administration about how the letter had been mishandled. Harvard maintained that the administration was \"doubling down\" on its demands through its actions, stating: \"Even assuming the Administration now wishes to take back its litany of breathtakingly intrusive demands, it appears to have doubled down on those demands through its deeds in recent days.\"",
+      "tags": [
+        "Donald Trump",
+        "Harvard University",
+        "Academic Freedom",
+        "Oversight Interference",
+        "Free Speech",
+        "Ongoing"
+      ],
+      "sources": [
+        "https://www.cnn.com/2025/04/19/us/harvard-trump-administration-letter-mistake/index.html",
+        "https://www.cnbc.com/2025/04/19/trump-white-house-harvard-funding-mistake.html",
+        "https://www.reuters.com/world/us/harvard-says-trump-administration-doubled-down-after-sending-letter-reported-2025-04-19/"
+      ]
+    },
+    {
+      "date": "2025-04-21",
+      "title": "Harvard Files Lawsuit Against Trump Administration",
+      "summary": "Harvard University sued the Trump administration in federal court, challenging the $2.3 billion funding freeze and arguing that the government's actions violate the First Amendment and other laws. The lawsuit, filed in U.S. District Court in Massachusetts against multiple federal agencies, seeks to block the administration from withholding federal funding \"as leverage to gain control of academic decision making at Harvard.\"",
+      "tags": [
+        "Donald Trump",
+        "Harvard University",
+        "Academic Freedom",
+        "Oversight Interference",
+        "Legal Challenges",
+        "Free Speech",
+        "Ongoing"
+      ],
+      "sources": [
+        "https://www.cnn.com/2025/04/20/us/harvard-white-house-funding/index.html",
+        "https://www.reuters.com/legal/harvard-university-sues-trump-administration-media-reports-say-2025-04-21/",
+        "https://www.washingtonpost.com/education/2025/04/21/harvard-sues-trump-administration-funding-antisemitism/",
+        "https://www.thecrimson.com/article/2025/4/22/harvard-sues-trump-admin/"
+      ]
+    },
+    {
+      "date": "2025-04-22",
+      "title": "College Presidents Unite Against Trump's Higher Education Policies",
+      "summary": "More than 200 university and college presidents issued a joint statement accusing the Trump administration of political interference in higher education, following Harvard's lawsuit against the government. The statement represents a growing resistance from academic institutions to what they describe as attempts to leverage federal funding to control university operations and limit academic freedom.",
+      "tags": [
+        "Donald Trump", 
+        "Harvard University",
+        "Academic Freedom",
+        "Oversight Interference",
+        "Free Speech",
+        "Ongoing"
+      ],
+      "sources": [
+        "https://www.reuters.com/world/us/us-academic-leaders-unite-against-trumps-higher-education-policies-2025-04-22/",
+        "https://www.cnn.com/2025/04/22/us/harvard-lawsuit-trump-administration-explainer/index.html"
+      ]
+     },
+     {
     "date": "2025-03-26",
     "title": "Defense Secretary Hegseth Shared Military Operation Details in Signal Chat",
     "summary": "The Atlantic published a transcript showing Defense Secretary Pete Hegseth detailed U.S. military attack plans for Yemen in a Signal chat that inadvertently included the magazine's editor-in-chief. The messages revealed precise timing of airstrikes, aircraft deployment schedules, and operational details about a pending attack on Houthi targets. Military experts criticized the disclosure as a significant breach of operational security despite White House claims that no classified information was shared.",
