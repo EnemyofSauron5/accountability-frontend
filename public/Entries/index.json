@@ -2447,8 +2447,110 @@
         "https://www.gofundme.com/f/help-alex-avoid-deportation-and-reunite-with-family",
         "https://www.instagram.com/p/DIjij0usX7j/?igsh=ZjkwbDczN2g4MXQ0"
       ]
-    }
-  ]
+    },
+    {
+        "date": "2025-04-26",
+        "title": "Executive Branch Club Opening in Georgetown",
+        "summary": "A new invitation-only club called 'Executive Branch' opened in Georgetown, Washington D.C., backed by Donald Trump Jr. and megadonor Omeed Malik. According to Politico reporter Dasha Burns, membership costs over $500,000 and is designed to allow top business executives to have private conversations with Trump advisors and cabinet members. The club reportedly already has a waiting list.",
+        "tags": [
+          "Campaign Finance",
+          "Trump Organization"
+        ],
+        "sources": [
+          "https://www.politico.com/news/2025/04/26/donald-trump-washington-club-00311720",
+          "https://heathercoxrichardson.substack.com/p/april-27-2025"
+        ]
+      },
+      {
+        "date": "2025-04-20",
+        "title": "Record-Breaking Trump Inauguration Fundraising",
+        "summary": "Trump's 2025 inauguration raised an unprecedented $239 million, which combined with the $107 million from his 2017 inauguration totals $346 million—more than all other inaugural committees since 1973 combined. The single largest donor was Pilgrim's Pride at $5 million. The funds not spent on inauguration festivities can be directed toward other Trump projects with minimal oversight.",
+        "tags": [
+          "Campaign Finance", 
+          "Conflicts of Interest"
+        ],
+        "sources": [
+          "https://www.nytimes.com/2025/04/20/us/politics/trump-inauguration-donors.html",
+          "https://www.cnbc.com/2025/04/21/major-corporate-interests-and-megadonors-gave-239-million-to-fund-trumps-inauguration.html",
+          "https://heathercoxrichardson.substack.com/p/april-27-2025"
+        ]
+      },
+      {
+        "date": "2025-04-25",
+        "title": "USDA Withdraws Biden-Era Salmonella Safety Rule",
+        "summary": "The U.S. Department of Agriculture (USDA) withdrew a Biden-era rule that would have required poultry companies to keep salmonella bacteria below certain levels. The CDC had previously stated that salmonella causes 1.35 million infections and 420 deaths annually, with the rule estimated to reduce salmonella illnesses by 25%. Pilgrim's Pride, which donated $5 million to Trump's inaugural committee, has executives on the board of the National Chicken Council that praised the withdrawal.",
+        "tags": [
+          "Regulatory Rollback",
+          "Conflicts of Interest"
+        ],
+        "sources": [
+          "https://apnews.com/article/poultry-salmonella-food-poisoning-usda-081dafd3c8a75c3ef2203d260584a893",
+          "https://www.rollingstone.com/politics/politics-news/usda-salmonella-poultry-withdraw-biden-plan-1235325722/",
+          "https://heathercoxrichardson.substack.com/p/april-27-2025"
+        ]
+      },
+      {
+        "date": "2025-04-25",
+        "title": "Musk's DOGE Team Working on Secret FAA 'Project Lift'",
+        "summary": "Elon Musk's 'Department of Government Efficiency' (DOGE) staffers are reportedly working on a multimillion-dollar communications project at the Federal Aviation Administration called 'Project Lift.' The project appears to involve inserting Musk's Starlink into a $2.4 billion contract currently held by Verizon. FAA employees have been made to sign nondisclosure agreements, limiting public information about this taxpayer-funded project.",
+        "tags": [
+          "Conflicts of Interest",
+          "Musk Companies",
+          "Oversight Interference"
+        ],
+        "sources": [
+          "https://www.rollingstone.com/politics/politics-features/trump-musk-doge-faa-nda-secret-project-lift-1235325667/",
+          "https://www.washingtonpost.com/business/2025/02/26/musk-starlink-doge-faa-verizon/",
+          "https://heathercoxrichardson.substack.com/p/april-27-2025"
+        ]
+      },
+      {
+        "date": "2025-04-25",
+        "title": "Trump Sons Seek Early Stock Sale from AI Company Advisory Roles",
+        "summary": "Shortly after Trump announced the administration's push to loosen regulations for AI, his sons Donald Jr. and Eric joined the advisory board of AI company Dominari Holdings, Inc., receiving 750,000 shares each despite having no official duties. The Trumps also invested in Dominari's subsidiary, American Data Center, Inc. Dominari stock increased by over 1,000% after the Trump sons joined, and recent SEC filings show they're seeking permission to sell their shares worth $5.8 million each earlier than normally allowed.",
+        "tags": [
+          "Conflicts of Interest",
+          "Trump Organization"
+        ],
+        "sources": [
+          "https://www.forbes.com/sites/zacheverson/2025/02/20/trump-eric-don-jr-ai-american-data-centers-dominari-artifical-intelligence-ethics/",
+          "https://www.forbes.com/sites/zacheverson/2025/04/25/donald-jr-eric-trump-stock-sale-dominari-holdings-sec-filing/",
+          "https://datacentremagazine.com/technology-and-ai/dominari-how-the-trump-family-are-investing-in-data-centres",
+          "https://heathercoxrichardson.substack.com/p/april-27-2025"
+        ]
+      },
+      {
+        "date": "2025-04-29",
+        "title": "Trump Administration Creating Controversial Government 'Lists' of Vulnerable Groups",
+        "summary": "The Trump administration has initiated multiple data collection efforts targeting specific groups, including texting Barnard College faculty to ask if they're Jewish and creating a controversial 'disease registry' for people with autism. Additionally, the IRS has agreed to share confidential tax records with Immigration and Customs Enforcement to help deport an estimated 7 million undocumented immigrants, despite longstanding privacy protections. Critics warn these practices threaten privacy, evoke historical abuses of government data collection, and may discourage tax payments from undocumented immigrants who contributed an estimated $96.7 billion in taxes in 2022.",
+        "tags": [
+          "Rights Violations",
+          "Oversight Interference",
+          "Deportations"
+        ],
+        "sources": [
+          "https://www.washingtonpost.com/opinions/2025/04/29/trump-lists-jews-autism-administrative-data/",
+          "https://theintercept.com/2025/04/23/trump-eeoc-barnard-columbia-texts-jewish/",
+          "https://www.statnews.com/2025/04/24/no-new-autism-registry-hhs-says-contradicting-nih-director-jay-bhattacharya-claim/",
+          "https://www.cnn.com/2025/04/08/politics/irs-dhs-sign-data-deal-undocumented-immigrants/index.html",
+          "https://itep.org/undocumented-immigrants-taxes-2024/"
+        ]
+      },
+      {
+        "date": "2025-04-28",
+        "title": "DOGE Was Bad. Schedule F Will Be Worse",
+        "summary": "President Trump issued an executive order on April 18, 2025 resurrecting 'Schedule F,' which would convert approximately 50,000 federal government employees to 'at-will' status, making them effectively political appointees who serve at the president's pleasure. The order allows for the firing of civil servants for 'subversion of Presidential directives' and has been challenged by multiple lawsuits, including one from the National Treasury Employees Union arguing it violates Congressional intent. While acknowledging legitimate concerns about accountability in federal employment, the article argues this approach prioritizes personal loyalty over Constitutional obligations and would make government less effective.",
+        "tags": [
+          "Trump Administration",
+          "Oversight Interference",
+          "Musk Companies",
+          "Legal Challenges"
+        ],
+        "sources": [
+          "https://www.washingtonpost.com/politics/2025/04/18/donald-trump-civil-service-workforce/fcf2f7a6-1c8b-11f0-9160-306c35f9b3a8_story.html"
+        ]
+      }
+   ]
   
   
   
