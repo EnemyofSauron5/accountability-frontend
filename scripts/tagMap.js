@@ -64,7 +64,6 @@ module.exports = {
   // Trump Organization consolidation
   "Trump Family": "Trump Organization",
   "Trump Residences": "Trump Organization",
-  "40 Wall Street": "Trump Organization",
   
   // Immigration enforcement consolidation
   "Cruel and unusual punishment": "Rights Violations",
@@ -80,6 +79,7 @@ module.exports = {
   "Conflict of Interest": "Conflicts of Interest",
   "Pay-to-Play": "Campaign Finance",
   "Fundraising": "Campaign Finance",
+  "Bond Market": "Financial Markets",
   
   // Crypto consolidation
   "Crypto Regulation": "Crypto",
@@ -97,7 +97,7 @@ module.exports = {
   "Regulatory Evasion": "Regulatory Rollback",
   
   // Musk-related consolidation
-  "DOGE": "Musk Companies",
+  "X Platform": "Musk Companies",
   
   // Other consolidations
   "Abuse of Office": "Oversight Interference",
@@ -121,7 +121,8 @@ module.exports = {
   "Spectrum Interference": "Satellite Communications",
   "Surveillance": "Data Privacy",
   "Middle East Investments": "Foreign Influence",
-  "Corporate Enforcement": "Anti-Corruption",
+  "Corporate Enforcement": "Ethics",
+  "Anti-Corruption": "Ethics",
   "Misinformation": "Free Speech",
   "Free speech": "Free Speech",
   "Contracts Termination": "Business Relationships",
@@ -142,8 +143,30 @@ module.exports = {
   "Global Economy": "Financial Markets",
   "Payment Services": "Financial Markets",
   "World Economic Forum": "World Economic Forum",
+  
+  // Remove place tags
+  "California": null,
+  "Egypt": null,
+  "Florida": null,
+  "Guatemala": null,
+  "Illinois": null,
+  "India": null,
+  "Japan": null,
+  "Maryland": null,
+  "Massachusetts": null,
+  "Mexico": null,
+  "New Jersey": null,
+  "New York": null,
+  "Texas": null,
+  "Turkey": null,
+  "Venezuela": null,
+  "Vermont": null,
+  "Virginia": null,
+  "Wisconsin": null,
+  
+  // Unchanged from previous
   "US": null,
   "Ongoing": null,
   "2025": null
-// Map to null to filter out this tag
+  // Map to null to filter out this tag
 };
