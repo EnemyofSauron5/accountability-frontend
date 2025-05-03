@@ -59,20 +59,16 @@ module.exports = {
   "Account Terminations": "Account Closures",
   "Loan Rejection": "Loan Rejections",
   "ethics": "Ethics",
-  
-  // New consolidations
-  // Trump Organization consolidation
+
+  // Consolidations from this pass
   "Trump Family": "Trump Organization",
   "Trump Residences": "Trump Organization",
-  
-  // Immigration enforcement consolidation
   "Cruel and unusual punishment": "Rights Violations",
   "Excessive force": "Rights Violations",
   "Warrantless raids": "Due Process Violations",
   "Mass deportations": "Deportations",
   "Wrongful deportation": "Deportations",
-  
-  // Financial/Business consolidation
+
   "Economic Policy": "Financial Markets",
   "Self-Dealing": "Conflicts of Interest",
   "Personal Enrichment": "Conflicts of Interest",
@@ -80,8 +76,7 @@ module.exports = {
   "Pay-to-Play": "Campaign Finance",
   "Fundraising": "Campaign Finance",
   "Bond Market": "Financial Markets",
-  
-  // Crypto consolidation
+
   "Crypto Regulation": "Crypto",
   "Memecoins": "Crypto",
   "Blockchain": "Crypto",
@@ -92,14 +87,11 @@ module.exports = {
   "Solana": "Crypto",
   "Strategic Reserve": "Crypto",
 
-  // Regulatory consolidation
   "Regulatory Capture": "Regulatory Rollback",
   "Regulatory Evasion": "Regulatory Rollback",
-  
-  // Musk-related consolidation
+
   "X Platform": "Musk Companies",
-  
-  // Other consolidations
+
   "Abuse of Office": "Oversight Interference",
   "Falsification of Records": "Oversight Interference",
   "Corporate Accountability": "Oversight Interference",
@@ -134,7 +126,6 @@ module.exports = {
   "Donor Enrichment": "Conflicts of Interest",
   "Resource Extraction": "Conflicts of Interest",
   "Election Interference": "Vote Buying",
-  "Tren de Aragua": "Alien Enemies Act",
   "Political Merchandise": "Merchandising",
   "Religion and Politics": "Merchandising",
   "Merchandising": "MAGA Inc.",
@@ -143,8 +134,16 @@ module.exports = {
   "Global Economy": "Financial Markets",
   "Payment Services": "Financial Markets",
   "World Economic Forum": "World Economic Forum",
-  
-  // Remove place tags
+
+  // New cleanups/consolidations
+  "US Citizens Detained": "Citizens detained",
+  "SSA": "Social Security Administration",
+  "Department of Government Efficiency": "DOGE",
+  "Federal Workforce": "Federal Employees",
+  "Censorship": "Press Freedom",
+  "Signal Scandal": "Oversight Interference",
+
+  // Map to null to filter out this tag
   "California": null,
   "Egypt": null,
   "Florida": null,
@@ -163,10 +162,9 @@ module.exports = {
   "Vermont": null,
   "Virginia": null,
   "Wisconsin": null,
-  
+
   // Unchanged from previous
   "US": null,
   "Ongoing": null,
   "2025": null
-  // Map to null to filter out this tag
 };
