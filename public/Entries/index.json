@@ -2535,26 +2535,6 @@
     ]
   },
   {
-    "date": "2025-04-25",
-    "title": "DOGE Orders AmeriCorps to Cancel $400 Million in Grants",
-    "summary": "The Department of Government Efficiency (DOGE) directed AmeriCorps to cancel approximately $400 million in grants, representing about 41% of the agency's $1 billion annual budget. The cuts affected 1,031 organizations and over 32,000 AmeriCorps members and senior volunteers nationwide. Earlier in April, AmeriCorps placed most of its 650 full-time staff on administrative leave and discharged members of its National Civilian Community Corps program, which sends young adults to work on disaster response and community service projects.",
-    "tags": [
-      "AmeriCorps",
-      "DOGE",
-      "Federal Budget",
-      "Oversight Interference",
-      "National Service",
-      "Musk Companies"
-    ],
-    "sources": [
-      "https://www.reuters.com/world/us/doge-orders-americorps-cancel-400-million-grants-washington-post-reports-2025-04-25/",
-      "https://apnews.com/article/trump-doge-americorps-cuts-volunteers-service-9b9c0e0cfb82ba6513478a35d3889b43",
-      "https://time.com/7278469/americorps-nccc-doge-funding-cuts-volunteers-community-service-program-trump/",
-      "https://www.yahoo.com/news/doge-orders-americorps-cancel-400-230709960.html",
-      "https://www.business-standard.com/world-news/elon-musk-s-doge-cuts-400-mn-in-americorps-grants-affecting-thousands-125042600167_1.html"
-    ]
-  },
-  {
     "date": "2025-04-26",
     "title": "Invitation-Only 'Executive Branch' Club Opens in Georgetown",
     "summary": "A new invitation-only club called 'Executive Branch' opened in Georgetown, Washington D.C., backed by Donald Trump Jr. and megadonor Omeed Malik. According to reporting, membership costs over $500,000 and is designed to allow top business executives to have private conversations with Trump advisors and cabinet members. The exclusive venue reportedly already has a waiting list, with some aspiring members offering to pay double the membership fee to skip the line, and offers unprecedented access to administration decision-makers.",
@@ -2754,5 +2734,199 @@
       "https://kfor.com/news/local/were-citizens-oklahoma-city-family-traumatized-after-ice-raids-home-but-they-werent-suspects",
       "https://www.the-independent.com/news/world/americas/ice-deportations-raid-oklahoma-family-b2742769.html"
     ]
-  }
+  },
+  {
+    "date": "2025-04-15",
+    "title": "Whistleblower Reveals DOGE Breach of Labor Board Data",
+    "summary": "A whistleblower from the National Labor Relations Board disclosed that Elon Musk’s Department of Government Efficiency (DOGE) gained unauthorized access to internal labor case systems, exfiltrated sensitive union and corporate data, and attempted to cover its tracks by disabling logging tools and deleting audit records. Cybersecurity experts compared the behavior to state-sponsored attacks. The breach has raised concerns about retaliation against union organizers and the risk of foreign adversaries exploiting newly exposed federal systems.",
+    "tags": [
+      "DOGE",
+      "Elon Musk",
+      "Labor Rights",
+      "Oversight Interference",
+      "Whistleblower Retaliation",
+      "Data Privacy",
+      "Federal Employees",
+      "Palantir"
+    ],
+    "sources": [
+      "https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security",
+      "https://www.wired.com/story/doge-data-access-hhs"
+    ]
+  },
+  {
+    "date": "2025-04-30",
+    "title": "DOGE Constructs Master Database of Federal Records, Prompting Legal Challenge",
+    "summary": "Whistleblowers and legal filings reveal that DOGE has begun aggregating sensitive personal data across federal agencies, forming a central database reportedly housed at the Department of Homeland Security. The system pulls from Social Security, IRS, and HHS records and allegedly uses AI to flag dissenters. Two court rulings have already limited DOGE’s access under the Privacy Act, though data already collected may remain in use. Critics describe the system as 'turnkey totalitarianism' and warn of chilling effects on civil liberties.",
+    "tags": [
+      "DOGE",
+      "Data Privacy",
+      "Department of Homeland Security",
+      "Oversight Interference",
+      "Elon Musk",
+      "Trump Administration"
+    ],
+    "sources": [
+      "https://www.nytimes.com/2025/04/30/opinion/musk-doge-data-ai.html",
+      "https://www.washingtonpost.com/politics/2025/04/18/immigrants-dead-social-security-alive/"
+    ]
+  },
+  {
+    "date": "2025-04-29",
+    "title": "Judge Orders Trump Officials to Release Withheld Funds to Radio Free Europe",
+    "summary": "A federal judge ordered the Trump administration to disburse $12 million in congressionally approved funds to Radio Free Europe/Radio Liberty after the administration stalled payments despite earlier court rulings. The judge ruled that the delay was unlawful and violated congressional authority. The administration had attempted to use funding leverage to influence the broadcaster’s editorial independence and board appointments.",
+    "tags": [
+      "Oversight Interference",
+      "Press Freedom",
+      "Legal Challenges",
+      "Trump Administration"
+    ],
+    "sources": [
+      "https://www.nytimes.com/2025/04/29/us/politics/radio-free-europe-funding-trump.html"
+    ]
+  },
+  {
+    "date": "2025-04-30",
+    "title": "Behind Trump's Deal to Deport Venezuelans to El Salvador's Maximum-Security Prison",
+    "summary": "The Trump administration deported over 200 Venezuelans to El Salvador's CECOT mega-prison under a secretive agreement invoking the Alien Enemies Act. Some migrants had pending asylum cases or no criminal records. Internal documents reveal President Bukele sought verification that the deportees were gang-affiliated, raising questions about the legality and due process of mass deportations. The agreement included side deals to return high-profile MS-13 leaders to El Salvador despite pending U.S. cases.",
+    "tags": [
+      "Deportations",
+      "Alien Enemies Act",
+      "Rights Violations",
+      "Oversight Interference",
+      "Immigration Policy"
+    ],
+    "sources": [
+      "https://www.nytimes.com/2025/04/30/us/politics/trump-deportations-venezuela-el-salvador.html"
+    ]
+  },
+  {
+    "date": "2025-04-30",
+    "title": "Judge Orders Release of Columbia Student Detained by ICE for Pro-Palestinian Speech",
+    "summary": "Columbia philosophy student Mohsen Mahdawi was released from federal custody after a judge ruled his detention by ICE likely stemmed from retaliation for pro-Palestinian activism, violating First Amendment protections. Mahdawi, a U.S. permanent resident, had been detained at his naturalization interview under a provision alleging he posed a foreign policy threat. The judge called the case reminiscent of McCarthy-era excesses.",
+    "tags": [
+      "Free Speech",
+      "Rights Violations",
+      "Immigration Policy",
+      "Oversight Interference",
+      "Legal Challenges",
+      "International students"
+    ],
+    "sources": [
+      "https://www.washingtonpost.com/nation/2025/04/30/columbia-student-ice-mohsen-mahdawi-released/"
+    ]
+  },
+  {
+    "date": "2025-04-30",
+    "title": "Trump Organization Launches Qatari Real Estate Deal with State-Owned Developer",
+    "summary": "Eric Trump signed a deal with Qatari Diar, a firm owned by Qatar's sovereign wealth fund, to build a Trump-branded golf course and luxury villas in Doha. The deal, announced days before Trump's state visit to the Gulf, appears to violate the Trump Organization's stated pledge to avoid new foreign government transactions. The arrangement mirrors prior partnerships in Oman and Dubai where proxies were used to obscure direct state ties.",
+    "tags": [
+      "Trump Organization",
+      "Conflicts of Interest",
+      "Foreign Influence",
+      "Donald Trump"
+    ],
+    "sources": [
+      "https://www.nytimes.com/2025/04/30/world/middleeast/trump-family-qatar-dubai.html",
+      "https://nymag.com/intelligencer/article/qatar-emirates-eric-trump-organization.html"
+    ]
+  },
+  {
+    "date": "2025-04-30",
+    "title": "Government Registers '.gov' Domains for Trump Memecoin Dinner",
+    "summary": "A 404 Media investigation revealed that U.S. government entities registered official domains like thetrilliondollardinner.gov and dinnerforamerica.gov around the time President Trump promoted a $TRUMP memecoin investor dinner. One domain briefly redirected to a Department of Commerce login page. The incident suggests improper use of government digital infrastructure to support a pay-to-play scheme involving Trump’s cryptocurrency, raising serious ethical and legal concerns.",
+    "tags": [
+      "Campaign Finance",
+      "Conflicts of Interest",
+      "Crypto",
+      "Trump Organization",
+      "Donald Trump"
+    ],
+    "sources": [
+      "https://www.404media.co/email/f527199d-c300-4a2e-96ad-6ba89d02aee0/?ref=daily-stories-newsletter"
+    ]
+  },
+  {
+      "date": "2025-04-30",
+      "title": "Trump Organization Signs Golf Resort Deal with Qatar Despite Foreign Business Pledge",
+      "summary": "The Trump Organization struck a deal to build a luxury golf resort in Qatar, marking its first foreign deal since Donald Trump took office for his second term. The project includes Trump-branded beachside villas and an 18-hole golf course to be built by Saudi Arabian company Dar Global, with development by Qatari Diar, which is owned by the Qatari government. This appears to violate the Trump Organization's second-term ethics pledge that it would avoid deals with foreign governments. When questioned, the Trump Organization claimed its deal was only with the Saudi firm, not the Qatari one, despite Eric Trump mentioning both companies in his statement. Ethics watchdogs criticized the deal for creating potential conflicts of interest, as it raises concerns about the president making policy decisions for personal financial gain.",
+      "tags": [
+        "Donald Trump",
+        "Trump Organization",
+        "Foreign Influence",
+        "Conflicts of Interest",
+        "Ethics"
+      ],
+      "sources": [
+        "https://apnews.com/article/trump-qatar-deal-conflicts-saudi-arabia-emoluments-7379bee2e307d39bd43b534a05ae3207",
+        "https://abcnews.go.com/US/wireStory/trump-company-strikes-qatari-golf-resort-deal-sign-121338301",
+        "https://www.middleeasteye.net/news/trump-golf-course-announced-qatar-ahead-presidents-visit",
+        "https://www.reuters.com/world/middle-east/qatari-diar-dar-global-introduce-trumps-first-real-estate-development-qatar-2025-04-29/",
+        "https://themedialine.org/headlines/trump-golf-deal-in-qatar-renews-conflict-of-interest-allegations/"
+      ]
+  },
+    {
+      "date": "2025-04-30",
+      "title": "Musk Uses Government Position to Secure Foreign Starlink Deals Amid Trade Negotiations",
+      "summary": "Elon Musk has leveraged his position in the Trump administration to secure lucrative Starlink approvals in multiple countries during sensitive trade negotiations. According to reporting from the Washington Post, Musk met with representatives from Bangladesh and India at White House facilities to discuss Starlink licensing while these countries were seeking favorable trade terms with the United States. In the case of Bangladesh, a special envoy was reportedly summoned to meet with Musk after discussing cotton imports with trade officials, with the implication that Starlink approval was necessary for favorable trade treatment. Similar patterns emerged in other countries including Vietnam, Pakistan, and South Africa, where Starlink licensing had previously faced regulatory obstacles. Despite ethical concerns about using government positions for personal gain, many countries have rushed to approve Starlink licenses while seeking to avoid Trump's threatened tariffs.",
+      "tags": [
+        "Elon Musk",
+        "Musk Companies",
+        "Conflicts of Interest",
+        "Trump Administration",
+        "DOGE",
+        "Influence Peddling",
+        "Foreign Influence"
+      ],
+      "sources": [
+        "https://www.washingtonpost.com/opinions/2025/04/30/elon-musk-starlink-bangladesh-tariffs/",
+        "https://www.reuters.com/technology/space/vietnam-paves-way-musks-starlink-seen-olive-branch-amid-us-tariff-threats-2025-02-18/",
+        "https://www.cnn.com/2025/03/26/business/vietnam-approves-starlink-us-tariffs-intl-hnk/index.html",
+        "https://thediplomat.com/2025/03/bangladesh-to-seal-deal-with-musks-starlink/",
+        "https://www.nbcnews.com/tech/elon-musk/democrats-call-investigate-musks-foreign-starlink-deals-rcna204348",
+        "https://www.warner.senate.gov/public/index.cfm/2025/5/senate-democrats-demand-investigation-into-elon-musk-s-alleged-abuse-of-white-house-position-for-personal-gain"
+      ]
+    },
+    {
+      "date": "2025-04-25",
+      "title": "DOGE Orders AmeriCorps to Cancel $400 Million in Grants",
+      "summary": "The Department of Government Efficiency (DOGE) directed AmeriCorps to cancel approximately $400 million in grants, representing about 41% of the agency's $1 billion annual budget. The cuts affected 1,031 organizations and over 32,000 AmeriCorps members and senior volunteers nationwide. Earlier in April, AmeriCorps placed most of its 650 full-time staff on administrative leave and discharged members of its National Civilian Community Corps program, which sends young adults to work on disaster response and community service projects. The cuts have sparked legal challenges from 24 states and Washington D.C., who sued the Trump administration accusing DOGE of unlawfully dismantling the agency. Several Republican lawmakers, including Senator Bill Cassidy of Louisiana, have also expressed concern about the cuts.",
+      "tags": [
+        "AmeriCorps",
+        "DOGE",
+        "Elon Musk",
+        "Trump Administration",
+        "Oversight Interference"
+      ],
+      "sources": [
+        "https://www.washingtonpost.com/nation/2025/04/25/americorps-grant-cuts-doge/",
+        "https://www.reuters.com/world/us/doge-orders-americorps-cancel-400-million-grants-washington-post-reports-2025-04-25/",
+        "https://apnews.com/article/trump-doge-americorps-cuts-volunteers-service-9b9c0e0cfb82ba6513478a35d3889b43",
+        "https://time.com/7278469/americorps-nccc-doge-funding-cuts-volunteers-community-service-program-trump/",
+        "https://www.washingtonpost.com/nation/2025/04/30/americorps-cuts-trump-lawsuit-doge/",
+        "https://www.kcci.com/article/americorps-iowa-cuts-doge-jobs-losses-hundreds-displaced/64659774"
+      ]
+    },
+    {
+      "date": "2025-04-18",
+      "title": "Social Security Administration Falsely Designates Thousands of Immigrants as Dead",
+      "summary": "The Social Security Administration has falsely added over 6,000 legally present immigrants to the agency's Death Master File at the direction of the Department of Homeland Security and DOGE. This move effectively cuts off these individuals from employment, banking services, and government benefits in what officials described as an effort to pressure them to leave the country. Internal documents revealed that those falsely listed as dead included children as young as 13, elderly people in their 70s and 80s, and a Haitian asylum seeker. When dozens of these individuals appeared at Social Security offices with identification proving they were alive, some were reinstated in the system. The White House defended the action, claiming the individuals were no longer eligible for benefits after their legal status was terminated, although they offered no evidence of alleged terrorist links or criminal records.",
+      "tags": [
+        "Social Security Administration",
+        "DOGE",
+        "Deportations",
+        "Immigration Policy",
+        "Rights Violations",
+        "Trump Administration",
+        "Data Privacy"
+      ],
+      "sources": [
+        "https://www.washingtonpost.com/politics/2025/04/18/immigrants-dead-social-security-alive/",
+        "https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/",
+        "https://apnews.com/article/living-immigrants-dead-social-security-numbers-trump-c10737cbe36e3108fb244a555777d880",
+        "https://www.cnn.com/2025/04/11/politics/trump-administration-social-security-dead-dhs/index.html",
+        "https://www.washingtonpost.com/politics/2025/04/10/self-deportation-immigrants-social-security-dead/",
+        "https://www.cbpp.org/blog/trump-and-doge-claim-power-to-falsely-list-living-persons-as-dead-in-social-security-records"
+      ]
+    }
 ]
