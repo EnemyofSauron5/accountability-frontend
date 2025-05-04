@@ -142,6 +142,83 @@ module.exports = {
   "Federal Workforce": "Federal Employees",
   "Censorship": "Press Freedom",
   "Signal Scandal": "Oversight Interference",
+  
+  // Government Agency Consolidations
+  "DHS": "Department of Homeland Security",
+  "DOJ": "Department of Justice",
+  "NSA": "National Security",
+  "CISA": "Cybersecurity",
+  "USCIS": "Department of Homeland Security",
+  
+  // Financial Sector Consolidations
+  "Aon": "Financial Markets",
+  "Fidelity Investments": "Financial Markets",
+  "Binance": "Crypto",
+  "Cushman & Wakefield": "Business Relationships",
+  
+  // Immigration Tags
+  "Citizens arrested": "Citizens detained",
+  "Long-term residents": "Immigration Actions",
+  "Denaturalization": "Immigration Actions",
+  
+  // Musk Company Tags
+  "Verizon": "Tech Platforms",
+  "Apple": "Tech Platforms",
+  
+  // Family and Personnel Consolidations
+  // "Jared Kushner": "Trump Organization", // Keeping separate per feedback
+  "Changpeng Zhao": "Crypto",
+  "Laura Loomer": "Trump Administration",
+  "Scott Bessent": "Treasury Department",
+  "Pam Bondi": "Department of Justice",
+  "Peter Thiel": "Tech Platforms",
+  
+  // Rare Location Tags
+  "El Salvador": "Deportations",
+  "Canada": "Tariffs",
+  "Greenland": "Foreign Influence",
+  
+  // DOGE-Related Consolidations
+  "Workforce Reductions": "DOGE",
+  "Government Restructuring": "DOGE",
+  "Government Administration": "Oversight Interference",
+
+  // Additional consolidations based on entry review
+  "Asylum seekers": "Immigration Actions",
+  "Border crossing": "Immigration Actions",
+  "International students": "Immigration Actions",
+  "Student Visas": "Immigration Actions",
+  "Visas revoked": "Immigration Actions",
+  "US citizens detained": "Citizens detained",
+  "Detentions": "Citizens detained", 
+  "Children detained": "Family separation",
+
+  "FAA": "Federal Agencies",
+  "FCC": "Federal Agencies",
+  "FTC": "Federal Agencies",
+  "Federal Oversight": "Oversight Interference",
+  "Government Accountability": "Oversight Interference",
+  "Government Oversight": "Oversight Interference",
+  "Intelligence Community": "National Security",
+  "Cabinet Reshuffling": "Trump Administration",
+
+  "Legal Issues": "Legal Challenges",
+  "Legal Proceedings": "Legal Challenges",
+
+  "International academics": "Academic Freedom",
+
+  "Foreign Aid": "Foreign Influence",
+  "Foreign Policy": "Foreign Influence",
+
+  "Housing": "Social Security Administration",
+  "Healthcare impacts": "Regulatory Rollback",
+  "Community response": "Press Freedom",
+
+  // New additional consolidations to fix remaining issues
+  "Military veterans": "Citizens detained",
+  "Healthcare": "Regulatory Rollback",
+  "Immigration Policy": "Immigration Actions",
+  "Immigration": "Immigration Actions", // Added this line to consolidate Immigration with Immigration Actions
 
   // Map to null to filter out this tag
   "California": null,

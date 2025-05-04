@@ -2,7 +2,6 @@
 const fs = require('fs');
 const path = require('path');
 const tagMap = require('./tagMap'); // Import the tag mapping
-
 const entriesPath = path.join(__dirname, '../public/Entries/index.json');
 const tagIndexPath = path.join(__dirname, '../src/data/tag-index.json');
 
@@ -30,7 +29,6 @@ entries.forEach(entry => {
         if (!mergedTags.has(oldTag)) {
           mergedTags.set(oldTag, newTag);
         }
-        
         return newTag;
       }
       return tag;
@@ -49,7 +47,6 @@ entries.forEach(entry => {
 // If changes were made, save updated entries
 if (changesMade) {
   fs.writeFileSync(entriesPath, JSON.stringify(entries, null, 2), 'utf-8');
-  
   console.log('\n🔄 Tag Mergers Applied\n----------------------');
   mergedTags.forEach((newTag, oldTag) => {
     console.log(`${oldTag.padEnd(30)} → ${newTag}`);
