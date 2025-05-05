@@ -3091,7 +3091,26 @@
   "sources": [
     "https://www.wired.com/story/doge-recruiter-ai-agents-palantir-clown-emoji/"
   ]
-}
+  },
+  {
+    "date": "2025-05-05",
+    "title": "FAA Staffing Crisis Reflects Systemic Failures Under Trump Administration",
+    "summary": "The recent meltdown at Newark Liberty International Airport, marked by over 200 flight delays and cancellations, underscores a broader pattern of systemic failures within the FAA. The crisis was precipitated by a significant shortage of air traffic controllers, with more than 20% reportedly taking leave due to stress from repeated system outages. This staffing shortfall is part of a larger trend following the Trump administration's mass firings of FAA employees, including safety-critical personnel. Despite acknowledging the problem, the administration's efforts to recruit and retain controllers have been insufficient, leading to widespread disruptions and raising serious concerns about aviation safety nationwide.",
+    "tags": [
+      "FAA",
+      "Federal Employees",
+      "Oversight Interference",
+      "Transportation Department",
+      "Donald Trump",
+      "Public Safety"
+    ],
+    "sources": [
+      "https://www.theguardian.com/us-news/2025/may/04/newark-airport-flight-delays-air-traffic-control",
+      "https://apnews.com/article/cc949525e6c1d4f22d16809ead69e1e4",
+      "https://www.thedailybeast.com/why-newark-airport-is-becoming-sean-duffys-biggest-headache"
+    ]
+  }
+
 ]
 
 
