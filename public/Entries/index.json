@@ -2935,5 +2935,164 @@
     "https://www.reuters.com/world/us/us-justice-department-reassigns-about-dozen-civil-rights-attorneys-amid-shakeup-2025-04-22/",
     "https://www.washingtonpost.com/national-security/2025/04/28/justice-civil-rights-harmeet-dhillon-trump/"
   ]
+},
+{
+  "date": "2025-05-02",
+  "title": "DOGE Expanding AI Implementation Across Federal Agencies Despite Concerns",
+  "summary": "An investigation by Wired reveals that Elon Musk's Department of Government Efficiency (DOGE) is rapidly implementing artificial intelligence systems across federal agencies with little oversight. At the Department of Housing and Urban Development, a college undergraduate named Christopher Sweet was tasked with using AI to identify regulations that could be eliminated or rewritten. In a separate initiative reported by Wired, DOGE recruiter Anthony Jancso is seeking engineers to deploy AI agents across federal agencies with the goal of replacing tens of thousands of government workers. Critics warn that many of these AI implementations are being rushed without proper safeguards, potentially causing significant disruption to essential government services while creating opportunities for private contractors to take over these functions.",
+  "tags": [
+    "DOGE",
+    "Elon Musk",
+    "AI Surveillance",
+    "Data Privacy",
+    "Oversight Interference",
+    "Federal Agencies",
+    "Federal Employees"
+  ],
+  "sources": [
+    "https://www.wired.com/story/doge-is-in-its-ai-era/"
+  ]
+},
+{
+  "date": "2025-04-30",
+  "title": "DOGE Tasks College Student with Using AI to Rewrite Federal Housing Regulations",
+  "summary": "A Wired investigation revealed that Christopher Sweet, a third-year University of Chicago student without government experience, was hired by Elon Musk's Department of Government Efficiency (DOGE) to lead an AI-driven initiative to rewrite regulations at the Department of Housing and Urban Development (HUD). Sweet, who has not yet completed his undergraduate degree, was introduced as a 'special assistant' tasked with using AI to compare existing HUD regulations to their underlying laws and identify areas to be relaxed or removed. According to internal sources, Sweet's AI tool has already produced a spreadsheet with approximately 1,000 areas where HUD may have 'overreached,' suggesting replacement language. The initiative appears aligned with the Project 2025 policy document's deregulation goals, with sources indicating the model is being refined for deployment across all government agencies.",
+  "tags": [
+    "DOGE",
+    "Elon Musk",
+    "Regulatory Rollback",
+    "Federal Agencies",
+    "AI Surveillance",
+    "Oversight Interference"
+  ],
+  "sources": [
+    "https://www.wired.com/story/doge-college-student-ai-rewrite-regulations-deregulation/"
+  ]
+},
+{
+  "date": "2025-05-05",
+  "title": "Trump Sons' Global Deals Funnel Millions to President Amid Second Term",
+  "summary": "Eric Trump and Donald Trump Jr. have embarked on an international deal spree—launching luxury real estate projects in Dubai, Qatar, and Serbia, and promoting crypto ventures like World Liberty Financial and $Trump memecoin. These ventures, many involving foreign governments and state-backed capital, funnel millions directly to President Trump, according to his latest financial disclosures. Donald Jr. also co-founded a $500,000-a-seat private DC club named Executive Branch, pitched as a GOP power center. Ethics experts warn the family's actions amount to an unprecedented monetization of the presidency.",
+  "tags": [
+    "Donald Trump",
+    "Trump Organization",
+    "Campaign Finance",
+    "Crypto",
+    "World Liberty Financial",
+    "Conflicts of Interest",
+    "Foreign Influence",
+    "Oversight Interference"
+  ],
+  "sources": [
+    "https://www.nytimes.com/2025/05/05/us/politics/eric-donald-jr-trump-family-deals.html"
+  ]
+},
+{
+  "date": "2025-04-30",
+  "title": "Trump Family Secures $2B Investment in World Liberty Financial from Abu Dhabi–Backed Firm",
+  "summary": "Eric Trump announced at the Token 2049 crypto summit in Dubai that a venture capital firm backed by the Abu Dhabi government will invest $2 billion in World Liberty Financial, the Trump family's crypto venture. The investment will use World Liberty’s own digital currency product and is projected to yield hundreds of millions in fees and token revenue for the Trump family and its partners. The deal was announced while Eric Trump sat on stage next to co-founder Zach Witkoff. Ethics experts warn that the use of foreign sovereign wealth to enrich the sitting president’s family during his term raises major conflict of interest concerns.",
+  "tags": [
+    "Donald Trump",
+    "World Liberty Financial",
+    "Crypto",
+    "Conflicts of Interest",
+    "Foreign Influence"
+  ],
+  "sources": [
+    "https://www.nytimes.com/2025/05/05/us/politics/eric-donald-jr-trump-family-deals.html",
+    "https://apnews.com/article/trump-crypto-middle-east-world-liberty-5a3e84471ffca2a2f6bc2f6e31b46b7f",
+    "https://www.reuters.com/technology/trump-family-crypto-abu-dhabi-investment-world-liberty-2025-04-30/"
+  ]
+},
+{
+  "date": "2025-04-25",
+  "title": "Trump Jr. Launches $500K Invitation-Only DC Club for MAGA Donors and Insiders",
+  "summary": "Donald Trump Jr. co-founded Executive Branch, a new $500,000-per-seat invitation-only private club in Georgetown designed as a gathering place for elite Trump allies. Modeled after the former Trump International Hotel’s lobby culture, the club will include bars, a restaurant, a boardroom, and serve as a social hub for MAGA-aligned executives, officials, and crypto insiders. Founding members include crypto moguls Tyler and Cameron Winklevoss, investor David Sacks, and lobbyist Jeff Miller. The club’s creation raises red flags about access-for-sale and conflicts of interest given that some founding members were previously under SEC scrutiny until Trump-appointed officials halted enforcement. The Trump Organization confirmed the president's son is one of the primary stakeholders.",
+  "tags": [
+    "Campaign Finance",
+    "Donald Trump",
+    "Trump Organization",
+    "Crypto",
+    "Conflicts of Interest",
+    "Influence Peddling"
+  ],
+  "sources": [
+    "https://www.nytimes.com/2025/05/05/us/politics/eric-donald-jr-trump-family-deals.html",
+    "https://www.cnbc.com/2025/04/28/donald-trump-jr-private-members-club-executive-branch.html",
+    "https://www.axios.com/2025/04/28/magas-coming-clubhouse-executive-branch",
+    "https://www.washingtonpost.com/politics/2025/04/28/trump-executive-branch-private-club-dc/"
+  ]
+ },
+ {
+  "date": "2025-05-05",
+  "title": "GENIUS Act Stalls in Senate Over Trump Family Crypto Conflicts",
+  "summary": "Senate Democrats abruptly withdrew support for the bipartisan GENIUS Act—a stablecoin bill—after revelations that the Trump family’s crypto firm, World Liberty Financial, stands to benefit from provisions in the legislation. Senate Majority Leader Chuck Schumer and Senators Warren and Merkley raised concerns that the bill, if passed, would effectively enrich the president and his family through their USD1 stablecoin and a $2 billion deal with an Abu Dhabi-backed fund. The shift in support jeopardizes passage of the crypto industry's top legislative priority.",
+  "tags": [
+    "Crypto",
+    "Donald Trump",
+    "World Liberty Financial",
+    "GENIUS Act",
+    "Conflicts of Interest",
+    "Senate",
+    "Regulatory Policy"
+  ],
+  "sources": [
+    "https://www.nytimes.com/2025/05/05/us/politics/trump-crypto-senate-investigation.html",
+    "https://www.politico.com/news/2025/05/04/how-senate-crypto-negotiations-fell-apart-00326129",
+    "https://www.axios.com/2025/05/02/trump-stablecoin-genius-act-schumer-gillibrand"
+  ]
+},
+{
+  "date": "2025-05-05",
+  "title": "Senators Warren and Merkley Demand Ethics Probe into Trump Crypto Deals",
+  "summary": "Senators Elizabeth Warren and Jeff Merkley formally requested an investigation by the Office of Government Ethics into the Trump family's crypto dealings. Their letter cited 'a startling degree of foreign influence and the potential for a quid pro quo' following a $2 billion Abu Dhabi transaction involving the Trump-backed firm World Liberty Financial. This followed the firm’s launch of the USD1 stablecoin, which would benefit from legislation Trump has championed. Lawmakers expressed concern that the president is using regulatory and legislative tools to personally profit.",
+  "tags": [
+    "Donald Trump",
+    "Crypto",
+    "World Liberty Financial",
+    "Ethics",
+    "Foreign Influence",
+    "Oversight Interference"
+  ],
+  "sources": [
+    "https://www.nytimes.com/2025/05/05/us/politics/trump-crypto-senate-investigation.html",
+    "https://www.schiff.senate.gov/news/press-releases/news-sens-schiff-warren-demand-federal-ethics-watchdog-investigate-trump-pay-to-play-dinner-for-meme-coin-holders/"
+  ]
+},
+{
+  "date": "2025-05-05",
+  "title": "Trump Hosts $1.5 Million Crypto Fundraiser at Virginia Golf Club Amid Senate Scrutiny",
+  "summary": "As Senate Democrats moved to block a crypto bill benefiting his family's ventures, President Trump hosted a $1.5 million-per-person fundraiser for crypto donors at his Virginia golf club. The event was sponsored by cryptocurrency executives and came days after World Liberty Financial secured a $2 billion deal involving USD1, the Trump family’s stablecoin. The timing raised alarms among ethics watchdogs, who say the administration is blurring the line between policymaking and personal enrichment.",
+  "tags": [
+    "Campaign Finance",
+    "Donald Trump",
+    "Crypto",
+    "Trump Organization",
+    "Conflicts of Interest"
+  ],
+  "sources": [
+    "https://www.nytimes.com/2025/05/05/us/politics/trump-crypto-senate-investigation.html",
+    "https://www.thedailybeast.com/trump-raising-millions-at-crypto-events-prompts-ethics-concerns"
+  ]
+},
+{
+  "date": "2025-05-02",
+  "title": "DOGE Contractor Recruits AI Agents to Replace Tens of Thousands of Federal Employees",
+  "summary": "WIRED revealed that Anthony Jancso, an early DOGE recruiter and cofounder of the tech startup AccelerateX, is hiring technologists for a project to deploy AI agents across U.S. federal agencies. In a Slack post to Palantir alumni, Jancso claimed that more than 70,000 federal jobs could be replaced through AI automation. The project, aligned with DOGE’s broader efficiency goals, is being promoted without requiring security clearances and has ties to Palantir and OpenAI programs. Experts, former contractors, and public servants criticized the plan as overhyped and reckless, citing risks to governance and policy implementation.",
+  "tags": [
+    "DOGE",
+    "AI Surveillance",
+    "Federal Employees",
+    "Data Privacy",
+    "Oversight Interference",
+    "Elon Musk",
+    "Tech Platforms"
+  ],
+  "sources": [
+    "https://www.wired.com/story/doge-recruiter-ai-agents-palantir-clown-emoji/"
+  ]
 }
 ]
+
+
+
