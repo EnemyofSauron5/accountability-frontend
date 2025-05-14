@@ -3228,19 +3228,20 @@
   {
     "date": "2025-05-12",
     "title": "Qatar Plans to Gift Trump $400M Luxury Jet for Use as Air Force One and Later His Library",
-    "summary": "The Trump administration planned to accept a luxury Boeing 747-8 worth $400 million from Qatar's royal family to serve as Air Force One, with the plane later transferring to Trump's presidential library. Ethics experts and lawmakers condemned the arrangement as a potential emoluments clause violation, citing Trump's business interests in the region including a recently announced Trump golf resort in Qatar. When questioned about ethical concerns, Trump responded angrily, calling those who objected 'stupid' and saying only someone 'stupid' would turn down such an offer.",
+    "summary": "The Trump administration planned to accept a luxury Boeing 747-8 worth $400 million from Qatar's royal family to serve as Air Force One, with the plane later transferring to Trump's presidential library. Ethics experts and lawmakers condemned the arrangement as a potential emoluments clause violation, citing Trump's business interests in the region, including a recently announced Trump golf resort in Qatar. When questioned about ethical concerns, Trump responded angrily, calling those who objected 'stupid' and saying only someone 'stupid' would turn down such an offer. The deal reflects a broader pattern of quid pro quo arrangements with foreign governments—including Qatar and El Salvador—where lucrative business partnerships or crypto cooperation coincided with favorable U.S. policy treatment or immigration enforcement assistance.",
     "tags": [
       "Donald Trump",
       "Foreign Influence",
       "Conflicts of Interest",
       "Ethics",
-      "Legal Challenges"
+      "Legal Challenges",
+      "Trump Administration"
     ],
     "sources": [
-      "https://www.theatlantic.com/newsletters/archive/2025/05/trump-qatar-plane-gift/682785/?utm_campaign=atlantic-daily-newsletter&utm_source=newsletter&utm_medium=email&utm_content=20240605",
+      "https://www.theatlantic.com/newsletters/archive/2025/05/trump-qatar-plane-gift/682785/",
       "https://www.nytimes.com/2025/05/12/us/trump-qatar-jet-plane.html",
-      "https://www.nytimes.com/2025/05/11/us/politics/trump-qatar-jet-gift-air-force-one.html"
-      
+      "https://www.nytimes.com/2025/05/11/us/politics/trump-qatar-jet-gift-air-force-one.html",
+      "https://www.theguardian.com/us-news/2025/may/13/trump-quid-pro-quo-qatar-plane"
     ]
   },
   {
@@ -3464,5 +3465,55 @@
     "sources": [
       "https://www.nytimes.com/2025/05/13/us/politics/lawsuits-federal-funding-immigration.html?smid=nytcore-ios-share&referringSource=articleShare"
     ]
-  }
+  },
+  {
+    "date": "2025-05-14",
+    "title": "Commerce Secretary Lutnick's Ties to Tether and El Salvador Raise Ethical Concerns",
+    "summary": "Commerce Secretary Howard Lutnick's connections to cryptocurrency firm Tether and its operations in El Salvador have come under scrutiny. Cantor Fitzgerald, Lutnick's former firm, holds a 5% stake in Tether and manages a significant portion of its $134 billion in assets. Tether's relocation to El Salvador, a country with crypto-friendly regulations under President Nayib Bukele, and subsequent investments—including a $775 million stake in pro-Trump platform Rumble—have raised questions about potential conflicts of interest and ethical violations within the Trump administration.",
+    "tags": [
+      "Donald Trump",
+      "Foreign Influence",
+      "Conflicts of Interest",
+      "Crypto",
+      "Ethics",
+      "Legal Challenges"
+    ],
+    "sources": [
+      "https://www.theguardian.com/us-news/2025/may/14/lutnick-el-salvador-crypto-immigration",
+      "https://www.thestar.com.my/business/business-news/2025/01/15/cryptocurrency-firm-relocating-to-el-salvador",
+      "https://coinmarketcap.com/academy/article/fb0246f8-457a-48f7-960e-0acf3b55f7e2"
+    ]
+  },
+  {
+    "date": "2025-05-14",
+    "title": "Commerce Secretary Lutnick Maintains Tether Ties and El Salvador Interests While Overseeing U.S. Crypto Policy",
+    "summary": "Commerce Secretary Howard Lutnick, CEO of Cantor Fitzgerald, retained extensive ties to El Salvador’s crypto ecosystem—including a 5% stake in Tether and business relationships with Nayib Bukele’s government—while overseeing the Trump administration’s international crypto policy. Ethics experts raised concerns about conflicts of interest and potential self-dealing, particularly as Lutnick promoted El Salvador as a 'model partner' in U.S. digital asset diplomacy. The revelation has prompted scrutiny from lawmakers and calls for greater transparency in Cabinet officials’ financial disclosures.",
+    "tags": [
+      "Federal Agencies",
+      "Trump Administration",
+      "Conflicts of Interest",
+      "Crypto",
+      "Foreign Influence",
+      "Ethics"
+    ],
+    "sources": [
+      "https://www.theguardian.com/us-news/2025/may/14/lutnick-el-salvador-crypto-immigration"
+    ]
+  },
+  {
+    "date": "2025-05-14",
+    "title": "El Salvador Immigration Cooperation Linked to Crypto Diplomacy and Commerce Secretary’s Business Interests",
+    "summary": "The Guardian reported that El Salvador's close cooperation with the Trump administration on mass Venezuelan deportations was influenced by behind-the-scenes economic negotiations tied to cryptocurrency investments. El Salvador, under President Nayib Bukele, received favorable regulatory treatment and was praised by Commerce Secretary Howard Lutnick—who has financial interests in El Salvador’s crypto operations. The alignment of immigration enforcement, foreign aid, and digital currency diplomacy raised red flags among watchdog groups, suggesting the administration was blending policy incentives with financial self-interest.",
+    "tags": [
+      "Foreign Influence",
+      "Deportations",
+      "Immigration Actions",
+      "Conflicts of Interest",
+      "Crypto",
+      "Oversight Interference"
+    ],
+    "sources": [
+      "https://www.theguardian.com/us-news/2025/may/14/lutnick-el-salvador-crypto-immigration"
+    ]
+  }  
 ]
