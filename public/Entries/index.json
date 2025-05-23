@@ -3379,7 +3379,7 @@
       "Donald Trump",
       "Crypto",
       "Foreign Influence",
-      "Conflicts of Interest", 
+      "Conflicts of Interest",
       "Ethics",
       "Tech Platforms"
     ],
@@ -3529,7 +3529,7 @@
       "Legal Challenges"
     ],
     "sources": [
-    "https://www.nytimes.com/2025/05/22/us/politics/harvard-university-trump.html?smid=nytcore-ios-share&referringSource=articleShare"
+      "https://www.nytimes.com/2025/05/22/us/politics/harvard-university-trump.html?smid=nytcore-ios-share&referringSource=articleShare"
     ]
   },
   {
@@ -3542,15 +3542,14 @@
       "Immigration Actions",
       "Oversight Interference",
       "Federal Agencies",
-      "Legal Challenges",
-      "Harvard University"
+      "Legal Challenges"
     ],
     "sources": [
       "https://www.nytimes.com/2025/05/22/us/politics/trump-harvard-international-students.html",
       "https://www.wsj.com/us-news/education/trump-harvard-foreign-international-student-enrollment-00124307?utm_source=chatgpt.com",
       "https://www.wsj.com/us-news/education/harvard-trump-dhs-international-students-enrollment-e4bc3ea6?utm_source=chatgpt.com",
       "https://www.wsj.com/us-news/education/student-visas-revoked-trump-administration-82fd8059?utm_source=chatgpt.com"
-   ]
+    ]
   },
   {
     "date": "2025-05-22",
@@ -3558,16 +3557,15 @@
     "summary": "In a razor-thin 215-214 vote, House Republicans passed President Trump's sweeping tax and immigration bill, dubbed the 'One Big Beautiful Bill.' The legislation, now heading to the Senate, includes major tax cuts, deep reductions in Medicaid and other social safety net programs, a sharp escalation of deportation powers, expanded military spending, and restrictions on student loans. It also repeals climate investments and renews funding for Trump’s border wall project. Trump praised the bill as a cornerstone of his second-term agenda and demanded swift Senate passage. Democrats uniformly opposed the package, with Senate Minority Leader Chuck Schumer calling it 'rotten to the core' and a vehicle for enriching the wealthy while punishing the poor. The legislation also omits Trump’s promised closure of the carried-interest loophole, which drew criticism even from some conservative holdouts. Trump allies have threatened primary challenges against the two Republican defectors, signaling continued intra-party enforcement of ideological loyalty.",
     "tags": [
       "Donald Trump",
-      "Immigration Policy",
-      "Tax Policy",
-      "Federal Budget",
-      "Healthcare",
-      "Climate Policy",
+      "Immigration Actions",
+      "Financial Markets",
+      "Federal Agencies",
+      "Regulatory Rollback",
       "Trump Administration",
       "Congressional Action"
     ],
-  "sources": [
-    "https://www.washingtonpost.com/politics/2025/05/22/trump-presidency-news/"
+    "sources": [
+      "https://www.washingtonpost.com/politics/2025/05/22/trump-presidency-news/"
     ]
   },
   {
@@ -3578,8 +3576,6 @@
       "Trump Administration",
       "Immigration Actions",
       "Rights Violations",
-      "Due Process Violations",
-     "Family Separation",
       "Academic Freedom"
     ],
     "sources": [
@@ -3595,7 +3591,7 @@
       "Immigration Actions",
       "Rights Violations",
       "Free Speech",
-     "Academic Freedom",
+      "Academic Freedom",
       "Trump Administration",
       "Legal Challenges"
     ],
@@ -3629,9 +3625,9 @@
       "Foreign Influence",
       "Conflicts of Interest",
       "Trump Administration",
-      "Emoluments",
+      "Legal Challenges",
       "Ethics",
-      "Defense Department"
+      "Federal Agencies"
     ],
     "sources": [
       "https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare"
@@ -3660,10 +3656,10 @@
     "tags": [
       "Deportations",
       "Donald Trump",
-      "Due Process Violations",
-      "Department of Homeland Security",
+      "Rights Violations",
+      "Federal Agencies",
       "Oversight Interference",
-      "Immigration Policy"
+      "Immigration Actions"
     ],
     "sources": [
       "https://www.nytimes.com/2025/05/20/us/politics/trump-immigration-deportations-south-sudan.html?smid=nytcore-ios-share&referringSource=articleShare"
@@ -3677,9 +3673,7 @@
       "Donald Trump",
       "Crypto",
       "Conflicts of Interest",
-      "Campaign Finance",
-      "World Liberty Financial",
-      "White House Access"
+      "Campaign Finance"
     ],
     "sources": [
       "https://apnews.com/article/trump-crypto-projects-industry-scam-memecoin-0e2d7ca5170bf594d44a391884ec52b3"
@@ -3692,11 +3686,9 @@
     "tags": [
       "DOGE",
       "Donald Trump",
-      "Department of Defense",
+      "Federal Agencies",
       "Oversight Interference",
-      "Asset Seizures",
-      "Judicial Pushback",
-      "USIP"
+      "Legal Challenges"
     ],
     "sources": [
       "https://www.wired.com/story/usip-doge-headquarters-building-ruling/"
@@ -3707,14 +3699,14 @@
     "title": "Tornado Death Toll Highlights Risks of DOGE Cuts to Emergency Weather Systems",
     "summary": "A devastating series of tornadoes across Missouri, Kentucky, and Virginia killed 42 people in a single weekend, underscoring growing concerns over degraded federal disaster readiness under the Trump administration. A report by *The Atlantic* warns that staffing cuts imposed by the Department of Government Efficiency (DOGE), run by Elon Musk and Donald Trump, have compromised the forecasting and alert capabilities of the National Weather Service and NOAA. As hurricane season looms, about 40% of local NWS offices face critical staffing gaps. Experts warn that these cuts may reduce the precious seconds Americans have to seek shelter in extreme weather events.",
     "tags": [
-     "DOGE",
+      "DOGE",
       "Donald Trump",
       "Elon Musk",
       "Federal Agencies",
       "Oversight Interference"
     ],
-  "sources": [
-    "https://www.theatlantic.com/ideas/archive/2025/05/tornado-weather-alerts-doge-cuts/682847/"
+    "sources": [
+      "https://www.theatlantic.com/ideas/archive/2025/05/tornado-weather-alerts-doge-cuts/682847/"
     ]
   },
   {
@@ -3746,7 +3738,7 @@
       "Trump Administration"
     ],
     "sources": [
-    "https://www.nytimes.com/2025/05/19/us/politics/trump-air-force-one-qatar-jet.html?smid=nytcore-ios-share&referringSource=articleShare"
+      "https://www.nytimes.com/2025/05/19/us/politics/trump-air-force-one-qatar-jet.html?smid=nytcore-ios-share&referringSource=articleShare"
     ]
   },
   {
@@ -3756,21 +3748,20 @@
     "tags": [
       "Donald Trump",
       "DOGE",
-      "CFPB",
-      "Oversight Interference",
       "Federal Agencies",
+      "Oversight Interference",
       "Ethics"
     ],
     "sources": [
       "https://www.theguardian.com/us-news/2025/may/19/trump-consumer-financial-protection-bureau"
-   ]
+    ]
   },
   {
     "date": "2025-05-17",
     "title": "Trump Sells Access to Crypto Investors via Meme Coin Gala, Raising Alarms About Foreign Influence and Anonymity",
     "summary": "A Washington Post exposé reveals that dozens of largely anonymous crypto investors—many from China and Southeast Asia—won access to a private gala with President Trump by purchasing millions in 'Trump meme coins.' The top 220 buyers were invited to a no-press dinner at Trump National Golf Club, with many identities masked by untraceable wallets. At least half of the top invitees used offshore exchanges that reject U.S. customers. Critics—including Sen. Chris Murphy—warned the scheme could let authoritarian regimes or opaque firms buy policy influence. One attendee, a crypto investor known as 'Ogle,' is also tied to World Liberty Financial, which just announced a $2B crypto deal involving Binance and an Emirati firm with Trump family links. The Trump team has earned over $43 million in transaction fees since the coin launched in January.",
     "tags": [
-    "Donald Trump",
+      "Donald Trump",
       "Crypto",
       "Foreign Influence",
       "Conflicts of Interest",
@@ -3779,7 +3770,7 @@
     ],
     "sources": [
       "https://www.washingtonpost.com/investigations/2025/05/17/trump-meme-coin-crypto-dinner-winners/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzQ3NjI3MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzQ5MDA5NTk5LCJpYXQiOjE3NDc2MjcyMDAsImp0aSI6IjBmNGZiYTgwLTNlNWYtNDE5NC1hZGY2LWE0MjI3ZTgxNDk5ZCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9pbnZlc3RpZ2F0aW9ucy8yMDI1LzA1LzE3L3RydW1wLW1lbWUtY29pbi1jcnlwdG8tZGlubmVyLXdpbm5lcnMvIn0.TaV7qg0ejkMphdr_ny8JtnszHj4IHknnwjRKnXD5kAE"
-    ] 
+    ]
   },
   {
     "date": "2025-05-22",
@@ -3820,10 +3811,9 @@
     "tags": [
       "Donald Trump",
       "Deportations",
-      "Supreme Court",
+      "Legal Challenges",
       "Immigration Actions",
-      "Rights Violations",
-      "Legal Challenges"
+      "Rights Violations"
     ],
     "sources": [
       "https://www.nytimes.com/2025/05/19/us/politics/supreme-court-protected-status-venezuelans.html"
@@ -3839,16 +3829,16 @@
       "Campaign Finance",
       "Conflicts of Interest",
       "Foreign Influence",
-     "Ethics"
+      "Ethics"
     ],
     "sources": [
       "https://www.wired.com/story/trump-memecoin-dinner-winners/",
       "https://www.apnews.com/article/0e2d7ca5170bf594d44a391884ec52b3",
       "https://www.theguardian.com/us-news/2025/may/22/trump-crypto-sweepstakes-dinner",
       "https://time.com/7288191/trump-to-attend-crypto-dinner-corruption/",
-     "https://www.vanityfair.com/news/story/donald-trump-crypto-dinner",
-     "https://www.politico.com/news/2025/05/22/crypto-memecoin-dinner-trump-warren-00360761",
-     "https://www.businessinsider.com/trump-memecoin-dinner-attending-crypto-what-to-know-2025-5"
+      "https://www.vanityfair.com/news/story/donald-trump-crypto-dinner",
+      "https://www.politico.com/news/2025/05/22/crypto-memecoin-dinner-trump-warren-00360761",
+      "https://www.businessinsider.com/trump-memecoin-dinner-attending-crypto-what-to-know-2025-5"
     ]
   },
   {
@@ -3861,10 +3851,8 @@
       "DOGE",
       "Oversight Interference",
       "Academic Freedom",
-      "Harvard University",
       "Federal Agencies",
-      "Veterans Affairs",
-      "Healthcare"
+      "Regulatory Rollback"
     ],
     "sources": [
       "https://www.nytimes.com/2025/05/16/us/politics/trump-harvard-veterans-research.html?smid=nytcore-ios-share&referringSource=articleShare"
@@ -3875,13 +3863,13 @@
     "title": "Trump Administration Fires Over One-Third of Voice of America Staff, Puts Building Up for Sale",
     "summary": "The Trump administration fired nearly 600 employees—over one-third of Voice of America’s workforce—in a sweeping move to dismantle the independent news organization. The layoffs primarily affected journalists, including those from repressive regimes who must now leave the U.S. due to their visa status. The action follows an earlier executive order to defund the U.S. Agency for Global Media and shutter affiliated newsrooms. A federal court ruling had required the administration to preserve VOA news operations, but a recent appeals court decision allowed certain firings to proceed. The administration has also listed VOA’s Washington headquarters for sale and announced plans to replace some programming with content from the pro-Trump outlet One America News. Critics warn the purge represents a grave threat to U.S. soft power and press freedom abroad.",
     "tags": [
-    "Donald Trump",
-    "Press Freedom",
-    "Oversight Interference",
-    "Federal Agencies",
-    "Legal Challenges",
-    "Immigration Actions",
-    "Trump Administration"
+      "Donald Trump",
+      "Press Freedom",
+      "Oversight Interference",
+      "Federal Agencies",
+      "Legal Challenges",
+      "Immigration Actions",
+      "Trump Administration"
     ],
     "sources": [
       "https://www.nytimes.com/2025/05/15/us/politics/trump-voice-of-america-firings.html?smid=nytcore-ios-share&referringSource=articleShare"
@@ -3893,7 +3881,7 @@
     "summary": "Financial disclosures reveal that Attorney General Pam Bondi sold between $1 million and $5 million in Trump Media stock on April 2—the same day President Trump announced surprise global tariffs that caused a sharp drop in stock prices. The timing raised concerns about possible insider trading, though Bondi was legally required to divest her shares within 90 days of taking office. The stock lost 15% of its value after the announcement, then rebounded when Trump reversed course. Bondi, a longtime Trump ally, previously earned millions from consulting for Trump Media and lobbying with firms close to the president. Her spokesman did not respond to requests for comment. The Office of Government Ethics has not announced an investigation.",
     "tags": [
       "Donald Trump",
-      "Pam Bondi",
+      "Federal Agencies",
       "Conflicts of Interest",
       "Financial Markets",
       "Trump Organization",
@@ -3904,164 +3892,160 @@
     ]
   },
   {
-  "date": "2025-05-13",
-  "title": "Disability Rights Activists Arrested Protesting Medicaid Cuts in Trump’s Omnibus Bill",
-  "summary": "Twenty-five disability rights activists, many in wheelchairs, were arrested inside a House committee hearing as Republican lawmakers advanced major cuts to Medicaid under Trump’s so-called 'One Big Beautiful Bill.' Protesters from the group ADAPT disrupted markup proceedings chanting 'no cuts to Medicaid' and 'waste, fraud, and abuse, my ass,' as GOP leadership framed the cuts as targeting inefficiency. The bill extends Trump-era tax cuts for the wealthy while slashing health care, SNAP, and climate programs. A CBO analysis found the proposed Medicaid cuts would strip health coverage from over 10 million Americans in the next decade.",
-  "tags": [
-    "Trump Administration",
-    "Congressional Action",
-    "Healthcare",
-    "Rights Violations",
-    "Oversight Interference",
-    "Public Protests",
-    "Medicaid"
+    "date": "2025-05-13",
+    "title": "Disability Rights Activists Arrested Protesting Medicaid Cuts in Trump’s Omnibus Bill",
+    "summary": "Twenty-five disability rights activists, many in wheelchairs, were arrested inside a House committee hearing as Republican lawmakers advanced major cuts to Medicaid under Trump’s so-called 'One Big Beautiful Bill.' Protesters from the group ADAPT disrupted markup proceedings chanting 'no cuts to Medicaid' and 'waste, fraud, and abuse, my ass,' as GOP leadership framed the cuts as targeting inefficiency. The bill extends Trump-era tax cuts for the wealthy while slashing health care, SNAP, and climate programs. A CBO analysis found the proposed Medicaid cuts would strip health coverage from over 10 million Americans in the next decade.",
+    "tags": [
+      "Trump Administration",
+      "Congressional Action",
+      "Regulatory Rollback",
+      "Rights Violations",
+      "Oversight Interference",
+      "Free Speech"
     ],
-  "sources": [
-    "https://www.politico.com/live-updates/2025/05/13/congress/medicaid-cut-protestors-disrupt-gop-megabill-markup-00345841",
-    "https://apnews.com/article/trump-big-bill-tax-cuts-medicaid-1c893945b416419d806dacb6d24b895a",
-    "https://heathercoxrichardson.substack.com/p/may-13-2025"  
+    "sources": [
+      "https://www.politico.com/live-updates/2025/05/13/congress/medicaid-cut-protestors-disrupt-gop-megabill-markup-00345841",
+      "https://apnews.com/article/trump-big-bill-tax-cuts-medicaid-1c893945b416419d806dacb6d24b895a",
+      "https://heathercoxrichardson.substack.com/p/may-13-2025"
     ]
   },
   {
-  "date": "2025-05-13",
-  "title": "Musk Leverages DOGE-Gathered Government Data to Boost xAI Valuation in Saudi Deal",
-  "summary": "While stepping back from formal DOGE operations, Elon Musk traveled with President Trump to Saudi Arabia, where he joined AI leaders like Sam Altman and Jensen Huang in courting Saudi investment. Cybersecurity experts warn that Musk’s AI company, xAI—now valued at up to $120 billion—is built in part on data mined from U.S. government systems while Musk led the Department of Government Efficiency. The administration's recent firings of the Librarian of Congress and Register of Copyrights, both critics of unauthorized AI training, raised further alarms about government-enabled profiteering. Musk reportedly pitched xAI as a vehicle for Saudi investment in a $600 billion package negotiated during the visit.",
-  "tags": [
-    "Elon Musk",
-    "DOGE",
-    "Musk Companies",
-    "Data Privacy",
-    "AI Surveillance",
-    "Foreign Influence",
-    "Conflicts of Interest",
-    "Trump Administration"
+    "date": "2025-05-13",
+    "title": "Musk Leverages DOGE-Gathered Government Data to Boost xAI Valuation in Saudi Deal",
+    "summary": "While stepping back from formal DOGE operations, Elon Musk traveled with President Trump to Saudi Arabia, where he joined AI leaders like Sam Altman and Jensen Huang in courting Saudi investment. Cybersecurity experts warn that Musk’s AI company, xAI—now valued at up to $120 billion—is built in part on data mined from U.S. government systems while Musk led the Department of Government Efficiency. The administration's recent firings of the Librarian of Congress and Register of Copyrights, both critics of unauthorized AI training, raised further alarms about government-enabled profiteering. Musk reportedly pitched xAI as a vehicle for Saudi investment in a $600 billion package negotiated during the visit.",
+    "tags": [
+      "Elon Musk",
+      "DOGE",
+      "Musk Companies",
+      "Data Privacy",
+      "AI Surveillance",
+      "Foreign Influence",
+      "Conflicts of Interest",
+      "Trump Administration"
     ],
-  "sources": [
-    "https://www.nytimes.com/2025/05/13/us/politics/trump-saudi-business-lunch-musk-altman.html",
-    "https://www.theguardian.com/technology/2025/apr/24/elon-musk-xai-memphis",
-    "https://heathercoxrichardson.substack.com/p/may-13-2025" 
+    "sources": [
+      "https://www.nytimes.com/2025/05/13/us/politics/trump-saudi-business-lunch-musk-altman.html",
+      "https://www.theguardian.com/technology/2025/apr/24/elon-musk-xai-memphis",
+      "https://heathercoxrichardson.substack.com/p/may-13-2025"
     ]
   },
   {
-
-  "date": "2025-05-14",
-  "title": "Musk Steps Back from DOGE as Congressional Caucus Collapses",
-  "summary": "After months of leading the Department of Government Efficiency (DOGE) and accessing sensitive federal data, Elon Musk has reportedly stepped back from formal duties—shifting focus to raising a $120 billion valuation for his private AI firm, xAI. Meanwhile, the House DOGE Caucus, created to collaborate with Musk, has collapsed. Rep. Jared Moskowitz (D-FL) confirmed that the caucus is 'dead... defunct' and held only two meetings in five months. The public backlash over airport meltdowns, AI surveillance, and mass firings is believed to have eroded congressional support.",
-  "tags": [
-    "Elon Musk",
-    "DOGE",
-    "Trump Administration",
-    "Musk Companies",
-    "Oversight Interference",
-    "AI Surveillance",
-    "Federal Agencies"
+    "date": "2025-05-14",
+    "title": "Musk Steps Back from DOGE as Congressional Caucus Collapses",
+    "summary": "After months of leading the Department of Government Efficiency (DOGE) and accessing sensitive federal data, Elon Musk has reportedly stepped back from formal duties—shifting focus to raising a $120 billion valuation for his private AI firm, xAI. Meanwhile, the House DOGE Caucus, created to collaborate with Musk, has collapsed. Rep. Jared Moskowitz (D-FL) confirmed that the caucus is 'dead... defunct' and held only two meetings in five months. The public backlash over airport meltdowns, AI surveillance, and mass firings is believed to have eroded congressional support.",
+    "tags": [
+      "Elon Musk",
+      "DOGE",
+      "Trump Administration",
+      "Musk Companies",
+      "Oversight Interference",
+      "AI Surveillance",
+      "Federal Agencies"
     ],
-  "sources": [
-    "https://www.politico.com/news/2025/05/13/doge-caucus-dead-congress-00347009",
-    "https://heathercoxrichardson.substack.com/p/may-14-2025"
+    "sources": [
+      "https://www.politico.com/news/2025/05/13/doge-caucus-dead-congress-00347009",
+      "https://heathercoxrichardson.substack.com/p/may-14-2025"
     ]
   },
   {
-  "date": "2025-05-13",
-  "title": "Trump Fires Top Intelligence Analysts After Report Contradicts Venezuela-Gang Claims",
-  "summary": "President Trump's Director of National Intelligence, Tulsi Gabbard, fired acting NIC chair Michael Collins and his deputy after they authored an assessment refuting the claim that Venezuela is directing the Tren de Aragua gang. The administration had used that claim to invoke the Alien Enemies Act and deport Venezuelan migrants to El Salvador's CECOT prison. Gabbard justified the purge as part of an effort to stop 'politicization' of intelligence, though critics see it as retaliation for contradicting the administration's deportation narrative.",
-  "tags": [
-    "Donald Trump",
-    "National Security",
-    "Oversight Interference",
-    "Deportations",
-    "Immigration Actions",
-    "Legal Challenges",
-    "Trump Administration"
-  ],
-  "sources": [
-    "https://www.washingtonpost.com/national-security/2025/05/14/gabbard-intelligence-venezuela-tren-de-aragua/",
-    "https://heathercoxrichardson.substack.com/p/may-14-2025"
+    "date": "2025-05-13",
+    "title": "Trump Fires Top Intelligence Analysts After Report Contradicts Venezuela-Gang Claims",
+    "summary": "President Trump's Director of National Intelligence, Tulsi Gabbard, fired acting NIC chair Michael Collins and his deputy after they authored an assessment refuting the claim that Venezuela is directing the Tren de Aragua gang. The administration had used that claim to invoke the Alien Enemies Act and deport Venezuelan migrants to El Salvador's CECOT prison. Gabbard justified the purge as part of an effort to stop 'politicization' of intelligence, though critics see it as retaliation for contradicting the administration's deportation narrative.",
+    "tags": [
+      "Donald Trump",
+      "National Security",
+      "Oversight Interference",
+      "Deportations",
+      "Immigration Actions",
+      "Legal Challenges",
+      "Trump Administration"
+    ],
+    "sources": [
+      "https://www.washingtonpost.com/national-security/2025/05/14/gabbard-intelligence-venezuela-tren-de-aragua/",
+      "https://heathercoxrichardson.substack.com/p/may-14-2025"
     ]
   },
   {
-  "date": "2025-05-13",
-  "title": "DOJ Announces Plan to Publicly 'Shame' Opponents Even Without Charges",
-  "summary": "In a dramatic break with prior Department of Justice norms, Trump appointee Ed Martin announced a new policy to 'name and shame' political opponents even when prosecutors lack the evidence to file criminal charges. The program, under the DOJ's 'Weaponization Working Group,' aims to convict individuals 'in the court of public opinion.' Senate Republicans previously blocked Martin’s U.S. attorney nomination, but Trump installed him in this new role via executive action. Legal scholars and former DOJ officials denounced the plan as a threat to civil liberties and due process.",
-  "tags": [
-    "Trump Administration",
-    "Legal Challenges",
-    "Oversight Interference",
-    "Department of Justice",
-    "Rights Violations",
-    "Free Speech"
+    "date": "2025-05-13",
+    "title": "DOJ Announces Plan to Publicly 'Shame' Opponents Even Without Charges",
+    "summary": "In a dramatic break with prior Department of Justice norms, Trump appointee Ed Martin announced a new policy to 'name and shame' political opponents even when prosecutors lack the evidence to file criminal charges. The program, under the DOJ's 'Weaponization Working Group,' aims to convict individuals 'in the court of public opinion.' Senate Republicans previously blocked Martin’s U.S. attorney nomination, but Trump installed him in this new role via executive action. Legal scholars and former DOJ officials denounced the plan as a threat to civil liberties and due process.",
+    "tags": [
+      "Trump Administration",
+      "Legal Challenges",
+      "Oversight Interference",
+      "Federal Agencies",
+      "Rights Violations",
+      "Free Speech"
     ],
-  "sources": [
-    "https://www.nbcnews.com/politics/justice-department/doj-weaponization-group-will-shame-individuals-cant-charge-crimes-new-rcna206553",
-    "https://heathercoxrichardson.substack.com/p/may-14-2025"
-   ]
-  },
-  {
-  "date": "2025-05-14",
-  "title": "Appeals Court Rules Watchdog Group Can Proceed with Lawsuit for DOGE Records",
-  "summary": "A federal appeals court ruled that the Trump administration must resume efforts to disclose internal records from the Department of Government Efficiency (DOGE) to the watchdog group Citizens for Responsibility and Ethics in Washington (CREW). The ruling rejects the government's claim that DOGE is exempt from Freedom of Information Act requirements due to its alleged status as part of the president's personal staff. The court found the government had 'forfeited' key arguments and ordered Elon Musk’s team to begin cooperating with CREW. The decision could force DOGE to reveal details about its structure, members, and its sweeping role in agency cuts, database access, and regulatory changes.",
-  "tags": [
-    "DOGE",
-    "Elon Musk",
-    "Legal Challenges",
-    "Oversight Interference",
-    "Transparency",
-    "Federal Agencies",
-    "Trump Administration"
-    ],
-  "sources": [
-    "https://www.nytimes.com/2025/05/14/us/politics/doge-watchdog-case-appeals-ruling.html?smid=nytcore-ios-share&referringSource=articleShare"
+    "sources": [
+      "https://www.nbcnews.com/politics/justice-department/doj-weaponization-group-will-shame-individuals-cant-charge-crimes-new-rcna206553",
+      "https://heathercoxrichardson.substack.com/p/may-14-2025"
     ]
   },
   {
-  "date": "2025-05-14",
-  "title": "Federal Judge Orders Georgetown Scholar Released, Citing First Amendment Violations",
-  "summary": "A federal judge ordered the release of Badar Khan Suri, an Indian postdoctoral fellow at Georgetown University, who was detained for over two months by ICE despite no criminal charges. Judge Patricia Giles ruled from the bench that the Trump administration had offered no evidence justifying Suri’s detention and that his arrest was likely retaliatory, violating his First Amendment rights. Suri was reportedly targeted due to his wife’s Palestinian background and family ties, though he had never participated in a protest. The judge explicitly stated that the First Amendment protects noncitizens and emphasized that detaining critics of U.S. policy 'for punitive reasons' creates a chilling effect on academic speech. The case is part of a broader crackdown on foreign scholars with perceived pro-Palestinian views.",
-  "tags": [
-    "Donald Trump",
-    "Immigration Actions",
-    "Rights Violations",
-    "Academic Freedom",
-    "Free Speech",
-    "Legal Challenges",
-    "Trump Administration"
+    "date": "2025-05-14",
+    "title": "Appeals Court Rules Watchdog Group Can Proceed with Lawsuit for DOGE Records",
+    "summary": "A federal appeals court ruled that the Trump administration must resume efforts to disclose internal records from the Department of Government Efficiency (DOGE) to the watchdog group Citizens for Responsibility and Ethics in Washington (CREW). The ruling rejects the government's claim that DOGE is exempt from Freedom of Information Act requirements due to its alleged status as part of the president's personal staff. The court found the government had 'forfeited' key arguments and ordered Elon Musk’s team to begin cooperating with CREW. The decision could force DOGE to reveal details about its structure, members, and its sweeping role in agency cuts, database access, and regulatory changes.",
+    "tags": [
+      "DOGE",
+      "Elon Musk",
+      "Legal Challenges",
+      "Oversight Interference",
+      "Transparency",
+      "Federal Agencies",
+      "Trump Administration"
     ],
-  "sources": [
-    "https://www.nytimes.com/2025/05/14/us/politics/georgetown-academic-immigration-detention.html?smid=nytcore-ios-share&referringSource=articleShare"
+    "sources": [
+      "https://www.nytimes.com/2025/05/14/us/politics/doge-watchdog-case-appeals-ruling.html?smid=nytcore-ios-share&referringSource=articleShare"
     ]
   },
   {
-  "date": "2025-05-12",
-  "title": "Crypto Miner Backed by Trump Sons to List on Nasdaq Amid Deregulation Push",
-  "summary": "American Bitcoin, a cryptocurrency mining firm backed by Donald Trump Jr. and Eric Trump, will go public on Nasdaq following a merger with Gryphon Digital Mining. The company was formed in March and rebranded from American Data Centers—originally a subsidiary of Dominari Holdings, where the Trump sons hold advisory roles. Eric Trump will stay on as Chief Strategy Officer. The company markets itself as the most 'investable Bitcoin accumulation platform' and aims to profit from President Trump's deregulation of the crypto sector. The move mirrors MicroStrategy’s Bitcoin-hoarding strategy, now being copied by Trump-linked ventures. Also cited: Brandon Lutnick, son of Commerce Secretary Howard Lutnick, who is launching an $11B bitcoin SPAC with Tether and SoftBank. The same day, FT revealed that a small group of traders had made nearly $100 million off pre-announcement purchases of Melania Trump’s memecoin.",
-  "tags": [
-    "Donald Trump",
-    "Crypto",
-    "Trump Organization",
-    "Conflicts of Interest",
-    "Financial Markets",
-    "World Liberty Financial"
+    "date": "2025-05-14",
+    "title": "Federal Judge Orders Georgetown Scholar Released, Citing First Amendment Violations",
+    "summary": "A federal judge ordered the release of Badar Khan Suri, an Indian postdoctoral fellow at Georgetown University, who was detained for over two months by ICE despite no criminal charges. Judge Patricia Giles ruled from the bench that the Trump administration had offered no evidence justifying Suri’s detention and that his arrest was likely retaliatory, violating his First Amendment rights. Suri was reportedly targeted due to his wife’s Palestinian background and family ties, though he had never participated in a protest. The judge explicitly stated that the First Amendment protects noncitizens and emphasized that detaining critics of U.S. policy 'for punitive reasons' creates a chilling effect on academic speech. The case is part of a broader crackdown on foreign scholars with perceived pro-Palestinian views.",
+    "tags": [
+      "Donald Trump",
+      "Immigration Actions",
+      "Rights Violations",
+      "Academic Freedom",
+      "Free Speech",
+      "Legal Challenges",
+      "Trump Administration"
     ],
-  "sources": [
-    "https://www.ft.com/content/5a765f06-539f-477d-91d4-5e978d24ded3?accessToken=zwAGNcRRJaJ4kc9adl8GU59HfdOR1F6XjSTe0w.MEUCIQD0zQxojI47JpzHag7z-qCQ55V085eetwKDZXFTb-aBUgIgdeORE_dPIc4uKvxMUTsrIg4UqYLD1rPNgVsrHTPYzxU&sharetype=gift&token=bb72d3b2-089c-4e50-8f37-50aaff4e27e4"
+    "sources": [
+      "https://www.nytimes.com/2025/05/14/us/politics/georgetown-academic-immigration-detention.html?smid=nytcore-ios-share&referringSource=articleShare"
     ]
   },
-  { 
-  "date": "2025-05-14",
-  "title": "Tulsi Gabbard Fires Top Intelligence Officials Who Authored Venezuela Deportation Memo",
-  "summary": "Director of National Intelligence Tulsi Gabbard fired the chair and deputy of the National Intelligence Council (NIC) after their agency produced an assessment contradicting the Trump administration’s claim that Venezuela is directing Tren de Aragua gang activity. The April 7 report found no credible evidence that the Venezuelan government was orchestrating migration via the gang—undermining Trump’s legal basis for invoking the Alien Enemies Act to deport thousands of Venezuelans. Critics condemned the firings as political retaliation against independent analysis. Former NIC chair Christopher Kojm warned the move would chill honest assessments and damage U.S. intelligence. Gabbard also announced plans to relocate the NIC from CIA headquarters to the ODNI’s main campus, consolidating Trump-aligned control over top-level intelligence briefings.",
-  "tags": [
-    "Donald Trump",
-    "National Security",
-    "Deportations",
-    "Oversight Interference",
-    "Legal Challenges",
-    "Trump Administration",
-    "Federal Agencies",
-    "Tulsi Gabbard"
+  {
+    "date": "2025-05-12",
+    "title": "Crypto Miner Backed by Trump Sons to List on Nasdaq Amid Deregulation Push",
+    "summary": "American Bitcoin, a cryptocurrency mining firm backed by Donald Trump Jr. and Eric Trump, will go public on Nasdaq following a merger with Gryphon Digital Mining. The company was formed in March and rebranded from American Data Centers—originally a subsidiary of Dominari Holdings, where the Trump sons hold advisory roles. Eric Trump will stay on as Chief Strategy Officer. The company markets itself as the most 'investable Bitcoin accumulation platform' and aims to profit from President Trump's deregulation of the crypto sector. The move mirrors MicroStrategy’s Bitcoin-hoarding strategy, now being copied by Trump-linked ventures. Also cited: Brandon Lutnick, son of Commerce Secretary Howard Lutnick, who is launching an $11B bitcoin SPAC with Tether and SoftBank. The same day, FT revealed that a small group of traders had made nearly $100 million off pre-announcement purchases of Melania Trump’s memecoin.",
+    "tags": [
+      "Donald Trump",
+      "Crypto",
+      "Trump Organization",
+      "Conflicts of Interest",
+      "Financial Markets"
     ],
-  "sources": [
-    "https://www.washingtonpost.com/national-security/2025/05/14/gabbard-intelligence-venezuela-tren-de-aragua/"
+    "sources": [
+      "https://www.ft.com/content/5a765f06-539f-477d-91d4-5e978d24ded3?accessToken=zwAGNcRRJaJ4kc9adl8GU59HfdOR1F6XjSTe0w.MEUCIQD0zQxojI47JpzHag7z-qCQ55V085eetwKDZXFTb-aBUgIgdeORE_dPIc4uKvxMUTsrIg4UqYLD1rPNgVsrHTPYzxU&sharetype=gift&token=bb72d3b2-089c-4e50-8f37-50aaff4e27e4"
+    ]
+  },
+  {
+    "date": "2025-05-14",
+    "title": "Tulsi Gabbard Fires Top Intelligence Officials Who Authored Venezuela Deportation Memo",
+    "summary": "Director of National Intelligence Tulsi Gabbard fired the chair and deputy of the National Intelligence Council (NIC) after their agency produced an assessment contradicting the Trump administration’s claim that Venezuela is directing Tren de Aragua gang activity. The April 7 report found no credible evidence that the Venezuelan government was orchestrating migration via the gang—undermining Trump’s legal basis for invoking the Alien Enemies Act to deport thousands of Venezuelans. Critics condemned the firings as political retaliation against independent analysis. Former NIC chair Christopher Kojm warned the move would chill honest assessments and damage U.S. intelligence. Gabbard also announced plans to relocate the NIC from CIA headquarters to the ODNI’s main campus, consolidating Trump-aligned control over top-level intelligence briefings.",
+    "tags": [
+      "Donald Trump",
+      "National Security",
+      "Deportations",
+      "Oversight Interference",
+      "Legal Challenges",
+      "Trump Administration",
+      "Federal Agencies"
+    ],
+    "sources": [
+      "https://www.washingtonpost.com/national-security/2025/05/14/gabbard-intelligence-venezuela-tren-de-aragua/"
     ]
   },
   {
@@ -4073,11 +4057,11 @@
       "Oversight Interference",
       "Federal Employees",
       "Federal Agencies",
-    "DOGE",
+      "DOGE",
       "Legal Challenges"
     ],
     "sources": [
-      "https://www.nytimes.com/live/2025/05/22/us/trump-news-updates?smid=nytcore-ios-share&referringSource=articleShare" 
+      "https://www.nytimes.com/live/2025/05/22/us/trump-news-updates?smid=nytcore-ios-share&referringSource=articleShare"
     ]
   },
   {
@@ -4091,8 +4075,7 @@
       "Foreign Influence",
       "Campaign Finance",
       "Trump Organization",
-      "Elon Musk",
-      "World Liberty Financial"
+      "Elon Musk"
     ],
     "sources": [
       "https://www.wsj.com/finance/currencies/trump-steve-zach-witkoff-crypto-6d8a96be"
@@ -4107,8 +4090,7 @@
       "Crypto",
       "Regulatory Rollback",
       "Federal Agencies",
-      "Donald Trump",
-      "World Liberty Financial"
+      "Donald Trump"
     ],
     "sources": [
       "https://www.wsj.com/finance/banking/crypto-stablecoin-big-banks-a841059e?mod=hp_lead_pos4"
@@ -4139,14 +4121,13 @@
       "Oversight Interference",
       "Federal Agencies",
       "Legal Challenges",
-      "Supreme Court",
       "Rights Violations"
     ],
     "sources": [
       "https://www.washingtonpost.com/politics/2025/05/22/supreme-court-commissioners-independent-officials/"
     ]
   },
-  { 
+  {
     "date": "2025-05-22",
     "title": "Judge Blocks Trump Administration from Mass Termination of International Student Visas",
     "summary": "U.S. District Judge Jeffrey White issued a nationwide injunction halting the Trump administration's mass revocation of international student visas, calling the action 'arbitrary and capricious' and likely in excess of legal authority. The Department of Homeland Security had terminated the SEVIS records of at least 4,700 international students, citing their alleged participation in pro-Palestinian protests or support for Hamas. The judge's order bars the administration from arresting or deporting affected students while litigation proceeds, granting broad relief to protect academic continuity and due process rights. The ruling follows weeks of backlash over what advocates described as ideological targeting and retaliation against lawful visa holders.",
@@ -4156,11 +4137,11 @@
       "Academic Freedom",
       "Free Speech",
       "Legal Challenges",
-     "Trump Administration",
+      "Trump Administration",
       "Rights Violations"
     ],
     "sources": [
-     "https://www.washingtonpost.com/politics/2025/05/22/trump-foreign-student-visas-sevis/"
+      "https://www.washingtonpost.com/politics/2025/05/22/trump-foreign-student-visas-sevis/"
     ]
   },
   {
@@ -4172,7 +4153,6 @@
       "Deportations",
       "Rights Violations",
       "Immigration Actions",
-      "Due Process Violations",
       "Legal Challenges",
       "Oversight Interference",
       "Trump Administration"
@@ -4191,7 +4171,6 @@
       "Campaign Finance",
       "Conflicts of Interest",
       "Foreign Influence",
-      "World Liberty Financial",
       "Ethics"
     ],
     "sources": [
@@ -4199,5 +4178,3 @@
     ]
   }
 ]
-
-
