@@ -23,7 +23,7 @@ function About() {
         <li><strong>Verifiability:</strong> Each entry must be sourced from publicly available, credible reporting. We prioritize factual information over partisan framing.</li>
         <li><strong>Documentation:</strong> All entries require multiple sources whenever possible, with direct links provided for verification.</li>
         <li><strong>Relevance:</strong> Entries must directly relate to conflicts of interest, abuses of public office, or patterns that illuminate these phenomena.</li>
-        <li><strong>Timeline Context:</strong> We begin primarily with Trump's second administration (January 2025), with select earlier entries from after January 6, 2021, that establish critical context. These earlier entries focus on financial institutions severing ties with the Trump Organization&mdash;providing context for subsequent actions.</li>
+        <li><strong>Timeline Context:</strong> We begin primarily with Trump's second administration (January 2025), with select earlier entries from after January 6, 2021, that establish critical context. These earlier entries focus on financial institutions severing ties with the Trump Organization&mdash;providing context for the crypto pivot.</li>
       </ul>
 
       <h3 className="text-lg font-semibold mt-4 mb-2">Curation Process</h3>
