@@ -39,7 +39,7 @@ function About() {
 
       <h3 className="text-lg font-semibold mt-4 mb-2">Timeline View</h3>
       <p className="mb-4">
-        The main interface presents entries in chronological order, allowing you to observe patterns as they develop over time. Each entry includes:
+        The main interface presents entries in chronological order, allowing you to observe patterns as they develop over time. This chronological approach reveals how individual events connect to form larger narratives of accountability. Each entry includes:
       </p>
       <ul className="list-disc ml-6 mb-4">
         <li>Date of occurrence</li>
@@ -49,15 +49,33 @@ function About() {
         <li>Multiple source links for independent verification</li>
       </ul>
 
-      <h3 className="text-lg font-semibold mt-4 mb-2">Tag System</h3>
+      <h3 className="text-lg font-semibold mt-4 mb-2">Navigation Methods</h3>
+      
+      <h4 className="text-base font-semibold mt-3 mb-2">Tag-Based Exploration (Primary Method)</h4>
       <p className="mb-4">
-        Our comprehensive tagging system allows for thematic exploration across the timeline. Tags are carefully curated to reveal connections and patterns that might otherwise remain obscure. You can:
+        Our comprehensive tagging system is the primary way to explore narrative threads through the timeline. Tags represent different storylines that unfold chronologically, allowing you to follow specific patterns of accountability as they develop over time. You can:
       </p>
       <ul className="list-disc ml-6 mb-4">
         <li>Click any tag to filter the timeline for related entries</li>
-        <li>Observe how different aspects of governance, business relationships, and policy decisions interconnect</li>
+        <li>Follow how different aspects of governance, business relationships, and policy decisions interconnect</li>
         <li>Track developing patterns across time and organizational boundaries</li>
+        <li>Use the "Return to Timeline" button to restore the full chronological view</li>
       </ul>
+
+      <h4 className="text-base font-semibold mt-3 mb-2">Search Functionality (Supporting Tool)</h4>
+      <p className="mb-4">
+        The search bar provides a powerful way to locate specific information when you need to find something particular. The search tool offers several features:
+      </p>
+      <ul className="list-disc ml-6 mb-4">
+        <li><strong>Fuzzy Search:</strong> Type partial words or phrases to find related entries across titles, summaries, tags, and sources</li>
+        <li><strong>Exact Phrase Search:</strong> Use quotation marks (e.g., "exact phrase") to find precise text matches</li>
+        <li><strong>Search Options:</strong> Click the gear icon to adjust search sensitivity and choose which fields to search</li>
+        <li><strong>Search Sensitivity:</strong> Adjust from "Broad" (more results) to "Exact" (fewer, precise results) based on your needs</li>
+      </ul>
+
+      <p className="mb-4 text-sm text-gray-600">
+        <em>Note: Search is designed as a supporting tool for when you need to find something specific. For exploring the archive's narratives, we recommend starting with the tag-based approach to follow storylines chronologically.</em>
+      </p>
 
       <h3 className="text-lg font-semibold mt-4 mb-2">Sources and Verification</h3>
       <ul className="list-disc ml-6 mb-4">

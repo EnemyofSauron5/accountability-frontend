@@ -2,27 +2,39 @@
 import React, { useState, useEffect } from 'react';
 import EntryCard from './EntryCard';
 import FilterPanel from './FilterPanel';
+import SearchBar from './SearchBar'; 
 import { loadEntries } from '../data/loadEntries';
 
 const Home = () => {
   const [entries, setEntries] = useState([]);
   const [activeTag, setActiveTag] = useState(null);
+  const [searchResults, setSearchResults] = useState([]);
 
   useEffect(() => {
     loadEntries().then((data) => {
       const sorted = [...data].sort(
-        (a, b) => new Date(a.date) - new Date(b.date)  // Oldest first for chronological narrative
-      );
+        (a, b) => new Date(a.date) - new Date(b.date));
       setEntries(sorted);
+      setSearchResults(sorted);
     });
   }, []);
 
   const filteredEntries = activeTag
-    ? entries.filter((entry) => entry.tags?.includes(activeTag))
-    : entries;
+    ? searchResults.filter((entry) => entry.tags?.includes(activeTag))
+    : searchResults;
+
+  const handleSearchResults = (results) => {
+    setSearchResults(results);
+  };
 
   return (
     <div className="home-container max-w-6xl mx-auto px-4 pt-0 pb-6">
+      {/* ADD THIS SEARCHBAR COMPONENT */}
+      <SearchBar 
+        entries={entries} 
+        onResults={handleSearchResults} 
+      />
+
       {/* Add a wrapper div with fixed height around the activeTag display */}
       <div className="activeTag-display h-8 text-center text-gray-400">
         {activeTag && (
@@ -31,9 +43,9 @@ const Home = () => {
           </div>
         )}
       </div>
-      
+
       <FilterPanel onTagChange={setActiveTag} activeTag={activeTag} />
-      
+
       {activeTag && (
         <h2 className="text-center text-xl font-semibold text-blue-700 mb-4">
           Showing entries tagged: {activeTag}

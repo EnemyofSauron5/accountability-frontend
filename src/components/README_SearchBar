@@ -1,0 +1,276 @@
+# SearchBar Component Documentation
+
+## Overview
+
+The SearchBar component provides intelligent fuzzy search functionality for the Accountability Archive. It's designed as a supporting tool that complements the primary tag-based navigation, allowing users to locate specific information when needed while maintaining the archive's chronological narrative focus.
+
+## Design Philosophy
+
+### Narrative-First Approach
+- **Primary Navigation**: Tag-based exploration of chronological storylines
+- **Secondary Tool**: Search for specific information retrieval
+- **User Experience**: Non-intimidating interface that serves both technical and non-technical users
+- **Visual Hierarchy**: Subtle, compact design that doesn't dominate the page
+
+### Technical Architecture
+- **No External Dependencies**: Pure React implementation with no third-party search libraries
+- **Performance Optimized**: Memoized search results and efficient re-rendering
+- **Flexible Matching**: Supports both fuzzy and exact search modes
+- **Configurable Precision**: User-adjustable search sensitivity
+
+## Core Features
+
+### 1. Intelligent Search Modes
+
+#### Fuzzy Search (Default)
+- **Algorithm**: Custom implementation that finds partial matches across text
+- **Scoring**: Combines character matching, consecutive match bonuses, and length ratios
+- **Threshold-Based**: Configurable sensitivity from broad to exact matching
+- **Use Case**: Finding entries when you remember partial information
+
+#### Exact Match Search
+- **Trigger**: Wrap queries in quotation marks (e.g., `"exact phrase"`)
+- **Implementation**: Direct string matching with zero tolerance
+- **Use Case**: Finding specific quotes, names, or precise terminology
+
+### 2. Multi-Field Search
+Searches across four data fields:
+- **Title**: Entry headlines
+- **Summary**: Main content descriptions
+- **Tags**: Categorical labels
+- **Sources**: URL domains and source references
+
+### 3. Configurable Precision
+- **Search Sensitivity Slider**: 0.1 (Broad) to 0.9 (Exact)
+- **User-Friendly Labels**: "Broad/Balanced/Focused/Exact" instead of technical terms
+- **Dynamic Adjustment**: Real-time result updates as sensitivity changes
+
+### 4. Visual Feedback
+- **Result Highlighting**: Shows which characters matched in preview mode
+- **Match Scores**: Optional percentage display for debugging/power users
+- **Result Count**: Simple "X results found" summary
+
+## Technical Implementation
+
+### Fuzzy Search Algorithm
+
+```javascript
+const fuzzySearch = (query, text, options = {}) => {
+  // 1. Normalize case based on settings
+  // 2. Handle exact match mode (quotes)
+  // 3. Character-by-character matching with position tracking
+  // 4. Score calculation with consecutive match bonuses
+  // 5. Threshold-based filtering
+}
+```
+
+#### Scoring Logic
+1. **Base Score**: (matched_characters / query_length)
+2. **Consecutive Bonus**: Extra points for adjacent character matches
+3. **Length Penalty**: Shorter texts score higher for same match quality
+4. **Final Threshold**: Configurable cutoff for result inclusion
+
+### State Management
+
+```javascript
+const [query, setQuery] = useState('');                    // User input
+const [showSettings, setShowSettings] = useState(false);   // Settings panel visibility
+const [settings, setSettings] = useState({                 // Search configuration
+  threshold: 0.4,                                          // Default sensitivity
+  searchFields: ['title', 'summary', 'tags'],             // Active search fields
+  caseSensitive: false,                                    // Case matching
+  showScores: false                                        // Debug mode
+});
+```
+
+### Performance Optimizations
+
+#### useMemo for Search Results
+```javascript
+const searchResults = useMemo(() => {
+  // Expensive search operation only runs when:
+  // - Query changes
+  // - Entries change
+  // - Settings change
+}, [query, entries, settings]);
+```
+
+#### useCallback for Event Handlers
+```javascript
+const handleSearch = useCallback((e) => {
+  // Prevents unnecessary re-renders of child components
+}, []);
+```
+
+#### useEffect for Result Propagation
+```javascript
+useEffect(() => {
+  // Separates search computation from result delivery
+  // Ensures parent component gets updated results
+}, [searchResults, onResults, entries, query]);
+```
+
+## Component Architecture
+
+### Main Components
+1. **SearchBar** (main component)
+2. **HighlightedText** (text highlighting utility)
+3. **fuzzySearch** (core algorithm function)
+
+### Props Interface
+```javascript
+SearchBar({
+  entries = [],        // Array of searchable objects
+  onResults           // Callback function to deliver filtered results
+})
+```
+
+### Data Structure Expectations
+```javascript
+// Each entry should have these fields:
+{
+  date: "2025-05-13",
+  title: "Entry headline",
+  summary: "Detailed description",
+  tags: ["tag1", "tag2"],      // Array of strings
+  sources: ["url1", "url2"]    // Array of URLs
+}
+```
+
+## User Interface Design
+
+### Visual Hierarchy
+- **Compact Form Factor**: Doesn't dominate the page
+- **Subtle Styling**: Gray backgrounds, smaller text
+- **Progressive Disclosure**: Settings hidden by default
+- **Clear Affordances**: Obvious clickable elements
+
+### Accessibility Features
+- **Semantic HTML**: Proper labels and form elements
+- **Keyboard Navigation**: Tab-accessible controls
+- **Screen Reader Support**: Descriptive ARIA labels
+- **Focus Indicators**: Visual feedback for keyboard users
+
+### Responsive Design
+- **Mobile-First**: Works on small screens
+- **Flexible Layout**: Adapts to container width
+- **Touch-Friendly**: Appropriately sized tap targets
+
+## Integration Guide
+
+### Basic Implementation
+```javascript
+import SearchBar from './components/SearchBar';
+
+function App() {
+  const [entries, setEntries] = useState([]);
+  const [filteredEntries, setFilteredEntries] = useState([]);
+
+  return (
+    <div>
+      <SearchBar 
+        entries={entries} 
+        onResults={setFilteredEntries} 
+      />
+      {/* Render filtered entries */}
+    </div>
+  );
+}
+```
+
+### Advanced Integration
+```javascript
+// Combining with tag filtering
+const filteredEntries = activeTag
+  ? searchResults.filter(entry => entry.tags?.includes(activeTag))
+  : searchResults;
+```
+
+## Configuration Options
+
+### Search Sensitivity Levels
+- **0.1-0.2**: Very Broad (catches partial word matches)
+- **0.3-0.4**: Balanced (default, good for general use)
+- **0.5-0.6**: Focused (stricter matching)
+- **0.7-0.9**: Exact (very precise matches only)
+
+### Field Selection
+Users can toggle searching in:
+- **Title**: Entry headlines
+- **Summary**: Full text content
+- **Tags**: Category labels
+- **Sources**: URL and source information
+
+### Advanced Options
+- **Case Sensitive**: Exact case matching
+- **Show Scores**: Display match percentages (for debugging)
+
+## Troubleshooting
+
+### Common Issues
+
+#### Search Returns No Results
+1. Check search sensitivity (try lowering threshold)
+2. Verify data structure matches expected format
+3. Check if search fields are enabled
+4. Try exact match mode with quotes
+
+#### Performance Issues
+1. Large datasets (>1000 entries) may slow search
+2. Consider implementing search debouncing
+3. Optimize data structure if needed
+
+#### Integration Problems
+1. Ensure `onResults` callback is provided
+2. Check that `entries` prop contains valid data
+3. Verify React and lucide-react dependencies
+
+### Debug Mode
+Enable "Show match scores" to see:
+- Which entries matched
+- Match percentage scores
+- Preview of highlighted results
+
+## Development Considerations
+
+### Future Enhancements
+- **Search History**: Remember recent searches
+- **Advanced Operators**: AND, OR, NOT logic
+- **Date Range Filtering**: Search within time periods
+- **Export Results**: Save search results
+- **Search Analytics**: Track popular queries
+
+### Performance Scaling
+- **Debouncing**: Add input delay for large datasets
+- **Web Workers**: Move search computation off main thread
+- **Indexing**: Pre-process data for faster searching
+- **Pagination**: Handle very large result sets
+
+### Accessibility Improvements
+- **Screen Reader Announcements**: Live result updates
+- **High Contrast Mode**: Improved highlighting
+- **Keyboard Shortcuts**: Power user features
+
+## Code Maintenance
+
+### Testing Strategy
+- **Unit Tests**: Core fuzzy search algorithm
+- **Integration Tests**: Component with mock data
+- **User Experience Tests**: Real-world usage scenarios
+- **Performance Tests**: Large dataset handling
+
+### Code Organization
+- **Pure Functions**: Fuzzy search algorithm is stateless
+- **Separated Concerns**: Search logic vs. UI components
+- **Type Safety**: Consider TypeScript conversion
+- **Documentation**: Inline comments for complex logic
+
+---
+
+## Conclusion
+
+The SearchBar component balances sophisticated functionality with user-friendly design. It serves the Accountability Archive's mission of making patterns visible by providing powerful search capabilities while maintaining the primary focus on chronological narrative exploration.
+
+The implementation prioritizes performance, accessibility, and maintainability while avoiding external dependencies. The configurable precision system accommodates both casual browsers and power users, making the archive accessible to diverse audiences.
+
+*Built with React, designed for transparency, optimized for discovery.*
