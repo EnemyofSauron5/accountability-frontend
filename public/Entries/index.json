@@ -4729,5 +4729,57 @@
     "sources": [
       "https://www.ft.com/content/590f030a-012b-484a-a472-5e98729ac6be?accessToken=zwAGNigP4SzYkc9ZDwMKAStIStOkcl6YcprGvg.MEUCIHM5cmMtNyO22lc50LUjgIJo-RoieTkf4sNAMBatAyuFAiEA8lGLNTw1b3SdNAuK7liW6mr0sNRPcTNJAalYbNMUx_k&sharetype=gift&token=a93585d2-e8a8-422d-a49f-8a03863f2d2d"
     ]
-  }
+  },
+  {
+  "date": "2025-05-28",
+  "title": "Federal Judge Rules Visa Revocation of Harvard Scientist Was Unlawful",
+  "summary": "A federal judge ruled that the Trump administration had no legal basis to revoke the J-1 visa of Kseniia Petrova, a Russian biologist conducting frog embryo research at Harvard Medical School. Petrova was detained in February 2025 at Boston Logan Airport after failing to declare frog embryos she had picked up from a French lab for academic study. Although no safety threat was posed, immigration officials revoked her visa and placed her in ICE custody, citing smuggling. Petrova testified she feared deportation to Russia due to her antiwar activism. U.S. District Judge Christina Reiss ordered her release on bail, stating that immigration officers acted without proper legal authority. The Trump administration responded by filing criminal charges against Petrova for alleged smuggling—despite experts noting such infractions typically result in minor civil fines. The case has alarmed the scientific community, highlighting a broader crackdown on international researchers and erosion of academic freedom under immigration pretexts.",
+  "tags": [
+    "Academic Freedom",
+    "Immigration Actions",
+    "Rights Violations",
+    "Legal Challenges",
+    "Free Speech",
+    "Federal Agencies",
+    "Trump Administration"
+  ],
+  "sources": [
+    "https://www.wsj.com/us-news/trump-harvard-kseniia-petrova-visa-d17b268d?st=FruWuA&reflink=desktopwebshare_permalink"
+   ]
+  },
+  {
+  "date": "2025-05-28",
+  "title": "Trump Administration Deploys Criminal Agents to Target Migrant Children in ‘Wellness Checks’",
+  "summary": "The New York Times reports that Homeland Security Investigations (HSI) agents have been visiting homes, schools, libraries, and shelters to conduct unannounced 'wellness checks' on unaccompanied migrant children. While framed as protective, these visits are being conducted not by social workers but by ICE agents trained in criminal enforcement. The checks have led to the arrest and detention of undocumented caregivers and the photographing of homes, raising fears of renewed family separations and child removals. In Los Angeles, schools denied agents access to students. Advocates argue the initiative is being used to identify, interrogate, and deport families through their children, often without legal counsel. Internal documents reveal that the Office of Refugee Resettlement has hired deportation specialists, and Secretary Robert F. Kennedy Jr. confirmed that his agency is sharing data with DHS to locate and interview the estimated 300,000 'missing' minors. The program has been widely condemned by immigration attorneys as a political escalation cloaked in child protection.",
+  "tags": [
+    "Donald Trump",
+    "Deportations",
+    "Immigration Actions",
+    "Rights Violations",
+    "Oversight Interference",
+    "Free Speech",
+    "Federal Agencies",
+    "Legal Challenges",
+    "Academic Freedom"
+  ],
+  "sources": [
+    "https://www.nytimes.com/2025/05/28/us/trump-ice-migrant-children-welfare-checks.html?smid=url-share"
+  ]
+ },
+ {
+  "date": "2025-05-27",
+  "title": "Judge Strikes Down Trump Executive Order Targeting WilmerHale",
+  "summary": "A federal judge permanently blocked a Trump executive order targeting the elite law firm WilmerHale, which had previously employed former special counsel Robert Mueller. U.S. District Judge Richard Leon ruled that the order was an unconstitutional attack on lawyers' independence, barring WilmerHale attorneys from entering federal buildings, working with federal clients, or maintaining security clearances. The Trump administration justified the order by accusing Mueller and the firm of 'upending the democratic process.' Leon dismissed that rationale, calling the order a direct threat to an 'independent bar willing to tackle unpopular cases.' This is the third such order struck down by federal courts, following earlier rulings protecting Jenner & Block and Perkins Coie. Other firms have settled with the White House by agreeing to provide pro bono work to administration-approved causes. Critics warn the strategy resembles a modern bill of attainder, using federal power to punish disfavored law firms for past legal work.",
+  "tags": [
+    "Donald Trump",
+    "Legal Challenges",
+    "Oversight Interference",
+    "Free Speech",
+    "Rights Violations",
+    "Federal Agencies"
+  ],
+  "sources": [
+    "https://www.wsj.com/politics/policy/trump-order-against-robert-muellers-former-law-firm-wilmerhale-is-struck-down-4f152d03?st=j4Erh3&reflink=article_email_share"
+  ]
+ }
 ]
