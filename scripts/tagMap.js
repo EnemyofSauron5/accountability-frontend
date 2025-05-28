@@ -256,5 +256,14 @@ module.exports = {
   "White House": "Trump Organization",
   "White House Access": "Campaign Finance",
   "World Economic Forum": "World Economic Forum",
-  "World Liberty Financial": "Crypto"
+  "World Liberty Financial": "Crypto",
+  "AI Policy": "AI Surveillance",
+  "Arts and Culture": "Press Freedom",
+  "Copyright Law": "Legal Challenges",
+  "xAI": "Musk Companies",
+  "Nayib Bukele": "El Salvador",
+  "Patrick McHenry": "Trump Administration",
+  "Russell Vought": "Trump Administration",
+  "Howard Lutnick": "Treasury Department"
+
 };
