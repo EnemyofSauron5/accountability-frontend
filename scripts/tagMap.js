@@ -264,6 +264,10 @@ module.exports = {
   "Nayib Bukele": "El Salvador",
   "Patrick McHenry": "Trump Administration",
   "Russell Vought": "Trump Administration",
-  "Howard Lutnick": "Treasury Department"
-
+  "Howard Lutnick": "Treasury Department",
+  "Brandon Lutnick": "Trump Organization",
+  "Donald Trump Jr.": "Trump Organization",
+  "Cryptocurrency": "Crypto",
+  "Congressional Action": "Oversight Interference",
+  "Project 2025": "Trump Administration"
 };
