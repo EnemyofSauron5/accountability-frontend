@@ -1,0 +1,336 @@
+{
+    "archive_path": "archive/1748562443.53064",
+    "base_url": "www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384",
+    "basename": "donald-trump-mar-lago-security-secret-service-2039384",
+    "bookmarked_date": "2025-05-29 23:47",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.newsweek.com",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": null
+    },
+    "domain": "www.newsweek.com",
+    "extension": "",
+    "hash": "NEETTG6ZCJHGBN50VQH3",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://web.archive.org/save/https://www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:42:44.743933+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.53064",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:42:44.733100+00:00",
+                "status": "failed"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:42:43.403126+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.53064",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:42:42.613533+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.google.com/s2/favicons?domain=www.newsweek.com"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:42:39.910956+00:00",
+                "index_texts": null,
+                "output": "Exception: Failed to chmod: favicon.ico does not exist (did the previous step fail?)",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.53064",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:42:39.899797+00:00",
+                "status": "failed"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:42:39.914268+00:00",
+                "index_texts": null,
+                "output": "ConnectionError: None: Max retries exceeded with url: /donald-trump-mar-lago-security-secret-service-2039384 (Caused by NameResolutionError(\"None: Failed to resolve 'www.newsweek.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.53064",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:42:39.912161+00:00",
+                "status": "failed"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384"
+                ],
+                "cmd_version": "2025.05.22",
+                "end_ts": "2025-05-30T10:42:44.731394+00:00",
+                "index_texts": [],
+                "output": "ArchiveError: Failed to save media",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.53064",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:42:44.146110+00:00",
+                "status": "failed"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/@postlight/parser/cli.js",
+                    "https://www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384",
+                    "--format=text"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-05-30T10:42:44.129254+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Got /Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/@postlight/parser/cli.js response code: 1).",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.53064",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:42:43.894278+00:00",
+                "status": "failed"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:42:41.558591+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.53064",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:42:40.627082+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/readability-extractor/readability-extractor",
+                    "/var/folders/lk/wv595jxn44n46ns2ttlbp_840000gn/T/tmpjvr2l_75",
+                    "https://www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-05-30T10:42:43.892405+00:00",
+                "index_texts": [
+                    "No internet\n          \n          \n            No internet\n          \n\n          \n            \n              Try:\n              \n                \n                  Checking the network cables, modem, and router\n                \n                  Reconnecting to Wi-Fi\n                \n              \n            \n          \n\n          ERR_INTERNET_DISCONNECTED"
+                ],
+                "output": "readability",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.53064",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:42:43.451465+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:42:42.611375+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.53064",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:42:41.562008+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-05-30T10:42:40.625237+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: SingleFile was not able to archive the page",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.53064",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:42:39.914789+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:42:43.450750+00:00",
+                "index_texts": null,
+                "output": "www.newsweek.com",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.53064",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:42:43.411817+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.53064/warc/1748601763",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) wget/None",
+                    "https://www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384"
+                ],
+                "cmd_version": null,
+                "end_ts": "2025-05-30T10:42:43.409369+00:00",
+                "index_texts": null,
+                "output": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.53064",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:42:43.405370+00:00",
+                "status": "failed"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+        "dom": "output.html",
+        "favicon": "Exception: Failed to chmod: favicon.ico does not exist (did the previous step fail?)",
+        "git": null,
+        "media": "ArchiveError: Failed to save media",
+        "pdf": "output.pdf",
+        "screenshot": "screenshot.png",
+        "singlefile": "ArchiveError: SingleFile was not able to archive the page",
+        "title": "www.newsweek.com",
+        "warc": null,
+        "wget": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'"
+    },
+    "link_dir": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.53064",
+    "newest_archive_date": "2025-05-30T10:42:44.733100+00:00",
+    "num_failures": 7,
+    "num_outputs": 5,
+    "oldest_archive_date": "2025-05-30T10:42:39.899797+00:00",
+    "path": "/donald-trump-mar-lago-security-secret-service-2039384",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "181a7d7d-19cc-4429-acd0-bb217c891e92",
+    "sources": [],
+    "tags": null,
+    "tags_str": "",
+    "timestamp": "1748562443.53064",
+    "title": "www.newsweek.com",
+    "updated": "2025-05-30T10:42:39.899735+00:00",
+    "updated_date": "2025-05-30 10:42",
+    "url": "https://www.newsweek.com/donald-trump-mar-lago-security-secret-service-2039384"
+}

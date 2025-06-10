@@ -1,0 +1,336 @@
+{
+    "archive_path": "archive/1748562443.534807",
+    "base_url": "www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc",
+    "basename": "pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc",
+    "bookmarked_date": "2025-05-29 23:47",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.huffpost.com",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": null
+    },
+    "domain": "www.huffpost.com",
+    "extension": "",
+    "hash": "5MDVXQ0QTE5EP6735WZJ",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://web.archive.org/save/https://www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:47:03.275114+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.534807",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:47:03.264458+00:00",
+                "status": "failed"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:47:01.914692+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.534807",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:47:01.113773+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.google.com/s2/favicons?domain=www.huffpost.com"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:46:58.370490+00:00",
+                "index_texts": null,
+                "output": "Exception: Failed to chmod: favicon.ico does not exist (did the previous step fail?)",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.534807",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:46:58.360335+00:00",
+                "status": "failed"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:46:58.373948+00:00",
+                "index_texts": null,
+                "output": "ConnectionError: None: Max retries exceeded with url: /entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc (Caused by NameResolutionError(\"None: Failed to resolve 'www.huffpost.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.534807",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:46:58.371627+00:00",
+                "status": "failed"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc"
+                ],
+                "cmd_version": "2025.05.22",
+                "end_ts": "2025-05-30T10:47:03.262894+00:00",
+                "index_texts": [],
+                "output": "ArchiveError: Failed to save media",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.534807",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:47:02.671935+00:00",
+                "status": "failed"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/@postlight/parser/cli.js",
+                    "https://www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc",
+                    "--format=text"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-05-30T10:47:02.655131+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Got /Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/@postlight/parser/cli.js response code: 1).",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.534807",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:47:02.419028+00:00",
+                "status": "failed"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:47:00.014134+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.534807",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:46:59.091991+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/readability-extractor/readability-extractor",
+                    "/var/folders/lk/wv595jxn44n46ns2ttlbp_840000gn/T/tmp1tko97tf",
+                    "https://www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-05-30T10:47:02.417286+00:00",
+                "index_texts": [
+                    "No internet\n          \n          \n            No internet\n          \n\n          \n            \n              Try:\n              \n                \n                  Checking the network cables, modem, and router\n                \n                  Reconnecting to Wi-Fi\n                \n              \n            \n          \n\n          ERR_INTERNET_DISCONNECTED"
+                ],
+                "output": "readability",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.534807",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:47:01.964291+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:47:01.111126+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.534807",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:47:00.016262+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-05-30T10:46:59.089424+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: SingleFile was not able to archive the page",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.534807",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:46:58.374534+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:47:01.963574+00:00",
+                "index_texts": null,
+                "output": "www.huffpost.com",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.534807",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:47:01.922156+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.534807/warc/1748602021",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) wget/None",
+                    "https://www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc"
+                ],
+                "cmd_version": null,
+                "end_ts": "2025-05-30T10:47:01.920282+00:00",
+                "index_texts": null,
+                "output": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.534807",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:47:01.916905+00:00",
+                "status": "failed"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+        "dom": "output.html",
+        "favicon": "Exception: Failed to chmod: favicon.ico does not exist (did the previous step fail?)",
+        "git": null,
+        "media": "ArchiveError: Failed to save media",
+        "pdf": "output.pdf",
+        "screenshot": "screenshot.png",
+        "singlefile": "ArchiveError: SingleFile was not able to archive the page",
+        "title": "www.huffpost.com",
+        "warc": null,
+        "wget": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'"
+    },
+    "link_dir": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.534807",
+    "newest_archive_date": "2025-05-30T10:47:03.264458+00:00",
+    "num_failures": 7,
+    "num_outputs": 5,
+    "oldest_archive_date": "2025-05-30T10:46:58.360335+00:00",
+    "path": "/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "c7cf750b-a093-4c51-92ca-99097ae0676b",
+    "sources": [],
+    "tags": null,
+    "tags_str": "",
+    "timestamp": "1748562443.534807",
+    "title": "www.huffpost.com",
+    "updated": "2025-05-30T10:46:58.360275+00:00",
+    "updated_date": "2025-05-30 10:46",
+    "url": "https://www.huffpost.com/entry/pete-hegseth-sued-over-signal-text-debacle_n_67e2f9b5e4b074f0c26efadc"
+}

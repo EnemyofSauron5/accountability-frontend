@@ -1,0 +1,335 @@
+{
+    "archive_path": "archive/1748562443.538741",
+    "base_url": "www.wired.com/story/usip-doge-headquarters-building-ruling",
+    "basename": "",
+    "bookmarked_date": "2025-05-29 23:47",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.wired.com/story/usip-doge-headquarters-building-ruling",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.wired.com",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": null
+    },
+    "domain": "www.wired.com",
+    "extension": "",
+    "hash": "1T8V580KEYN6H2MYR50F",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://web.archive.org/save/https://www.wired.com/story/usip-doge-headquarters-building-ruling/"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T09:43:53.032450+00:00",
+                "index_texts": null,
+                "output": "https://web.archive.org/web/20250530094329/https://www.wired.com/story/usip-doge-headquarters-building-ruling/",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538741",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:43:26.719599+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.wired.com/story/usip-doge-headquarters-building-ruling/"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T09:43:22.120453+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538741",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:42:37.807566+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.google.com/s2/favicons?domain=www.wired.com"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T09:41:22.210609+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538741",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:41:21.930993+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.wired.com/story/usip-doge-headquarters-building-ruling/"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T09:41:22.384391+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538741",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:41:22.212878+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.wired.com/story/usip-doge-headquarters-building-ruling/"
+                ],
+                "cmd_version": "2025.05.22",
+                "end_ts": "2025-05-30T09:43:26.718028+00:00",
+                "index_texts": [],
+                "output": "media",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538741",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:43:24.932379+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/@postlight/parser/cli.js",
+                    "https://www.wired.com/story/usip-doge-headquarters-building-ruling/"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-05-30T09:43:24.901141+00:00",
+                "index_texts": null,
+                "output": "mercury",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538741",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:43:23.086173+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.wired.com/story/usip-doge-headquarters-building-ruling/"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T09:42:30.138703+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538741",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:42:22.432195+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/readability-extractor/readability-extractor",
+                    "/var/folders/lk/wv595jxn44n46ns2ttlbp_840000gn/T/tmpk1uhkbr5",
+                    "https://www.wired.com/story/usip-doge-headquarters-building-ruling/"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-05-30T09:43:23.084175+00:00",
+                "index_texts": [
+                    "The courts have decided against DOGE and the US government in their legal battle to take full control of the United States Institute of Peace, including a headquarters building with an estimated value of $500 million.In a memorandum opinion, US district court judge Beryl Howell ruled in favor of the former institute board and staff who had sued to be reinstalled at the agency after DOGE affiliates forcibly removed them in March. She also gave a strong rebuke to the defendants in the case, who include the US DOGE Service, President Donald Trump, secretary of defense Pete Hegseth, and several other government representatives and agencies.\u201cThe purported removal of members of the Board of Directors of the United States Institute of Peace (\u201cUSIP\u201d) \u2026 was unlawful,\u201d Howell wrote in the order, \u201cand therefore null, void, and without legal effect.\u201dThe order states that the USIP board members who had been forced out must be reinstated. It goes on to declare any actions taken by the agency since their removal\u2014including the headquarters transfer\u2014null and void. It further bars the defendants from \u201cmaintaining, retaining, gaining, or exercising any access or control over the Institute\u2019s offices, facilities, computer systems, or any other records, files, or resources.\u201dAI Lab Newsletter by Will KnightWIRED\u2019s resident AI expert Will Knight takes you to the cutting edge of this fast-changing field and beyond\u2014keeping you informed about where AI and technology are headed. Delivered on Wednesdays.The ruling caps off one of the most dramatic chapters in DOGE\u2019s government takeover so far. It\u2019s also one of the fullest repudiations yet of DOGE overreach. The Justice Department did not immediately respond to a request for comment.The fight over the USIP began with a February 19 executive order that declared the agency \u201cunnecessary\u201d and effectively called for its elimination. In response, the USIP told DOGE representatives that it operated independent of the executive branch. It didn\u2019t work. On March 14, the Trump administration fired the 10 voting board members of the USIP. That same day, according to court filings, DOGE representatives\u2014accompanied by agents of the Federal Bureau of Investigation\u2014tried to enter USIP headquarters but were turned away.In court documents, lawyers for the USIP detail a rapid escalation of attempts to access the agency\u2019s property. On Sunday, March 16, two FBI agents visited a senior USIP security employee at home, demanding information on how to get into the headquarters building. That same day, DOGE allegedly coordinated with Inter-Con, USIP\u2019s contract security firm, to enter the building; USIP officials found out and immediately suspended Inter-Con\u2019s contract. It wasn\u2019t enough to stop them.The following day, according to court documents, four Inter-Con employees showed up at USIP headquarters. When their badges didn\u2019t work at the front door, one of their colleagues showed up with a physical key and gained access. USIP personnel then called the DC Metropolitan Police, claiming unlawful entry. MPD officers eventually arrived\u2014and helped DOGE and other Trump administration officials take control of the building.From there, the takeover was swift. That Friday, March 21, six USIP staffers received termination notices. Court documents show that DOGE representative Nate Cavanaugh was put in charge of the agency the following Tuesday, March 25, and was instructed to transfer USIP\u2019s assets\u2014including the headquarters building\u2014to the DOGE-controlled General Services Administration at no cost. On Friday, March 28, \u201cvirtually all\u201d of the remaining USIP employees were terminated as well. The next day, Office of Management and Budget director Russell Vought signed off on the asset transfer\u2014before the courts had a chance to rule on a motion from USIP attorneys to stop it."
+                ],
+                "output": "readability",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538741",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:43:22.261668+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.wired.com/story/usip-doge-headquarters-building-ruling/"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T09:42:37.803556+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538741",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:42:30.147885+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.wired.com/story/usip-doge-headquarters-building-ruling/",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-05-30T09:42:22.409728+00:00",
+                "index_texts": null,
+                "output": "TimeoutExpired: Command '['/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/single-file-cli/single-file', '--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', '--browser-args=[\\\\\"--headless=new\\\\\", \\\\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\\\", \\\\\"--window-size=1440,2000\\\\\"]', 'https://www.wired.com/story/usip-doge-headquarters-building-ruling/', 'singlefile.html']' timed out after 60 seconds",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538741",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:41:22.388214+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.wired.com/story/usip-doge-headquarters-building-ruling/"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T09:43:22.261047+00:00",
+                "index_texts": null,
+                "output": "DOGE Loses Battle to Take Over USIP\u2014and Its $500 Million Headquarters | WIRED",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538741",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:43:22.128181+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538741/warc/1748598202",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) wget/None",
+                    "https://www.wired.com/story/usip-doge-headquarters-building-ruling/"
+                ],
+                "cmd_version": null,
+                "end_ts": "2025-05-30T09:43:22.126834+00:00",
+                "index_texts": null,
+                "output": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538741",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:43:22.124730+00:00",
+                "status": "failed"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "https://web.archive.org/web/20250530094329/https://www.wired.com/story/usip-doge-headquarters-building-ruling/",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "output.pdf",
+        "screenshot": "screenshot.png",
+        "singlefile": "TimeoutExpired: Command '['/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/single-file-cli/single-file', '--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', '--browser-args=[\\\\\"--headless=new\\\\\", \\\\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\\\", \\\\\"--window-size=1440,2000\\\\\"]', 'https://www.wired.com/story/usip-doge-headquarters-building-ruling/', 'singlefile.html']' timed out after 60 seconds",
+        "title": "DOGE Loses Battle to Take Over USIP\u2014and Its $500 Million Headquarters | WIRED",
+        "warc": null,
+        "wget": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'"
+    },
+    "link_dir": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538741",
+    "newest_archive_date": "2025-05-30T09:43:26.719599+00:00",
+    "num_failures": 2,
+    "num_outputs": 10,
+    "oldest_archive_date": "2025-05-30T09:41:21.930993+00:00",
+    "path": "/story/usip-doge-headquarters-building-ruling/",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "4364ba1a-f6b2-4950-b64d-0a451495c12b",
+    "sources": [],
+    "tags": null,
+    "tags_str": "",
+    "timestamp": "1748562443.538741",
+    "title": "DOGE Loses Battle to Take Over USIP\u2014and Its $500 Million Headquarters | WIRED",
+    "updated": "2025-05-30T09:41:21.930858+00:00",
+    "updated_date": "2025-05-30 09:41",
+    "url": "https://www.wired.com/story/usip-doge-headquarters-building-ruling/"
+}

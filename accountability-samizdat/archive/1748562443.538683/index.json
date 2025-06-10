@@ -1,0 +1,336 @@
+{
+    "archive_path": "archive/1748562443.538683",
+    "base_url": "www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare",
+    "basename": "qatar-plane-trump-air-force-one.html",
+    "bookmarked_date": "2025-05-29 23:47",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.nytimes.com",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": null
+    },
+    "domain": "www.nytimes.com",
+    "extension": "html",
+    "hash": "1SKHY3BSCC3EJ7YN13CP",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://web.archive.org/save/https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:36:55.704334+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538683",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:36:55.693117+00:00",
+                "status": "failed"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:36:54.601696+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538683",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:36:53.757410+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.google.com/s2/favicons?domain=www.nytimes.com"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:36:50.952917+00:00",
+                "index_texts": null,
+                "output": "Exception: Failed to chmod: favicon.ico does not exist (did the previous step fail?)",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538683",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:36:50.942217+00:00",
+                "status": "failed"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:36:50.956444+00:00",
+                "index_texts": null,
+                "output": "ConnectionError: None: Max retries exceeded with url: /2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare (Caused by NameResolutionError(\"None: Failed to resolve 'www.nytimes.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538683",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:36:50.954231+00:00",
+                "status": "failed"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare"
+                ],
+                "cmd_version": "2025.05.22",
+                "end_ts": "2025-05-30T10:36:55.691058+00:00",
+                "index_texts": [],
+                "output": "ArchiveError: Failed to save media",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538683",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:36:55.321896+00:00",
+                "status": "failed"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/@postlight/parser/cli.js",
+                    "https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare",
+                    "--format=text"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-05-30T10:36:55.304988+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Got /Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/@postlight/parser/cli.js response code: 1).",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538683",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:36:55.073742+00:00",
+                "status": "failed"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:36:52.653196+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538683",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:36:51.688260+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/readability-extractor/readability-extractor",
+                    "/var/folders/lk/wv595jxn44n46ns2ttlbp_840000gn/T/tmpk45yiwwm",
+                    "https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-05-30T10:36:55.071679+00:00",
+                "index_texts": [
+                    "No internet\n          \n          \n            No internet\n          \n\n          \n            \n              Try:\n              \n                \n                  Checking the network cables, modem, and router\n                \n                  Reconnecting to Wi-Fi\n                \n              \n            \n          \n\n          ERR_INTERNET_DISCONNECTED"
+                ],
+                "output": "readability",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538683",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:36:54.645585+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:36:53.755794+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538683",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:36:52.657783+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-05-30T10:36:51.686206+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: SingleFile was not able to archive the page",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538683",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:36:50.958768+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:36:54.644841+00:00",
+                "index_texts": null,
+                "output": "www.nytimes.com",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538683",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:36:54.609144+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538683/warc/1748601414",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) wget/None",
+                    "https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare"
+                ],
+                "cmd_version": null,
+                "end_ts": "2025-05-30T10:36:54.606754+00:00",
+                "index_texts": null,
+                "output": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538683",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:36:54.603638+00:00",
+                "status": "failed"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+        "dom": "output.html",
+        "favicon": "Exception: Failed to chmod: favicon.ico does not exist (did the previous step fail?)",
+        "git": null,
+        "media": "ArchiveError: Failed to save media",
+        "pdf": "output.pdf",
+        "screenshot": "screenshot.png",
+        "singlefile": "ArchiveError: SingleFile was not able to archive the page",
+        "title": "www.nytimes.com",
+        "warc": null,
+        "wget": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'"
+    },
+    "link_dir": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538683",
+    "newest_archive_date": "2025-05-30T10:36:55.693117+00:00",
+    "num_failures": 7,
+    "num_outputs": 5,
+    "oldest_archive_date": "2025-05-30T10:36:50.942217+00:00",
+    "path": "/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "aae69547-9c4e-4932-9803-f44b36b53c19",
+    "sources": [],
+    "tags": null,
+    "tags_str": "",
+    "timestamp": "1748562443.538683",
+    "title": "www.nytimes.com",
+    "updated": "2025-05-30T10:36:50.942166+00:00",
+    "updated_date": "2025-05-30 10:36",
+    "url": "https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html?smid=nytcore-ios-share&referringSource=articleShare"
+}

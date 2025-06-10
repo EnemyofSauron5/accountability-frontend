@@ -1,0 +1,336 @@
+{
+    "archive_path": "archive/1748562443.539679",
+    "base_url": "www.birchgold.com/blog/news/audit-fort-knox",
+    "basename": "",
+    "bookmarked_date": "2025-05-29 23:47",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.birchgold.com/blog/news/audit-fort-knox",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.birchgold.com",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": null
+    },
+    "domain": "www.birchgold.com",
+    "extension": "",
+    "hash": "1R2358X76P5CCNMWYCZY",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://web.archive.org/save/https://www.birchgold.com/blog/news/audit-fort-knox/"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:56:28.480779+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.539679",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:56:28.470306+00:00",
+                "status": "failed"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.birchgold.com/blog/news/audit-fort-knox/"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:56:27.139622+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.539679",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:56:26.332155+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.google.com/s2/favicons?domain=www.birchgold.com"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:56:23.538966+00:00",
+                "index_texts": null,
+                "output": "Exception: Failed to chmod: favicon.ico does not exist (did the previous step fail?)",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.539679",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:56:23.528981+00:00",
+                "status": "failed"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.birchgold.com/blog/news/audit-fort-knox/"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:56:23.542789+00:00",
+                "index_texts": null,
+                "output": "ConnectionError: None: Max retries exceeded with url: /blog/news/audit-fort-knox/ (Caused by NameResolutionError(\"None: Failed to resolve 'www.birchgold.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.539679",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:56:23.540588+00:00",
+                "status": "failed"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.birchgold.com/blog/news/audit-fort-knox/"
+                ],
+                "cmd_version": "2025.05.22",
+                "end_ts": "2025-05-30T10:56:28.468698+00:00",
+                "index_texts": [],
+                "output": "ArchiveError: Failed to save media",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.539679",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:56:27.886602+00:00",
+                "status": "failed"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/@postlight/parser/cli.js",
+                    "https://www.birchgold.com/blog/news/audit-fort-knox/",
+                    "--format=text"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-05-30T10:56:27.872686+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Got /Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/@postlight/parser/cli.js response code: 1).",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.539679",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:56:27.634917+00:00",
+                "status": "failed"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.birchgold.com/blog/news/audit-fort-knox/"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:56:25.253912+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.539679",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:56:24.327235+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/readability-extractor/readability-extractor",
+                    "/var/folders/lk/wv595jxn44n46ns2ttlbp_840000gn/T/tmp295k8xjk",
+                    "https://www.birchgold.com/blog/news/audit-fort-knox/"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-05-30T10:56:27.633014+00:00",
+                "index_texts": [
+                    "No internet\n          \n          \n            No internet\n          \n\n          \n            \n              Try:\n              \n                \n                  Checking the network cables, modem, and router\n                \n                  Reconnecting to Wi-Fi\n                \n              \n            \n          \n\n          ERR_INTERNET_DISCONNECTED"
+                ],
+                "output": "readability",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.539679",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:56:27.195747+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.birchgold.com/blog/news/audit-fort-knox/"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:56:26.330356+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.539679",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:56:25.256911+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.birchgold.com/blog/news/audit-fort-knox/",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-05-30T10:56:24.324946+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: SingleFile was not able to archive the page",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.539679",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:56:23.543268+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.birchgold.com/blog/news/audit-fort-knox/"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:56:27.195020+00:00",
+                "index_texts": null,
+                "output": "www.birchgold.com",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.539679",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:56:27.155828+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.539679/warc/1748602587",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) wget/None",
+                    "https://www.birchgold.com/blog/news/audit-fort-knox/"
+                ],
+                "cmd_version": null,
+                "end_ts": "2025-05-30T10:56:27.152898+00:00",
+                "index_texts": null,
+                "output": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.539679",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:56:27.149886+00:00",
+                "status": "failed"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+        "dom": "output.html",
+        "favicon": "Exception: Failed to chmod: favicon.ico does not exist (did the previous step fail?)",
+        "git": null,
+        "media": "ArchiveError: Failed to save media",
+        "pdf": "output.pdf",
+        "screenshot": "screenshot.png",
+        "singlefile": "ArchiveError: SingleFile was not able to archive the page",
+        "title": "www.birchgold.com",
+        "warc": null,
+        "wget": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'"
+    },
+    "link_dir": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.539679",
+    "newest_archive_date": "2025-05-30T10:56:28.470306+00:00",
+    "num_failures": 7,
+    "num_outputs": 5,
+    "oldest_archive_date": "2025-05-30T10:56:23.528981+00:00",
+    "path": "/blog/news/audit-fort-knox/",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "414993db-6588-4691-802f-d8a1a6a9f67c",
+    "sources": [],
+    "tags": null,
+    "tags_str": "",
+    "timestamp": "1748562443.539679",
+    "title": "www.birchgold.com",
+    "updated": "2025-05-30T10:56:23.528918+00:00",
+    "updated_date": "2025-05-30 10:56",
+    "url": "https://www.birchgold.com/blog/news/audit-fort-knox/"
+}

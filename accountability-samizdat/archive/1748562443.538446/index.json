@@ -1,0 +1,335 @@
+{
+    "archive_path": "archive/1748562443.538446",
+    "base_url": "www.wired.com/story/us-copyright-office-trump-takeover",
+    "basename": "",
+    "bookmarked_date": "2025-05-29 23:47",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.wired.com/story/us-copyright-office-trump-takeover",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.wired.com",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": null
+    },
+    "domain": "www.wired.com",
+    "extension": "",
+    "hash": "9GGWYFXA2FY6N2TZXW8Q",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://web.archive.org/save/https://www.wired.com/story/us-copyright-office-trump-takeover/"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T09:47:32.574810+00:00",
+                "index_texts": null,
+                "output": "https://web.archive.org/web/20250530094709/https://www.wired.com/story/us-copyright-office-trump-takeover/",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538446",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:47:06.378130+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.wired.com/story/us-copyright-office-trump-takeover/"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T09:47:00.449557+00:00",
+                "index_texts": null,
+                "output": "TimeoutExpired: Command '['/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', '--headless=new', '--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)', '--window-size=1440,2000', '--dump-dom', 'https://www.wired.com/story/us-copyright-office-trump-takeover/']' timed out after 60 seconds",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538446",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:46:00.339762+00:00",
+                "status": "failed"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.google.com/s2/favicons?domain=www.wired.com"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T09:43:53.360001+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538446",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:43:53.105492+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.wired.com/story/us-copyright-office-trump-takeover/"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T09:43:53.495627+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538446",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:43:53.363644+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.wired.com/story/us-copyright-office-trump-takeover/"
+                ],
+                "cmd_version": "2025.05.22",
+                "end_ts": "2025-05-30T09:47:06.374617+00:00",
+                "index_texts": [],
+                "output": "media",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538446",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:47:04.409064+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/@postlight/parser/cli.js",
+                    "https://www.wired.com/story/us-copyright-office-trump-takeover/"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-05-30T09:47:03.990773+00:00",
+                "index_texts": null,
+                "output": "mercury",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538446",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:47:02.614433+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.wired.com/story/us-copyright-office-trump-takeover/"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T09:45:00.192268+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538446",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:44:53.546208+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/readability-extractor/readability-extractor",
+                    "/var/folders/lk/wv595jxn44n46ns2ttlbp_840000gn/T/tmpe0bw6gal",
+                    "https://www.wired.com/story/us-copyright-office-trump-takeover/"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-05-30T09:47:02.612649+00:00",
+                "index_texts": [
+                    "Two men claiming to be newly appointed Trump administration officials tried to enter the US Copyright Office in Washington, DC, on Monday, but left before gaining access to the building, sources tell WIRED. Their appearance comes days after the White House fired the director of the copyright office, Shira Perlmutter, who had held the job since 2020. Perlmutter was removed from her post on Saturday, one day after the agency released a report that raised concerns about the legality in certain cases of using copyrighted materials to train artificial intelligence.A source familiar with the matter tells WIRED that the two men who tried to enter the Copyright Office showed security at the building a document stating that they had been appointed by the White House to new roles within the office. The source identified the men as Brian Nieves, who claimed he was the new deputy librarian, and Paul Perkins, who said he was the new acting director of the Copyright Office, as well as acting register.After this article was published, the Department of Justice confirmed to WIRED that Nieves and Perkins had been appointed to lead the Copyright Office. Both are both currently high-ranking officials at the DOJ. The Justice Department declined to comment about whether the two officials attempted to enter the Copyright Office on Monday. The White House did not respond to a request for comment.Sources told WIRED that Capitol Police prevented the men from entering the copyright office, but a spokesperson for the law enforcement agency denied that officers escorted anyone out or denied them entry.The US Copyright Office is a government agency within the Library of Congress that administers the nation's copyright laws, including processing applications to copyright creative works. Last week, the Trump administration fired the Librarian of Congress, Carla Hayden, who was the first woman and the first Black person to hold the position. The Librarian of Congress is responsible for appointing the Copyright Register, not the executive branch.Some critics of Perlmutter's firing say this means that the White House does not have the power to remove the leader of the copyright office, either. \u201cThe president has as much legal power to fire the Register of Copyrights as I do, which is to say: none,\u201d Meredith Rose, legal counsel for intellectual property nonprofit Public Knowledge, said in a statement.The document the two men cited also stated that deputy attorney general Todd Blanche, who previously served as a personal defense lawyer for Trump, was now the acting Librarian of Congress. The Department of Justice announced Monday that Blanche would be replacing Hayden, who had been in the job for nearly a decade. White House press secretary Karoline Leavitt told reporters that Hayden\u2019s firing stemmed from \u201cquite concerning things she had done at the Library of Congress in pursuit of DEI.\u201dPrior to the Blanche's appointment, Hayden\u2019s former deputy, Robert Newlen, had already been named acting Librarian of Congress. In an email sent to staff Monday viewed by WIRED, Newlen refuted that a personnel change had taken place. \u201cCongress is engaged with the White House and we have not received direction from Congress about how to move forward,\u201d he wrote. Newlen's signature listed him as \u201cacting Librarian of Congress.\u201dThe Trump Administration has not commented so far on why Perlmutter was fired. Some lawmakers have speculated that her ouster is connected to the report on copyright and AI that her office had released. \u201cDonald Trump\u2019s termination of the Register of Copyrights, Shira Perlmutter, is a brazen, unprecedented power grab with no legal basis,\u201d Representative Joe Morelle, the top Democrat on the committee that oversees the Library of Congress, said in a statement on Saturday. \u201cIt is surely no coincidence he acted less than a day after she refused to rubber-stamp Elon Musk\u2019s efforts to mine troves of copyrighted works to train AI models.\u201dThe 108-page report was a \u201cpre-publication\u201d version, which means it wasn\u2019t yet finalized. It is not customary for the US Copyright Office to release this type of document, according to copyright lawyer Aaron Moss. The report was highly anticipated in Silicon Valley, as a number of big tech companies are currently embroiled in dozens of court battles over the legality of their approach to training AI tools on copyrighted materials.In most of these cases, the AI companies are arguing that fair use doctrine makes it legal for them to train on copyrighted materials without permission. The report holds that the fair use doctrine may indeed shield some use cases\u2014but not necessarily all. \u201cMaking commercial use of vast troves of copyrighted works to produce expressive content that competes with them in existing markets, especially where this is accomplished through illegal access, goes beyond established fair use boundaries,\u201d it reads.The New York Times is suing OpenAI for copyright infringement for using its work to train tools like ChatGPT. Times spokesperson Charlie Stadtlander said in a statement that using copyrighted material to generate content that competes with original works \u201cis not fair use.\u201dUpdate 5/12/2025, 5:28 PM ET: This article was updated with comment from the Department of Justice.Update 5/12/2025 7:42 PM ET: This article was updated to include a statement from Public Knowledge and references to an email received by staff at the Library of Congress."
+                ],
+                "output": "readability",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538446",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:47:01.445131+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.wired.com/story/us-copyright-office-trump-takeover/"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T09:46:00.330488+00:00",
+                "index_texts": null,
+                "output": "TimeoutExpired: Command '['/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', '--headless=new', '--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)', '--window-size=1440,2000', '--screenshot', 'https://www.wired.com/story/us-copyright-office-trump-takeover/']' timed out after 60 seconds",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538446",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:45:00.196645+00:00",
+                "status": "failed"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.wired.com/story/us-copyright-office-trump-takeover/",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-05-30T09:44:53.513345+00:00",
+                "index_texts": null,
+                "output": "TimeoutExpired: Command '['/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/single-file-cli/single-file', '--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', '--browser-args=[\\\\\"--headless=new\\\\\", \\\\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\\\", \\\\\"--window-size=1440,2000\\\\\"]', 'https://www.wired.com/story/us-copyright-office-trump-takeover/', 'singlefile.html']' timed out after 60 seconds",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538446",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:43:53.497443+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.wired.com/story/us-copyright-office-trump-takeover/"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T09:47:01.443900+00:00",
+                "index_texts": null,
+                "output": "Trump Appointees Blocked From Entering US Copyright Office | WIRED",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538446",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:47:00.477470+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538446/warc/1748598420",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) wget/None",
+                    "https://www.wired.com/story/us-copyright-office-trump-takeover/"
+                ],
+                "cmd_version": null,
+                "end_ts": "2025-05-30T09:47:00.474571+00:00",
+                "index_texts": null,
+                "output": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538446",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:47:00.463152+00:00",
+                "status": "failed"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "https://web.archive.org/web/20250530094709/https://www.wired.com/story/us-copyright-office-trump-takeover/",
+        "dom": "TimeoutExpired: Command '['/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', '--headless=new', '--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)', '--window-size=1440,2000', '--dump-dom', 'https://www.wired.com/story/us-copyright-office-trump-takeover/']' timed out after 60 seconds",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "output.pdf",
+        "screenshot": "TimeoutExpired: Command '['/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', '--headless=new', '--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)', '--window-size=1440,2000', '--screenshot', 'https://www.wired.com/story/us-copyright-office-trump-takeover/']' timed out after 60 seconds",
+        "singlefile": "TimeoutExpired: Command '['/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/single-file-cli/single-file', '--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', '--browser-args=[\\\\\"--headless=new\\\\\", \\\\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\\\", \\\\\"--window-size=1440,2000\\\\\"]', 'https://www.wired.com/story/us-copyright-office-trump-takeover/', 'singlefile.html']' timed out after 60 seconds",
+        "title": "Trump Appointees Blocked From Entering US Copyright Office | WIRED",
+        "warc": null,
+        "wget": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'"
+    },
+    "link_dir": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.538446",
+    "newest_archive_date": "2025-05-30T09:47:06.378130+00:00",
+    "num_failures": 4,
+    "num_outputs": 8,
+    "oldest_archive_date": "2025-05-30T09:43:53.105492+00:00",
+    "path": "/story/us-copyright-office-trump-takeover/",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "1da1d2f8-7109-4500-8e04-48e7ede2a5e1",
+    "sources": [],
+    "tags": null,
+    "tags_str": "",
+    "timestamp": "1748562443.538446",
+    "title": "Trump Appointees Blocked From Entering US Copyright Office | WIRED",
+    "updated": "2025-05-30T09:43:53.105370+00:00",
+    "updated_date": "2025-05-30 09:43",
+    "url": "https://www.wired.com/story/us-copyright-office-trump-takeover/"
+}

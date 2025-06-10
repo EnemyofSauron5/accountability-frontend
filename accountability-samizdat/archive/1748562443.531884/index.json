@@ -1,0 +1,336 @@
+{
+    "archive_path": "archive/1748562443.531884",
+    "base_url": "www.cbsnews.com/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs",
+    "basename": "",
+    "bookmarked_date": "2025-05-29 23:47",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.cbsnews.com/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.cbsnews.com",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": null
+    },
+    "domain": "www.cbsnews.com",
+    "extension": "",
+    "hash": "DQ7F59FAEQEPFZKZ2AYT",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://web.archive.org/save/https://www.cbsnews.com/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs/"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:53:36.831181+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.531884",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:53:36.820506+00:00",
+                "status": "failed"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.cbsnews.com/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs/"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:53:35.775530+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.531884",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:53:34.976531+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.google.com/s2/favicons?domain=www.cbsnews.com"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:53:32.201104+00:00",
+                "index_texts": null,
+                "output": "Exception: Failed to chmod: favicon.ico does not exist (did the previous step fail?)",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.531884",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:53:32.190843+00:00",
+                "status": "failed"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.cbsnews.com/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs/"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:53:32.204768+00:00",
+                "index_texts": null,
+                "output": "ConnectionError: None: Max retries exceeded with url: /news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs/ (Caused by NameResolutionError(\"None: Failed to resolve 'www.cbsnews.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.531884",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:53:32.202361+00:00",
+                "status": "failed"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.cbsnews.com/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs/"
+                ],
+                "cmd_version": "2025.05.22",
+                "end_ts": "2025-05-30T10:53:36.818826+00:00",
+                "index_texts": [],
+                "output": "ArchiveError: Failed to save media",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.531884",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:53:36.514430+00:00",
+                "status": "failed"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/@postlight/parser/cli.js",
+                    "https://www.cbsnews.com/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs/",
+                    "--format=text"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-05-30T10:53:36.498316+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Got /Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/@postlight/parser/cli.js response code: 1).",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.531884",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:53:36.263436+00:00",
+                "status": "failed"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.cbsnews.com/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs/"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:53:33.886328+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.531884",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:53:32.953013+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/readability-extractor/readability-extractor",
+                    "/var/folders/lk/wv595jxn44n46ns2ttlbp_840000gn/T/tmptu_pa1mt",
+                    "https://www.cbsnews.com/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs/"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-05-30T10:53:36.261437+00:00",
+                "index_texts": [
+                    "No internet\n          \n          \n            No internet\n          \n\n          \n            \n              Try:\n              \n                \n                  Checking the network cables, modem, and router\n                \n                  Reconnecting to Wi-Fi\n                \n              \n            \n          \n\n          ERR_INTERNET_DISCONNECTED"
+                ],
+                "output": "readability",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.531884",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:53:35.826310+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.cbsnews.com/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs/"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-30T10:53:34.974802+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.531884",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:53:33.888080+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.cbsnews.com/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs/",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-05-30T10:53:32.951155+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: SingleFile was not able to archive the page",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.531884",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:53:32.205301+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.cbsnews.com/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs/"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-30T10:53:35.825586+00:00",
+                "index_texts": null,
+                "output": "www.cbsnews.com",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.531884",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:53:35.783035+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.531884/warc/1748602415",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) wget/None",
+                    "https://www.cbsnews.com/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs/"
+                ],
+                "cmd_version": null,
+                "end_ts": "2025-05-30T10:53:35.781145+00:00",
+                "index_texts": null,
+                "output": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.531884",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T10:53:35.777776+00:00",
+                "status": "failed"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+        "dom": "output.html",
+        "favicon": "Exception: Failed to chmod: favicon.ico does not exist (did the previous step fail?)",
+        "git": null,
+        "media": "ArchiveError: Failed to save media",
+        "pdf": "output.pdf",
+        "screenshot": "screenshot.png",
+        "singlefile": "ArchiveError: SingleFile was not able to archive the page",
+        "title": "www.cbsnews.com",
+        "warc": null,
+        "wget": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'"
+    },
+    "link_dir": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.531884",
+    "newest_archive_date": "2025-05-30T10:53:36.820506+00:00",
+    "num_failures": 7,
+    "num_outputs": 5,
+    "oldest_archive_date": "2025-05-30T10:53:32.190843+00:00",
+    "path": "/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs/",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "36cf662f-639b-4b8c-8534-884d1e9ed0d5",
+    "sources": [],
+    "tags": null,
+    "tags_str": "",
+    "timestamp": "1748562443.531884",
+    "title": "www.cbsnews.com",
+    "updated": "2025-05-30T10:53:32.190786+00:00",
+    "updated_date": "2025-05-30 10:53",
+    "url": "https://www.cbsnews.com/news/trump-hosts-liv-golf-fundraiser-as-stocks-sink-over-tariffs/"
+}

@@ -1,0 +1,20 @@
+No internet
+          
+          
+            No internet
+          
+
+          
+            
+              Try:
+              
+                
+                  Checking the network cables, modem, and router
+                
+                  Reconnecting to Wi-Fi
+                
+              
+            
+          
+
+          ERR_INTERNET_DISCONNECTED

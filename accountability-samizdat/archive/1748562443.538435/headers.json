@@ -1,0 +1,21 @@
+{
+    "Status-Code": 200,
+    "Content-Type": "text/html; charset=utf-8",
+    "Connection": "keep-alive",
+    "Server": "CloudFront",
+    "Date": "Fri, 30 May 2025 08:31:52 GMT",
+    "Modified-At": "1748364598",
+    "Cache-Control": "stale-while-revalidate=60, stale-if-error=86400, s-maxage=14400",
+    "Back-Lae-Origin-Response-Start": "1748593912955",
+    "X-Organization-Slug": "wired",
+    "X-Content-Type-Options": "nosniff",
+    "X-Ua-Device": "desktop",
+    "Via": "1.1 fd84a98fca0c092bda874136d6c8db62.cloudfront.net (CloudFront), 1.1 cb712125c0a106eae5fd0f1f475a2270.cloudfront.net (CloudFront)",
+    "Vary": "accept-encoding",
+    "Alt-Svc": "h3=\":443\"; ma=86400",
+    "Age": "4814",
+    "Set-Cookie": "CN_geo_country_code=US; Expires=Wed, 26 Nov 2025 09:52:06 GMT; path=/; Domain=.wired.com;  Secure; SameSite=None;, CN_segments=co.w2522; Expires=Wed, 26 Nov 2025 09:52:06 GMT; Domain=.wired.com; path=/;, CN_xid=93ed69b3-095c-4a43-bc9d-3a9f182a50ee; Expires=Wed, 26 Nov 2025 09:52:06 GMT; Domain=.wired.com; path=/; Secure; SameSite=None;, CN_xid_refresh=93ed69b3-095c-4a43-bc9d-3a9f182a50ee; Expires=Sat, 30 May 2026 09:52:06 GMT; Domain=.wired.com; path=/; Secure; httponly; SameSite=None;, xid1=1; Expires=Fri, 30 May 2025 09:52:21 GMT; Domain=.wired.com; path=/;",
+    "X-Amz-Cf-Pop": "HIO52-P3, SFO53-P1",
+    "X-Cache": "Miss from cloudfront",
+    "X-Amz-Cf-Id": "fHX289Ii7e9FUkoaGzYyQV3Oy116K-TBc06jg9mRu4Yks_0DJYRgrg=="
+}

@@ -1,0 +1,23 @@
+{
+    "Status-Code": 401,
+    "Content-Type": "text/html;charset=utf-8",
+    "Content-Length": "735",
+    "Connection": "keep-alive",
+    "Server": "CloudFront",
+    "Date": "Fri, 30 May 2025 09:14:44 GMT",
+    "x-datadome": "protected",
+    "accept-ch": "Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory",
+    "charset": "utf-8",
+    "cache-control": "max-age=0, private, no-cache, no-store, must-revalidate",
+    "pragma": "no-cache",
+    "access-control-allow-credentials": "true",
+    "access-control-expose-headers": "x-dd-b, x-set-cookie",
+    "access-control-allow-origin": "*",
+    "x-datadome-cid": "AHrlqAAAAAMA31U0-hlUtbcA8sQWiA==",
+    "x-dd-b": "1",
+    "set-cookie": "datadome=QxKcGDix3iyR2NBBCfkwiP_9hwNRV9bY7yK4cxgg3u6es4PQtwnbNBRMexvp3zXFOiuau4W5DLVGOmoDrTt~l_ZAEOQmNTntnXIGRD__iYBDBtDHM_wM_r4jNRM_gl6B; Max-Age=31536000; Domain=.wsj.com; Path=/; SameSite=Lax",
+    "X-Cache": "LambdaGeneratedResponse from cloudfront",
+    "Via": "1.1 18225112e7d56a947f23d8abfccd5d3c.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "SFO53-P1",
+    "X-Amz-Cf-Id": "rdFF0LsnQel8Bc1depY-Irp5f5ni5Gzhj1i0E8XK-pJBdPxvNLRTRw=="
+}

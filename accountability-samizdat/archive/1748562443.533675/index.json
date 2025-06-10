@@ -1,0 +1,399 @@
+{
+    "archive_path": "archive/1748562443.533675",
+    "base_url": "www.yahoo.com/news/elon-musk-lost-call-government-192827723.html",
+    "basename": "elon-musk-lost-call-government-192827723.html",
+    "bookmarked_date": "2025-05-29 23:47",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.yahoo.com/news/elon-musk-lost-call-government-192827723.html",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.yahoo.com",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": null
+    },
+    "domain": "www.yahoo.com",
+    "extension": "html",
+    "hash": "AMF7NEVK41C1MHZTQ81X",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://web.archive.org/save/https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-29T23:49:02.812006+00:00",
+                "index_texts": null,
+                "output": "https://web.archive.org/web/20250529234840/https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T23:48:36.904564+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-29T23:48:35.952382+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T23:48:34.831220+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.google.com/s2/favicons?domain=www.yahoo.com"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-29T23:48:31.005976+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T23:48:30.913477+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-29T23:48:31.688675+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T23:48:31.010635+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html"
+                ],
+                "cmd_version": "2025.05.22",
+                "end_ts": "2025-05-29T23:48:36.894206+00:00",
+                "index_texts": [
+                    "In March 2018, Tesla Model X owner Walter Huang died after his vehicle crashed into a concrete highway median at 71 mph \u2014 while its Autopilot driver assistance software was turned on. The entire front of the vehicle was ripped off, sending the SUV spinning. Huan was pronounced dead hours after being taken to the hospital. According to details released years later, the National Transportation Safety Board (NTSB) confirmed that the software was turned on and that Huang had informed both his brothe"
+                ],
+                "output": "media",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T23:48:36.120728+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "postlight-parser",
+                    "https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html",
+                    "--format=text"
+                ],
+                "cmd_version": null,
+                "end_ts": "2025-05-29T23:48:36.098039+00:00",
+                "index_texts": null,
+                "output": "FileNotFoundError: [Errno 2] No such file or directory: 'postlight-parser'",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T23:48:36.096192+00:00",
+                "status": "failed"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-29T23:48:33.221180+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T23:48:31.708421+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "readability-extractor",
+                    "./{dom,singlefile}.html"
+                ],
+                "cmd_version": null,
+                "end_ts": "2025-05-29T23:48:36.094909+00:00",
+                "index_texts": [],
+                "output": "FileNotFoundError: [Errno 2] No such file or directory: 'readability-extractor'",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T23:48:36.091131+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/readability-extractor/readability-extractor",
+                    "/var/folders/lk/wv595jxn44n46ns2ttlbp_840000gn/T/tmp4feyrkr9",
+                    "https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-05-30T09:12:52.516577+00:00",
+                "index_texts": [
+                    "In March 2018, Tesla Model X owner Walter Huang died after his vehicle crashed into a concrete highway median at 71 mph \u2014 while its Autopilot driver assistance software,\u00a0a buzzy new feature at the time, was turned on.The entire front of the vehicle was ripped off, sending the SUV spinning. Huan was pronounced dead hours after being taken to the hospital.According to details released years later, the National Transportation Safety Board (NTSB) confirmed that the software Huang had been using Autopilot, and had informed both his brother and his wife that it had previously swerved toward the exact road barrier into which he ultimately crashed.Huang also put enough trust in the software to pull out his iPhone to play a mobile game right up until the fatal crash.The incident, an inflection point highlighting glaring shortcomings of the driver assistance software, and the subsequent investigation by regulators, seemingly enraged Tesla CEO Elon Musk.As detailed in a newly published excerpt of Washington Post tech reporter Faiz Siddiqui's book titled \"Hubris Maximus: The Shattering of Elon Musk,\" set to be released on April 22, Musk hung up on the NTSB in pure rage.Former NTSB board member Robert Sumwalt told Siddiqui that Musk had \"fumed, protested, threatened to sue, and abruptly exited the conversation when safety investigators refused to bend to his will.\"The spat was over Tesla trying to get ahead of the investigation by preemptively disclosing data, plus accusing Huang of distracted driving and engaging Autopilot even though he knew it wasn't reliable.\"The crash happened on a clear day with several hundred feet of visibility ahead, which means that the only way for this accident to have occurred is if Mr. Huang was not paying attention to the road, despite the car providing multiple warnings to do so,\" Tesla's since-disbanded PR department wrote in a press statement at the time.Sumwalt was appalled that the EV maker was blaming Huang, especially so early on in the investigation.\"What you did, Elon, was a violation of our party agreement,\" he told Musk over the phone, referring to Tesla preemptively releasing data, as quoted by Siddiqui. \"We spoke about this last week. You agreed that you would abide by our requirements.\"Musk erupted in anger, accusing Sumwalt of putting people in danger and eventually threatening to sue him.But the fuming Musk didn't want out completely. \"I don\u2019t want us to be removed from the investigation,\"\u00a0he reportedly said.\"It\u2019s too late for that,\" Sumwalt recalled responding to him, resulting in the billionaire hanging up on the call.There may be an emotional component. Former NTSB managing director Dennis Jones told the author that Musk felt cornered and like \"we're all beating up on him.\"Musk maintains that his EV maker's driver assistance software will ultimately make roads safer for everybody.However, the features have been linked to hundreds of crashes and dozens of deaths by federal regulators since then, indicating glaring technical shortcomings. The National Highway Traffic Safety Administration (NHTSA) has also warned that making use of the EV maker's misleadingly called \"Full Self-Driving\" software can lull users into a false sense of security because they're not \"sufficiently engaged in the driving task.\"Musk has also been accused of applying faulty logic to make it look like the software is safer than human drivers, and Tesla has been charged with withholding crucial driving data related to collisions.To the mercurial CEO, regulation remains a major hindrance to rolling out potentially lifesaving tech.Since then, Tesla has pushed ahead, rolling out iterative versions of its infamous FSD software, allowing users to test it out on public roads on the company's behalf.Now that Musk has quickly become one of president Donald Trump's closest allies, the EV maker may soon have far fewer regulations to deal with. In December, documents obtained by\u00a0Reuters suggested that the administration was looking to drop a federal car-cash reporting requirement \u2014 which could greatly undermine the government's efforts to investigate Tesla's infamous driver-assistance software.The NTSB also faced an existential crisis earlier this year, clambering to keep investigators from leaving after Trump offered them to resign and get paid through September.The NHTSA has also been hit with major layoffs by Musk's so-called Department of Government Efficiency, a glaring conflict of interest.Put simply, Musk appears to have had the last laugh \u2014 at least for now.More on Tesla: An Internal Tesla Analysis Found the Robotaxi Would Lose Money, and You'll Never Guess What Elon Musk Did in Response"
+                ],
+                "output": "readability",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:12:51.284224+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--headless=new",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html"
+                ],
+                "cmd_version": "Google Chrome 136.0.7103.114",
+                "end_ts": "2025-05-29T23:48:34.829998+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T23:48:33.222360+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "single-file",
+                    "--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html",
+                    "singlefile.html"
+                ],
+                "cmd_version": null,
+                "end_ts": "2025-05-29T23:48:31.703587+00:00",
+                "index_texts": null,
+                "output": "FileNotFoundError: [Errno 2] No such file or directory: 'single-file'",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T23:48:31.692809+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-05-30T09:12:51.269001+00:00",
+                "index_texts": null,
+                "output": "TimeoutExpired: Command '['/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/single-file-cli/single-file', '--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', '--browser-args=[\\\\\"--headless=new\\\\\", \\\\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\\\", \\\\\"--window-size=1440,2000\\\\\"]', 'https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html', 'singlefile.html']' timed out after 60 seconds",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:11:51.257479+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.7.1 (x86_64-apple-darwin24.0)",
+                    "https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html"
+                ],
+                "cmd_version": "curl 8.7.1 (x86_64-apple-darwin24.0)",
+                "end_ts": "2025-05-29T23:48:36.090185+00:00",
+                "index_texts": null,
+                "output": "Elon Musk Lost It on a Call With the Government After Autopilot Killed a Tesla Driver",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T23:48:35.956878+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675/warc/1748562515",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) wget/None",
+                    "https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html"
+                ],
+                "cmd_version": null,
+                "end_ts": "2025-05-29T23:48:35.955687+00:00",
+                "index_texts": null,
+                "output": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-29T23:48:35.953656+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675/warc/1748596371",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/) wget/None",
+                    "https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html"
+                ],
+                "cmd_version": null,
+                "end_ts": "2025-05-30T09:12:51.282166+00:00",
+                "index_texts": null,
+                "output": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'",
+                "pwd": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-05-30T09:12:51.277288+00:00",
+                "status": "failed"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "https://web.archive.org/web/20250529234840/https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "output.pdf",
+        "screenshot": "screenshot.png",
+        "singlefile": "TimeoutExpired: Command '['/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/node_modules/single-file-cli/single-file', '--browser-executable-path=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', '--browser-args=[\\\\\"--headless=new\\\\\", \\\\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.2 (+https://github.com/ArchiveBox/ArchiveBox/)\\\\\", \\\\\"--window-size=1440,2000\\\\\"]', 'https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html', 'singlefile.html']' timed out after 60 seconds",
+        "title": "Elon Musk Lost It on a Call With the Government After Autopilot Killed a Tesla Driver",
+        "warc": null,
+        "wget": "FileNotFoundError: [Errno 2] No such file or directory: 'wget'"
+    },
+    "link_dir": "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/archive/1748562443.533675",
+    "newest_archive_date": "2025-05-30T09:12:51.284224+00:00",
+    "num_failures": 6,
+    "num_outputs": 9,
+    "oldest_archive_date": "2025-05-29T23:48:30.913477+00:00",
+    "path": "/news/elon-musk-lost-call-government-192827723.html",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "cb265d01-b2e9-4d6f-b30e-065dee425cf5",
+    "sources": [
+        "/Users/stanger@middlebury.edu/accountability-frontend/accountability-samizdat/sources/1748562443-import.txt"
+    ],
+    "tags": null,
+    "tags_str": "",
+    "timestamp": "1748562443.533675",
+    "title": "Elon Musk Lost It on a Call With the Government After Autopilot Killed a Tesla Driver",
+    "updated": "2025-05-30T09:11:51.257292+00:00",
+    "updated_date": "2025-05-30 09:11",
+    "url": "https://www.yahoo.com/news/elon-musk-lost-call-government-192827723.html"
+}
