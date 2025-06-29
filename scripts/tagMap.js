@@ -269,5 +269,7 @@ module.exports = {
   "Donald Trump Jr.": "Trump Organization",
   "Cryptocurrency": "Crypto",
   "Congressional Action": "Oversight Interference",
-  "Project 2025": "Trump Administration"
+  "Project 2025": "Trump Administration",
+  "Housing Policy": "Federal Agencies",
+  "Military Deployment": "Military Deployment"
 };
