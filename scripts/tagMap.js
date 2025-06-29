@@ -271,5 +271,15 @@ module.exports = {
   "Congressional Action": "Oversight Interference",
   "Project 2025": "Trump Administration",
   "Housing Policy": "Federal Agencies",
-  "Military Deployment": "Military Deployment"
+  "Military Deployment": "Military Deployment",
+  "Department of Justice": "Federal Agencies",
+  "NASA": "Federal Agencies",
+  "SEC": "Federal Agencies",
+  "Supreme Court": "Legal Challenges",
+  "Lobbying": "Campaign Finance",
+  "Housing Policy": "Federal Agencies",
+  "Labor Organizing": "Federal Employees",
+  "Foreign Policy": "Foreign Influence",
+  "Whistleblowers": "Oversight Interference",
+  "Procurement": "Federal Agencies"
 };
