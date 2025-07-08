@@ -281,5 +281,9 @@ module.exports = {
   "Labor Organizing": "Federal Employees",
   "Foreign Policy": "Foreign Influence",
   "Whistleblowers": "Oversight Interference",
-  "Procurement": "Federal Agencies"
+  "Procurement": "Federal Agencies",
+  "Monetization of Presidency": "Monetization of Presidency",
+  "Quid Pro Quo Corruption": "Quid Pro Quo Corruption",
+  "Department of Justice": "Federal Agencies"
+
 };

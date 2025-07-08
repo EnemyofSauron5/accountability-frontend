@@ -829,7 +829,8 @@
     "tags": [
       "Donald Trump",
       "Crypto",
-      "Conflicts of Interest"
+      "Conflicts of Interest",
+      "Monetization of Presidency"
     ],
     "sources": [
       "https://en.wikipedia.org/wiki/$Trump",
@@ -849,7 +850,8 @@
       "Donald Trump",
       "Trump Organization",
       "Crypto",
-      "Financial Markets"
+      "Financial Markets",
+      "Monetization of Presidency"
     ],
     "sources": [
       "https://www.theguardian.com/us-news/2025/jan/29/trump-media-crypto"
@@ -5974,7 +5976,8 @@
       "Conflicts of Interest",
       "Oversight Interference",
       "Federal Agencies",
-      "Donald Trump"
+      "Donald Trump",
+      "Quid Pro Quo Corruption"
     ],
     "sources": [
       "https://www.whitehouse.gov/presidential-actions/2025/03/addressing-remedial-action-by-paul-weiss",
@@ -6083,268 +6086,281 @@
     "sources": [
       "https://www.nytimes.com/2025/06/26/us/politics/justice-department-deport-abrego-garcia.html?smid=nytcore-ios-share&referringSource=articleShare"
     ]
-   },
-   {
-  "date": "2025-06-12",
-  "title": "Judge Rules Trump's Seizure of California National Guard Was Illegal, Orders Troop Control Returned to State",
-  "summary": "In a sweeping 36-page opinion, Judge Charles Breyer ruled that the Trump administration's federalization of up to 4,000 California National Guard troops violated statutory procedures and the Tenth Amendment. The court ordered control returned to Governor Gavin Newsom and described the maneuver as an unlawful militarization of domestic space. The administration’s appeal to the Ninth Circuit temporarily stayed the order. The ruling did not limit the deployment of 700 active-duty Marines, who remain staged outside Los Angeles. Breyer's decision marks a major rebuke of the administration's use of military power in response to immigration protests and state defiance.",
-  "tags": [
-    "Legal Challenges",
-    "Oversight Interference",
-    "Military Deployment",
-    "Public Safety",
-    "Deportations",
-    "Donald Trump",
-    "Federal Agencies"
-  ],
-  "sources": [
-    "https://www.nytimes.com/2025/06/12/us/politics/california-trump-lawsuit-protests.html?smid=nytcore-ios-share&referringSource=articleShare"
-  ]
- },
- {
-  "date": "2025-06-13",
-  "title": "Walmart and Amazon Explore Issuing Proprietary Stablecoins to Bypass Traditional Payment Networks",
-  "summary": "Walmart and Amazon are exploring plans to issue their own U.S.-based stablecoins to circumvent credit card networks and reduce payment processing costs. According to internal discussions reported by the Wall Street Journal, both companies aim to create crypto-backed digital tokens that could streamline transactions and increase control over payment systems. The effort depends on the passage of the Genius Act, a bill that would establish a federal framework for stablecoins. The retailers are also exploring forming or joining a stablecoin consortium. Visa and Mastercard stocks dropped 5% on the news, reflecting market anxiety over competition from merchant-led financial innovation.",
-  "tags": [
-    "Crypto",
-    "Financial Markets",
-    "Tech Platforms",
-    "Regulatory Rollback",
-    "Campaign Finance"
-  ],
-  "sources": [
-    "https://www.wsj.com/finance/banking/walmart-amazon-stablecoin-07de2fdd?st=QpC56r&reflink=article_email_share"
-  ]
- },
- {
-  "date": "2025-06-17",
-  "title": "SEC Pauses Probe into Justin Sun as Tron Goes Public in Deal Backed by Trump Family Allies",
-  "summary": "The U.S. Securities and Exchange Commission paused its fraud investigation into crypto billionaire Justin Sun and his companies four months before Sun’s Tron platform announced a reverse merger to go public via SRM Entertainment. The deal is being orchestrated by Dominari Securities, a Trump-connected investment bank headquartered in Trump Tower. Eric Trump is reportedly expected to play a role in the new entity, Tron Inc., which will hold $210 million in crypto assets. Sun has donated $75 million to World Liberty Financial, the Trump family crypto venture, and was among the top 25 holders of $TRUMP coin invited to a White House dinner. Critics warn that the sequence of events—including paused regulatory action, donation-linked access, and a surge in SRM stock—raises concerns about selective enforcement and influence peddling at the highest levels.",
-  "tags": [
-    "Crypto",
-    "Conflicts of Interest",
-    "Donald Trump",
-    "Financial Markets",
-    "Campaign Finance",
-    "Elon Musk",
-    "Legal Challenges"
-  ],
-  "sources": [
-    "https://www.ft.com/content/13a6cead-af71-4811-9b90-553f233ac45f?accessToken=zwAGOWfk5Z2gkc8Tps6tr3FIEdObkFU_IzrEXw.MEQCIEmUfQPq93RQ07CdvVGYWzm06zgXxs7JSnYpzgzIzu3DAiA3rDuaH-L56pCcN9ieIsdJpQ1ZAAaQsycTZvh2XKpKaw&sharetype=gift&token=feb9683e-7c1f-45fa-ab35-3c47d23b72e3"
-  ]
- },
- {
-  "date": "2025-06-16",
-  "title": "Trump Sons Launch Bitcoin Mining Venture Amid Administration Rollbacks and Tariff Manipulations",
-  "summary": "Eric Trump and Donald Trump Jr. have launched American Bitcoin, a mining venture created with crypto firm Hut 8. The firm is poised to go public later this year, with 20% ownership held through an entity formed by the Trump sons. The company’s rollout was synchronized with pro-crypto regulatory rollbacks and a rollback of Chinese tariffs that helped facilitate mining hardware imports. The White House’s aggressive crypto policies, including creation of a national Bitcoin stockpile, have driven up prices and boosted the family's holdings. Eric Trump has promoted the firm at industry conferences while downplaying any conflict of interest, despite the firm's direct benefit from federal energy and trade policy shifts. Representative Maxine Waters called the venture a blatant conflict of interest.",
-  "tags": [
-    "Crypto",
-    "Donald Trump",
-    "Trump Organization",
-    "Financial Markets",
-    "Conflicts of Interest",
-    "Campaign Finance",
-    "Regulatory Rollback"
-  ],
-  "sources": [
-    "https://www.nytimes.com/2025/06/16/technology/trump-american-bitcoin-mining.html?smid=nytcore-ios-share&referringSource=articleShare"
-  ]
- },
- {
-  "date": "2025-07-01",
-  "title": "Trump Launches 'Victory 45–47' Presidential Fragrance Amid Senate Budget Debate",
-  "summary": "While the U.S. Senate debated Trump’s latest spending bill, the president launched a new line of luxury perfumes under the name 'Victory 45–47.' The scents, priced at $250 each, come in gilded bottles bearing Trump’s image and autograph. They are the latest in a series of branded products including MAGA guitars, diamond-studded watches, and smartphones, marketed using Trump’s presidential persona. Critics argue the timing and promotional style of the rollout — which included social media posts and video ads with American flags — reflect a continuing effort to monetize the presidency for personal gain. Trump has reportedly earned over $7 million in licensing income from his branded merchandise.",
-  "tags": [
-    "Donald Trump",
-    "Conflicts of Interest",
-    "Trump Organization",
-    "Campaign Finance",
-    "Monetization of Presidency"
-  ],
-  "sources": [
-    "https://www.nytimes.com/2025/07/01/style/trump-fragrances-victory-45-47.html?smid=nytcore-ios-share&referringSource=articleShare"
-  ]
- },
- {
-  "date": "2025-06-30",
-  "title": "Trump Administration Issues Civil Rights Violation Notice to Harvard, Threatens Loss of Federal Funding",
-  "summary": "The Trump administration issued a formal finding that Harvard University violated federal civil-rights law by failing to protect Jewish and Israeli students from threats, harassment, and antisemitic imagery. The Department of Education warned that the university could lose all federal funding unless it implements immediate reforms. The administration accused Harvard of deliberate indifference, citing widespread antisemitic graffiti and two years of inaction. The move follows similar actions against Columbia University and is part of a broader push by the Trump administration to impose federal oversight on elite universities. Harvard disputed the findings and stated it has made substantive changes, while continuing to pursue its lawsuit against the administration.",
-  "tags": [
-    "Academic Freedom",
-    "Federal Agencies",
-    "Donald Trump",
-    "Legal Challenges",
-    "Oversight Interference",
-    "Rights Violations"
-  ],
-  "sources": [
-    "https://www.wsj.com/us-news/education/harvard-violated-students-civil-rights-trump-administration-finds-4a0ed7aa?st=pYmgHJ&reflink=article_email_share"
-  ]
- },
- {
-  "date": "2025-07-06",
-  "title": "Trump Uses Presidency to Restore Finances via Foreign Licensing, Crypto, and Merchandise Sales",
-  "summary": "A comprehensive New York Times investigation revealed that Donald Trump's return to power coincided with a deliberate pivot in the Trump Organization's business strategy—from struggling real estate holdings to aggressive monetization of the presidency. With his finances weakened by legal judgments, loan maturities, and underperforming golf properties, Trump and his sons rapidly launched new crypto ventures, Truth Social stock deals, and foreign licensing agreements. After clinching the GOP nomination, they signed nine new foreign branding contracts, most with ties to previous political donors and foreign governments. The Trump family also benefited from an infusion of over $320 million from meme coin sales and an estimated $236 million in crypto holdings through World Liberty Financial. The report underscores how Trump’s public role was converted into personal income via opaque and unregulated channels.",
-  "tags": [
-    "Donald Trump",
-    "Trump Organization",
-    "Conflicts of Interest",
-    "Monetization of Presidency",
-    "Crypto",
-    "Financial Markets",
-    "Foreign Influence"
-  ],
-  "sources": [
-    "https://www.nytimes.com/2025/07/02/us/trump-finances-crypto.html?smid=nytcore-ios-share&referringSource=articleShare"
-  ]
- },
- {
-  "date": "2025-07-02",
-  "title": "Trump's Net Worth Surges Past $10 Billion on Crypto Gains, But Liquidity Questions Remain",
-  "summary": "A comprehensive New York Times analysis of President Trump's financial disclosures and crypto holdings suggests that his net worth now exceeds $10 billion—driven largely by $6.9 billion in $TRUMP coin value, $2 billion in Trump Media stock, and more than $300 million in proceeds from World Liberty Financial token sales. While his paper wealth has soared during his presidency, much of it remains illiquid, subject to volatility, or tied up in pledged assets backing lawsuit-related bonds. Trump also reported $11 million in royalties from branded products and over $100 million in outstanding real estate loans. The report underscores how the presidency has enabled Trump to generate large theoretical wealth through self-branded crypto, retail licensing, and policy-driven asset surges.",
-  "tags": [
-    "Donald Trump",
-    "Trump Organization",
-    "Crypto",
-    "Conflicts of Interest",
-    "Monetization of Presidency",
-    "Financial Markets"
-  ],
-  "sources": [
-    "https://www.nytimes.com/interactive/2025/07/02/business/donald-trump-wealth-net-worth.html?smid=nytcore-ios-share&referringSource=articleShare"
-  ]
- },
- {
-  "date": "2025-07-02",
-  "title": "Lawyers Say Abrego Garcia Was Beaten and Tortured in Salvadoran Prison Before Return to U.S.",
-  "summary": "Court filings reveal that Kilmar Abrego Garcia, the Maryland man wrongfully deported by the Trump administration in March, was subjected to beatings, sleep deprivation, and psychological torture at the CECOT prison in El Salvador. According to his lawyers, Garcia was forced to kneel overnight under threat of assault, denied bathroom access, and confined in a brightly lit, windowless cell without a mattress. Salvadoran authorities allegedly admitted he was not affiliated with any gang, undermining earlier Trump administration claims that his tattoos indicated MS-13 membership. Garcia lost 31 pounds during his detention. Despite the abuse, the Justice Department continues to seek his deportation and has issued conflicting statements about his legal status. His attorneys are seeking a new federal order to bar his removal until further court review.",
-  "tags": [
-    "Deportations",
-    "Rights Violations",
-    "Legal Challenges",
-    "Oversight Interference",
-    "Department of Justice",
-    "Donald Trump"
-  ],
-  "sources": [
-    "https://www.nytimes.com/2025/07/02/us/politics/kilmar-abrego-garcia-el-salvador-trump-deportation.html?smid=nytcore-ios-share&referringSource=articleShare"
-  ]
- },
- {
-  "date": "2025-07-03",
-  "title": "ICE Ramps Up Arrests of Undocumented Migrants Without Criminal Records as Trump Pursues Mass Deportation Goal",
-  "summary": "The Trump administration has sharply increased arrests of undocumented migrants who have no criminal convictions, according to a Washington Post analysis of internal ICE data obtained via FOIA lawsuit. While DHS officials claim ICE is targeting the 'worst of the worst,' more than half of those deported since January 20 had no criminal record. The proportion of detainees with criminal convictions fell from 46% in January to 30% in June. The administration also ended temporary protected status for hundreds of thousands of Venezuelans and enlisted multiple federal agencies—including the FBI and ATF—to support ICE operations. Critics warn that the shift represents a departure from prior prioritization guidelines and raises civil liberties concerns. ICE arrests reached nearly 1,000 per day by late May, with Texas, Florida, and Virginia showing the largest increases.",
-  "tags": [
-    "Deportations",
-    "Rights Violations",
-    "Immigration Actions",
-    "Department of Justice",
-    "Oversight Interference",
-    "Donald Trump",
-    "Federal Agencies"
-  ],
-  "sources": [
-    "https://www.washingtonpost.com/immigration/2025/07/03/ice-arrests-migrants-criminal-record-numbers/"
-  ]
- },
- {
-  "date": "2025-07-03",
-  "title": "Supreme Court Allows Trump Administration to Deport Eight Migrants to South Sudan",
-  "summary": "The Supreme Court ruled that the Trump administration can deport eight noncitizens—held for over a month on a U.S. military base in Djibouti—to South Sudan, despite their lack of ties to the country. Only one of the men holds South Sudanese citizenship; the others come from Cuba, Mexico, Laos, Vietnam, and Myanmar. The Court’s unsigned order overruled prior district court decisions that had blocked the deportations and required the opportunity to assert protection under anti-torture statutes. Justice Sotomayor dissented, calling the action a violation of judicial process and warning that the men could face torture or death. The men had been confined under armed guard in an air-conditioned shipping container at Camp Lemonnier, shackled except while showering or speaking with attorneys. The ruling marks an escalation of third-country deportations with minimal oversight, part of a broader Trump administration effort to speed removals.",
-  "tags": [
-    "Deportations",
-    "Legal Challenges",
-    "Rights Violations",
-    "Oversight Interference",
-    "Federal Agencies",
-    "Donald Trump",
-    "Supreme Court"
-  ],
-  "sources": [
-    "https://www.nytimes.com/2025/07/03/us/politics/supreme-court-migrants-south-sudan.html?smid=nytcore-ios-share&referringSource=articleShare"
-  ]
- },
- {
-  "date": "2025-07-04",
-  "title": "Trump Extracts $16M from CBS via Lawsuit and FCC Leverage, Drawing Extortion Allegations",
-  "summary": "President Trump secured a $16 million settlement from CBS—funneled to his future presidential library—after filing a widely derided lawsuit over an edited interview with Kamala Harris. The lawsuit, filed in Amarillo, Texas, was dismissed by legal experts as meritless and legally incoherent. CBS’s parent company, Paramount, was simultaneously seeking approval for an $8 billion merger from the FCC, whose Trump-appointed chair had publicly tied merger approval to CBS’s resolution of Trump’s complaint. Legal analysts and former federal officials warned the arrangement resembled political extortion. Critics note that this is part of a pattern, including previous settlements from other media and law firms, in which the Trump administration uses state power to extract payments that benefit Trump personally.",
-  "tags": [
-    "Donald Trump",
-    "Press Freedom",
-    "Legal Challenges",
-    "Conflicts of Interest",
-    "Oversight Interference",
-    "Federal Agencies",
-    "Extortion"
-  ],
-  "sources": [
-    "https://www.theatlantic.com/ideas/archive/2025/07/welcome-mafia-presidency/683433/"
-  ]
- },
- {
-  "date": "2025-07-05",
-  "title": "U.S. Deports Eight Migrants to South Sudan After Supreme Court Overrides Due Process Concerns",
-  "summary": "The Trump administration deported eight noncitizens to South Sudan following a Supreme Court decision that overrode lower court rulings which had temporarily blocked the removals. The men, from Vietnam, Mexico, Cuba, Myanmar, and Laos—only one of whom is South Sudanese—were detained for weeks inside an air-conditioned shipping container at a U.S. military base in Djibouti. Lawyers warned that deportation to South Sudan posed a credible risk of torture, but the administration cited diplomatic assurances that the migrants would be granted temporary status. Federal judges had raised constitutional concerns, including violations of due process and the 1896 Supreme Court ruling against 'infamous punishment.' The deportations are part of the Trump administration’s expansion of third-country removals under the Alien Enemies Act and mark a growing judicial deference to executive immigration authority.",
-  "tags": [
-    "Deportations",
-    "Legal Challenges",
-    "Rights Violations",
-    "Oversight Interference",
-    "Federal Agencies",
-    "Donald Trump",
-    "Supreme Court"
-  ],
-  "sources": [
-    "https://www.nytimes.com/2025/07/05/us/politics/migrants-djibouti-south-sudan.html?smid=nytcore-ios-share&referringSource=articleShare"
-  ]
- },
-{
-  "date": "2025-07-03",
-  "title": "Trump Pressures Google to Settle Lawsuit Amid Pattern of Extracting Payouts from Tech Firms",
-  "summary": "President Trump’s lawyers have entered settlement talks with Google CEO Sundar Pichai over a long-standing lawsuit concerning YouTube’s ban of Trump after January 6. The move follows similar settlements with Meta ($25 million) and X ($10 million), both directed to Trump’s presidential library. Though Trump’s case was likely to fail on legal grounds, ongoing FCC oversight and executive pressure have pushed companies to settle. Analysts describe the arrangement as a clear example of quid pro quo corruption: Trump sues, regulates, and accepts payouts while controlling agencies that adjudicate matters affecting the defendants. Legal experts and free speech advocates warn the practice erodes constitutional protections and transforms presidential power into a tool for personal gain. Trump’s library fund, which received the prior tech settlements, is controlled by Eric Trump and Michael Boulos, raising further conflict-of-interest concerns.",
-  "tags": [
-    "Donald Trump",
-    "Tech Platforms",
-    "Legal Challenges",
-    "Conflicts of Interest",
-    "Oversight Interference",
-    "Campaign Finance",
-    "Quid Pro Quo Corruption"
-  ],
-  "sources": [
-    "https://www.theatlantic.com/politics/archive/2025/07/trump-google-lawsuit-settlement/683420/"
-  ]
- },
- {
-  "date": "2025-07-03",
-  "title": "Trump DOJ Quietly Promised Immunity to 10 Tech Firms Supporting TikTok in Defiance of Federal Ban",
-  "summary": "Newly disclosed letters show that Attorney General Pam Bondi, acting under orders from President Trump, promised legal immunity to 10 major tech companies—including Apple, Google, Microsoft, Amazon, and Oracle—for continuing to support TikTok despite a congressional ban. The Justice Department stated it would 'irrevocably relinquish any claims' against the companies, even as the administration delayed enforcement of the TikTok divestiture law through executive orders. Critics allege the move was aimed at keeping TikTok’s influence—and its user data—within Trump’s preferred commercial ecosystem. The immunity pledges were only revealed after a FOIA lawsuit forced their release, and experts say they raise serious concerns about selective enforcement and regulatory favoritism driven by backchannel political motives.",
-  "tags": [
-    "Donald Trump",
-    "Tech Platforms",
-    "Federal Agencies",
-    "Legal Challenges",
-    "Oversight Interference",
-    "Quid Pro Quo Corruption"
-  ],
-  "sources": [
-    "https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/"
-  ]
- },
- {
-  "date": "2025-07-08",
-  "title": "Trump DOJ Plans to Deport Abrego Garcia Again Before Trial, Defying Prior White House Statement",
-  "summary": "In a Maryland courtroom, Justice Department attorney Jonathan Guynn stated that the Trump administration intends to re-deport Kilmar Abrego Garcia immediately if he is released from custody—even before his federal trial proceeds. The statement contradicts prior claims from Attorney General Pam Bondi and the White House, which had dismissed such a plan as 'fake news.' Judge Paula Xinis criticized the administration’s shifting positions, describing the case as 'complete chaos' and likening DOJ transparency to 'nailing Jell-O to a wall.' Homeland Security and DOJ officials appear divided, with DHS seeking removal while federal prosecutors pursue charges. Garcia’s lawyers argue the move would violate court orders and due process. They also sought permission to amend their complaint to include evidence of torture during his prior wrongful deportation to El Salvador, which the DOJ plans to oppose.",
-  "tags": [
-    "Deportations",
-    "Legal Challenges",
-    "Rights Violations",
-    "Oversight Interference",
-    "Department of Justice",
-    "Donald Trump"
-  ],
-  "sources": [
-    "https://www.nytimes.com/2025/07/07/us/politics/kilmar-abrego-garcia-trump-deport.html?smid=nytcore-ios-share&referringSource=articleShare"
-  ]
- }
+  },
+  {
+    "date": "2025-06-12",
+    "title": "Judge Rules Trump's Seizure of California National Guard Was Illegal, Orders Troop Control Returned to State",
+    "summary": "In a sweeping 36-page opinion, Judge Charles Breyer ruled that the Trump administration's federalization of up to 4,000 California National Guard troops violated statutory procedures and the Tenth Amendment. The court ordered control returned to Governor Gavin Newsom and described the maneuver as an unlawful militarization of domestic space. The administration’s appeal to the Ninth Circuit temporarily stayed the order. The ruling did not limit the deployment of 700 active-duty Marines, who remain staged outside Los Angeles. Breyer's decision marks a major rebuke of the administration's use of military power in response to immigration protests and state defiance.",
+    "tags": [
+      "Legal Challenges",
+      "Oversight Interference",
+      "Military Deployment",
+      "Public Safety",
+      "Deportations",
+      "Donald Trump",
+      "Federal Agencies"
+    ],
+    "sources": [
+      "https://www.nytimes.com/2025/06/12/us/politics/california-trump-lawsuit-protests.html?smid=nytcore-ios-share&referringSource=articleShare"
+    ]
+  },
+  {
+    "date": "2025-06-13",
+    "title": "Walmart and Amazon Explore Issuing Proprietary Stablecoins to Bypass Traditional Payment Networks",
+    "summary": "Walmart and Amazon are exploring plans to issue their own U.S.-based stablecoins to circumvent credit card networks and reduce payment processing costs. According to internal discussions reported by the Wall Street Journal, both companies aim to create crypto-backed digital tokens that could streamline transactions and increase control over payment systems. The effort depends on the passage of the Genius Act, a bill that would establish a federal framework for stablecoins. The retailers are also exploring forming or joining a stablecoin consortium. Visa and Mastercard stocks dropped 5% on the news, reflecting market anxiety over competition from merchant-led financial innovation.",
+    "tags": [
+      "Crypto",
+      "Financial Markets",
+      "Tech Platforms",
+      "Regulatory Rollback",
+      "Campaign Finance"
+    ],
+    "sources": [
+      "https://www.wsj.com/finance/banking/walmart-amazon-stablecoin-07de2fdd?st=QpC56r&reflink=article_email_share"
+    ]
+  },
+  {
+    "date": "2025-06-17",
+    "title": "SEC Pauses Probe into Justin Sun as Tron Goes Public in Deal Backed by Trump Family Allies",
+    "summary": "The U.S. Securities and Exchange Commission paused its fraud investigation into crypto billionaire Justin Sun and his companies four months before Sun’s Tron platform announced a reverse merger to go public via SRM Entertainment. The deal is being orchestrated by Dominari Securities, a Trump-connected investment bank headquartered in Trump Tower. Eric Trump is reportedly expected to play a role in the new entity, Tron Inc., which will hold $210 million in crypto assets. Sun has donated $75 million to World Liberty Financial, the Trump family crypto venture, and was among the top 25 holders of $TRUMP coin invited to a White House dinner. Critics warn that the sequence of events—including paused regulatory action, donation-linked access, and a surge in SRM stock—raises concerns about selective enforcement and influence peddling at the highest levels.",
+    "tags": [
+      "Crypto",
+      "Conflicts of Interest",
+      "Donald Trump",
+      "Financial Markets",
+      "Campaign Finance",
+      "Elon Musk",
+      "Legal Challenges"
+    ],
+    "sources": [
+      "https://www.ft.com/content/13a6cead-af71-4811-9b90-553f233ac45f?accessToken=zwAGOWfk5Z2gkc8Tps6tr3FIEdObkFU_IzrEXw.MEQCIEmUfQPq93RQ07CdvVGYWzm06zgXxs7JSnYpzgzIzu3DAiA3rDuaH-L56pCcN9ieIsdJpQ1ZAAaQsycTZvh2XKpKaw&sharetype=gift&token=feb9683e-7c1f-45fa-ab35-3c47d23b72e3"
+    ]
+  },
+  {
+    "date": "2025-06-16",
+    "title": "Trump Sons Launch Bitcoin Mining Venture Amid Administration Rollbacks and Tariff Manipulations",
+    "summary": "Eric Trump and Donald Trump Jr. have launched American Bitcoin, a mining venture created with crypto firm Hut 8. The firm is poised to go public later this year, with 20% ownership held through an entity formed by the Trump sons. The company’s rollout was synchronized with pro-crypto regulatory rollbacks and a rollback of Chinese tariffs that helped facilitate mining hardware imports. The White House’s aggressive crypto policies, including creation of a national Bitcoin stockpile, have driven up prices and boosted the family's holdings. Eric Trump has promoted the firm at industry conferences while downplaying any conflict of interest, despite the firm's direct benefit from federal energy and trade policy shifts. Representative Maxine Waters called the venture a blatant conflict of interest.",
+    "tags": [
+      "Crypto",
+      "Donald Trump",
+      "Trump Organization",
+      "Financial Markets",
+      "Conflicts of Interest",
+      "Campaign Finance",
+      "Regulatory Rollback"
+    ],
+    "sources": [
+      "https://www.nytimes.com/2025/06/16/technology/trump-american-bitcoin-mining.html?smid=nytcore-ios-share&referringSource=articleShare"
+    ]
+  },
+  {
+    "date": "2025-07-01",
+    "title": "Trump Launches 'Victory 45/47' Presidential Fragrance Amid Senate Budget Debate",
+    "summary": "While the U.S. Senate debated Trump's latest spending bill, the president launched a new line of luxury perfumes under the name 'Victory 45–47.' The scents, priced at $250 each, come in gilded bottles bearing Trump’s image and autograph. They are the latest in a series of branded products including MAGA guitars, diamond-studded watches, and smartphones, marketed using Trump’s presidential persona. Critics argue the timing and promotional style of the rollout — which included social media posts and video ads with American flags — reflect a continuing effort to monetize the presidency for personal gain. Trump has reportedly earned over $7 million in licensing income from his branded merchandise.",
+    "tags": [
+      "Donald Trump",
+      "Conflicts of Interest",
+      "Trump Organization",
+      "Campaign Finance",
+      "Monetization of Presidency"
+    ],
+    "sources": [
+      "https://www.nytimes.com/2025/07/01/style/trump-fragrances-victory-45-47.html?smid=nytcore-ios-share&referringSource=articleShare"
+    ]
+  },
+  {
+    "date": "2025-06-30",
+    "title": "Trump Administration Issues Civil Rights Violation Notice to Harvard, Threatens Loss of Federal Funding",
+    "summary": "The Trump administration issued a formal finding that Harvard University violated federal civil-rights law by failing to protect Jewish and Israeli students from threats, harassment, and antisemitic imagery. The Department of Education warned that the university could lose all federal funding unless it implements immediate reforms. The administration accused Harvard of deliberate indifference, citing widespread antisemitic graffiti and two years of inaction. The move follows similar actions against Columbia University and is part of a broader push by the Trump administration to impose federal oversight on elite universities. Harvard disputed the findings and stated it has made substantive changes, while continuing to pursue its lawsuit against the administration.",
+    "tags": [
+      "Academic Freedom",
+      "Federal Agencies",
+      "Donald Trump",
+      "Legal Challenges",
+      "Oversight Interference",
+      "Rights Violations"
+    ],
+    "sources": [
+      "https://www.wsj.com/us-news/education/harvard-violated-students-civil-rights-trump-administration-finds-4a0ed7aa?st=pYmgHJ&reflink=article_email_share"
+    ]
+  },
+  {
+    "date": "2025-07-06",
+    "title": "Trump Uses Presidency to Restore Finances via Foreign Licensing, Crypto, and Merchandise Sales",
+    "summary": "A comprehensive New York Times investigation revealed that Donald Trump's return to power coincided with a deliberate pivot in the Trump Organization's business strategy—from struggling real estate holdings to aggressive monetization of the presidency. With his finances weakened by legal judgments, loan maturities, and underperforming golf properties, Trump and his sons rapidly launched new crypto ventures, Truth Social stock deals, and foreign licensing agreements. After clinching the GOP nomination, they signed nine new foreign branding contracts, most with ties to previous political donors and foreign governments. The Trump family also benefited from an infusion of over $320 million from meme coin sales and an estimated $236 million in crypto holdings through World Liberty Financial. The report underscores how Trump’s public role was converted into personal income via opaque and unregulated channels.",
+    "tags": [
+      "Donald Trump",
+      "Trump Organization",
+      "Conflicts of Interest",
+      "Monetization of Presidency",
+      "Crypto",
+      "Financial Markets",
+      "Foreign Influence"
+    ],
+    "sources": [
+      "https://www.nytimes.com/2025/07/02/us/trump-finances-crypto.html?smid=nytcore-ios-share&referringSource=articleShare"
+    ]
+  },
+  {
+    "date": "2025-07-02",
+    "title": "Trump's Net Worth Surges Past $10 Billion on Crypto Gains, But Liquidity Questions Remain",
+    "summary": "A comprehensive New York Times analysis of President Trump's financial disclosures and crypto holdings suggests that his net worth now exceeds $10 billion—driven largely by $6.9 billion in $TRUMP coin value, $2 billion in Trump Media stock, and more than $300 million in proceeds from World Liberty Financial token sales. While his paper wealth has soared during his presidency, much of it remains illiquid, subject to volatility, or tied up in pledged assets backing lawsuit-related bonds. Trump also reported $11 million in royalties from branded products and over $100 million in outstanding real estate loans. The report underscores how the presidency has enabled Trump to generate large theoretical wealth through self-branded crypto, retail licensing, and policy-driven asset surges.",
+    "tags": [
+      "Donald Trump",
+      "Trump Organization",
+      "Crypto",
+      "Conflicts of Interest",
+      "Monetization of Presidency",
+      "Financial Markets"
+    ],
+    "sources": [
+      "https://www.nytimes.com/interactive/2025/07/02/business/donald-trump-wealth-net-worth.html?smid=nytcore-ios-share&referringSource=articleShare"
+    ]
+  },
+  {
+    "date": "2025-07-02",
+    "title": "Lawyers Say Abrego Garcia Was Beaten and Tortured in Salvadoran Prison Before Return to U.S.",
+    "summary": "Court filings reveal that Kilmar Abrego Garcia, the Maryland man wrongfully deported by the Trump administration in March, was subjected to beatings, sleep deprivation, and psychological torture at the CECOT prison in El Salvador. According to his lawyers, Garcia was forced to kneel overnight under threat of assault, denied bathroom access, and confined in a brightly lit, windowless cell without a mattress. Salvadoran authorities allegedly admitted he was not affiliated with any gang, undermining earlier Trump administration claims that his tattoos indicated MS-13 membership. Garcia lost 31 pounds during his detention. Despite the abuse, the Justice Department continues to seek his deportation and has issued conflicting statements about his legal status. His attorneys are seeking a new federal order to bar his removal until further court review.",
+    "tags": [
+      "Deportations",
+      "Rights Violations",
+      "Legal Challenges",
+      "Oversight Interference",
+      "Federal Agencies",
+      "Donald Trump"
+    ],
+    "sources": [
+      "https://www.nytimes.com/2025/07/02/us/politics/kilmar-abrego-garcia-el-salvador-trump-deportation.html?smid=nytcore-ios-share&referringSource=articleShare"
+    ]
+  },
+  {
+    "date": "2025-07-03",
+    "title": "ICE Ramps Up Arrests of Undocumented Migrants Without Criminal Records as Trump Pursues Mass Deportation Goal",
+    "summary": "The Trump administration has sharply increased arrests of undocumented migrants who have no criminal convictions, according to a Washington Post analysis of internal ICE data obtained via FOIA lawsuit. While DHS officials claim ICE is targeting the 'worst of the worst,' more than half of those deported since January 20 had no criminal record. The proportion of detainees with criminal convictions fell from 46% in January to 30% in June. The administration also ended temporary protected status for hundreds of thousands of Venezuelans and enlisted multiple federal agencies—including the FBI and ATF—to support ICE operations. Critics warn that the shift represents a departure from prior prioritization guidelines and raises civil liberties concerns. ICE arrests reached nearly 1,000 per day by late May, with Texas, Florida, and Virginia showing the largest increases.",
+    "tags": [
+      "Deportations",
+      "Rights Violations",
+      "Immigration Actions",
+      "Federal Agencies",
+      "Oversight Interference",
+      "Donald Trump"
+    ],
+    "sources": [
+      "https://www.washingtonpost.com/immigration/2025/07/03/ice-arrests-migrants-criminal-record-numbers/"
+    ]
+  },
+  {
+    "date": "2025-07-03",
+    "title": "Supreme Court Allows Trump Administration to Deport Eight Migrants to South Sudan",
+    "summary": "The Supreme Court ruled that the Trump administration can deport eight noncitizens—held for over a month on a U.S. military base in Djibouti—to South Sudan, despite their lack of ties to the country. Only one of the men holds South Sudanese citizenship; the others come from Cuba, Mexico, Laos, Vietnam, and Myanmar. The Court’s unsigned order overruled prior district court decisions that had blocked the deportations and required the opportunity to assert protection under anti-torture statutes. Justice Sotomayor dissented, calling the action a violation of judicial process and warning that the men could face torture or death. The men had been confined under armed guard in an air-conditioned shipping container at Camp Lemonnier, shackled except while showering or speaking with attorneys. The ruling marks an escalation of third-country deportations with minimal oversight, part of a broader Trump administration effort to speed removals.",
+    "tags": [
+      "Deportations",
+      "Legal Challenges",
+      "Rights Violations",
+      "Oversight Interference",
+      "Federal Agencies",
+      "Donald Trump"
+    ],
+    "sources": [
+      "https://www.nytimes.com/2025/07/03/us/politics/supreme-court-migrants-south-sudan.html?smid=nytcore-ios-share&referringSource=articleShare"
+    ]
+  },
+  {
+    "date": "2025-07-04",
+    "title": "Trump Extracts $16M from CBS via Lawsuit and FCC Leverage, Drawing Extortion Allegations",
+    "summary": "President Trump secured a $16 million settlement from CBS—funneled to his future presidential library—after filing a widely derided lawsuit over an edited interview with Kamala Harris. The lawsuit, filed in Amarillo, Texas, was dismissed by legal experts as meritless and legally incoherent. CBS’s parent company, Paramount, was simultaneously seeking approval for an $8 billion merger from the FCC, whose Trump-appointed chair had publicly tied merger approval to CBS’s resolution of Trump’s complaint. Legal analysts and former federal officials warned the arrangement resembled political extortion. Critics note that this is part of a pattern, including previous settlements from other media and law firms, in which the Trump administration uses state power to extract payments that benefit Trump personally.",
+    "tags": [
+      "Donald Trump",
+      "Press Freedom",
+      "Legal Challenges",
+      "Conflicts of Interest",
+      "Oversight Interference",
+      "Federal Agencies",
+      "Quid Pro Quo Corruption"
+    ],
+    "sources": [
+      "https://www.theatlantic.com/ideas/archive/2025/07/welcome-mafia-presidency/683433/"
+    ]
+  },
+  {
+    "date": "2025-07-05",
+    "title": "U.S. Deports Eight Migrants to South Sudan After Supreme Court Overrides Due Process Concerns",
+    "summary": "The Trump administration deported eight noncitizens to South Sudan following a Supreme Court decision that overrode lower court rulings which had temporarily blocked the removals. The men, from Vietnam, Mexico, Cuba, Myanmar, and Laos—only one of whom is South Sudanese—were detained for weeks inside an air-conditioned shipping container at a U.S. military base in Djibouti. Lawyers warned that deportation to South Sudan posed a credible risk of torture, but the administration cited diplomatic assurances that the migrants would be granted temporary status. Federal judges had raised constitutional concerns, including violations of due process and the 1896 Supreme Court ruling against 'infamous punishment.' The deportations are part of the Trump administration’s expansion of third-country removals under the Alien Enemies Act and mark a growing judicial deference to executive immigration authority.",
+    "tags": [
+      "Deportations",
+      "Legal Challenges",
+      "Rights Violations",
+      "Oversight Interference",
+      "Federal Agencies",
+      "Donald Trump"
+    ],
+    "sources": [
+      "https://www.nytimes.com/2025/07/05/us/politics/migrants-djibouti-south-sudan.html?smid=nytcore-ios-share&referringSource=articleShare"
+    ]
+  },
+  {
+    "date": "2025-07-03",
+    "title": "Trump Pressures Google to Settle Lawsuit Amid Pattern of Extracting Payouts from Tech Firms",
+    "summary": "President Trump's lawyers have entered settlement talks with Google CEO Sundar Pichai over a long-standing lawsuit concerning YouTube's ban of Trump after January 6. The move follows similar settlements with Meta ($25 million) and X ($10 million), both directed to Trump’s presidential library. Though Trump's case was likely to fail on legal grounds, ongoing FCC oversight and executive pressure have pushed companies to settle. Analysts describe the arrangement as a clear example of quid pro quo corruption: Trump sues, regulates, and accepts payouts while controlling agencies that adjudicate matters affecting the defendants. Legal experts and free speech advocates warn the practice erodes constitutional protections and transforms presidential power into a tool for personal gain. Trump's library fund, which received the prior tech settlements, is controlled by Eric Trump and Michael Boulos, raising further conflict-of-interest concerns.",
+    "tags": [
+      "Donald Trump",
+      "Tech Platforms",
+      "Legal Challenges",
+      "Conflicts of Interest",
+      "Oversight Interference",
+      "Campaign Finance",
+      "Quid Pro Quo Corruption"
+    ],
+    "sources": [
+      "https://www.theatlantic.com/politics/archive/2025/07/trump-google-lawsuit-settlement/683420/"
+    ]
+  },
+  {
+    "date": "2025-07-03",
+    "title": "Trump DOJ Quietly Promised Immunity to 10 Tech Firms Supporting TikTok in Defiance of Federal Ban",
+    "summary": "Newly disclosed letters show that Attorney General Pam Bondi, acting under orders from President Trump, promised legal immunity to 10 major tech companies—including Apple, Google, Microsoft, Amazon, and Oracle—for continuing to support TikTok despite a congressional ban. The Justice Department stated it would 'irrevocably relinquish any claims' against the companies, even as the administration delayed enforcement of the TikTok divestiture law through executive orders. Critics allege the move was aimed at keeping TikTok’s influence—and its user data—within Trump’s preferred commercial ecosystem. The immunity pledges were only revealed after a FOIA lawsuit forced their release, and experts say they raise serious concerns about selective enforcement and regulatory favoritism driven by backchannel political motives.",
+    "tags": [
+      "Donald Trump",
+      "Tech Platforms",
+      "Federal Agencies",
+      "Legal Challenges",
+      "Oversight Interference",
+      "Quid Pro Quo Corruption"
+    ],
+    "sources": [
+      "https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/"
+    ]
+  },
+  {
+    "date": "2025-07-08",
+    "title": "Trump DOJ Plans to Deport Abrego Garcia Again Before Trial, Defying Prior White House Statement",
+    "summary": "In a Maryland courtroom, Justice Department attorney Jonathan Guynn stated that the Trump administration intends to re-deport Kilmar Abrego Garcia immediately if he is released from custody—even before his federal trial proceeds. The statement contradicts prior claims from Attorney General Pam Bondi and the White House, which had dismissed such a plan as 'fake news.' Judge Paula Xinis criticized the administration’s shifting positions, describing the case as 'complete chaos' and likening DOJ transparency to 'nailing Jell-O to a wall.' Homeland Security and DOJ officials appear divided, with DHS seeking removal while federal prosecutors pursue charges. Garcia’s lawyers argue the move would violate court orders and due process. They also sought permission to amend their complaint to include evidence of torture during his prior wrongful deportation to El Salvador, which the DOJ plans to oppose.",
+    "tags": [
+      "Deportations",
+      "Legal Challenges",
+      "Rights Violations",
+      "Oversight Interference",
+      "Federal Agencies",
+      "Donald Trump"
+    ],
+    "sources": [
+      "https://www.nytimes.com/2025/07/07/us/politics/kilmar-abrego-garcia-trump-deport.html?smid=nytcore-ios-share&referringSource=articleShare"
+    ]
+  },
+  {
+    "date": "2024-08-30",
+    "title": "Trump Launches 'America First' NFT Trading Cards with VIP Dinner Access for High-Volume Buyers",
+    "summary": "Donald Trump released a new round of digital trading cards branded as the 'America First Collection,' selling for $99 each. Buyers who purchase 15 or more receive a physical card containing fabric from his presidential debate suit. Those who buy 75 or more—totaling over $7,400—are promised access to a gala dinner at Trump’s country club in Jupiter, Florida. The cards, sold via credit card or crypto, continue a pattern of personal monetization of his political brand. The effort follows earlier merchandise pushes including sneakers and the 'God Bless the USA' Bible. Critics accuse Trump of blurring the line between public office and private profiteering, noting the NFT revenue flows not into campaign funds but to private Trump entities.",
+    "tags": [
+      "Donald Trump",
+      "Trump Organization",
+      "Conflicts of Interest",
+      "Campaign Finance",
+      "Crypto",
+      "Monetization of Presidency"
+    ],
+    "sources": [
+      "https://www.newsweek.com/donald-trump-mocked-new-trading-cards-1946948"
+    ]
+  }
 ]
