@@ -284,5 +284,6 @@ module.exports = {
   "Procurement": "Federal Agencies",
   "Monetization of Presidency": "Monetization of Presidency",
   "Quid Pro Quo Corruption": "Quid Pro Quo Corruption",
-  "Department of Justice": "Federal Agencies"
+  "Department of Justice": "Federal Agencies",
+  "Truth Social": "Trump Organization"
 };
