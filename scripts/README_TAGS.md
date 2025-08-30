@@ -144,3 +144,7 @@ Our tag management system allows for:
 - Scalable organization as the archive grows
 
 This approach balances human curation with automated consistency to create a robust, maintainable tagging system.
+📌 Tag Audit Pin Notes
+1. Deportations → Detention Archipelago: retire “Deportations” as a tag; migrate all entries into “Detention Archipelago” for consistency and clarity.
+2. Federal Takeover of Local Authority vs. Posse Comitatus: currently tagging entries with both. Revisit at next audit to decide whether they remain distinct arcs (structural authority grab vs. military policing violations) or should be consolidated in tagMap.js.
+3. Trump Family v. U.S. Interests: candidate cluster to capture cases where Trump family enrichment intersects with U.S. policy at odds with the national interest. Includes World Liberty Financial (crypto ventures), Binance/CZ pardon campaign, PancakeSwap/Chinese financing ties, and Wall Street stablecoin GENIUS Act stories. Currently tagged under Crypto, World Liberty Financial, Conflicts of Interest, and Quid Pro Quo Corruption. Consider introducing this as a distinct narrative arc at next audit.
