@@ -145,7 +145,6 @@ node scripts/auditTags.js
 - **Iterative Approach**: Make tag consolidations in logical batches rather than all at once
 - **Regular Audits**: Run the audit script periodically to identify new opportunities for consolidation
 - **Review Pin Notes**: Check the Pin Notes section below for pending consolidation decisions
--note: ChatGPT will want to automate everything, which is at odds with transparency. Claude is the best choice for consolidation strategies. When ChatGPT seems like it is offering consolidations that are technically clever but not human-centered, trust your gut and turn to Claude instead. At the time of this writing (10-21-25), Claude is hands-down the best at both coding and writing.
 
 ---
 
@@ -179,4 +178,47 @@ Our tag management system allows for:
 - Intuitive grouping of related concepts
 - Scalable organization as the archive grows
 - **Historical transparency and reversibility**
-- **Clarity
+- **Clear documentation of all consolidation decisions**
+
+This approach balances human curation with automated consistency to create a robust, maintainable tagging system that preserves its own history.
+
+---
+
+## 🔍 Understanding Tag History
+
+### Finding When a Tag Was Consolidated
+
+```bash
+# See when a specific tag was added to tagMap.js
+git log -p scripts/tagMap.js | grep "YourTagName"
+
+# See the full consolidation log
+cat scripts/CONSOLIDATION_LOG.md
+```
+
+### Reversing a Consolidation
+
+If you need to reverse a consolidation decision:
+
+1. Remove the mapping from `tagMap.js`
+2. Manually edit affected entries in `index.json` (or restore from git history)
+3. Run `node scripts/pruneTags.js`
+4. Document the reversal in `CONSOLIDATION_LOG.md`
+
+### Viewing Original Tags
+
+The original tags are preserved as keys in `tagMap.js`, allowing anyone to see:
+- What tags existed originally
+- How they were consolidated
+- When consolidations happened (via git history)
+
+---
+
+## 📚 Additional Resources
+
+- **tagMap.js**: The mapping definitions (the "what")
+- **CONSOLIDATION_LOG.md**: The decision rationale (the "why")
+- **Git history**: The timeline (the "when")
+- **index.json history**: The original tag usage (the "proof")
+
+This multi-layered documentation approach ensures that the evolution of the tagging system remains transparent and auditable indefinitely.

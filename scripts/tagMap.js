@@ -1,4 +1,17 @@
-// scripts/tagMap.js — fully updated based on audit consolidation plan
+// scripts/tagMap.js
+// 
+// Tag consolidation mappings for the Accountability Archive
+// 
+// This file defines how tags are consolidated during the rewrite process.
+// Each key represents an original tag, and its value is the consolidated tag
+// it should be mapped to. A value of `null` means the tag is retired entirely.
+//
+// For historical context and rationale behind consolidation decisions,
+// see CONSOLIDATION_LOG.md in this directory.
+//
+// Usage: node scripts/rewriteTags.js
+//
+
 module.exports = {
   // Original mappings + preserved historical tags
   "Account Terminations": "Banking Relationships",
@@ -289,31 +302,32 @@ module.exports = {
   "Quid Pro Quo Corruption": "Quid Pro Quo Corruption",
   "Department of Justice": "Federal Agencies",
   "Truth Social": "Trump Organization",
+  
   // Consolidations from 8-30-25 audit
-"Bureau of Labor Statistics": "Federal Agencies",
-"General Services Administration": "Federal Agencies", 
-"National Science Foundation": "Federal Agencies",
-"FBI": "Federal Agencies",
-"Federal Reserve": "Federal Agencies",
-"FEMA": "Federal Agencies",
-"USAID": "Federal Agencies",
-"Deportations": "Detention Archipelago",
-"Deportation Archipelago": "Detention Archipelago",
-"DHS": "Department of Homeland Security",
-"JD Vance": "Trump Administration",
-"Robert F. Kennedy Jr.": "Trump Administration",
-"Economic Policy": "Financial Markets",
-"Visa Policy": "Immigration Actions", 
-"Public Health": "Department of Health and Human Services",
-"International Trade": "Financial Markets",
-"Judicial Review": "Legal Challenges",
-"Private Prisons": "Detention Archipelago",
-"Fox News": "Press Freedom",
-"Civil-Military Relations": "National Security",
-"Military Deployment": "Posse Comitatus",
-"Federal Takeover of Local Authority": "Posse Comitatus",
-"Smithsonian Institution": "Federal Agencies", 
-"Department of Health and Human Services": "Federal Agencies",
-"Department of State": "Federal Agencies",
-"Smithsonian Institution": "Federal Agencies",
+  "Bureau of Labor Statistics": "Federal Agencies",
+  "General Services Administration": "Federal Agencies", 
+  "National Science Foundation": "Federal Agencies",
+  "FBI": "Federal Agencies",
+  "Federal Reserve": "Federal Agencies",
+  "FEMA": "Federal Agencies",
+  "USAID": "Federal Agencies",
+  "Deportations": "Detention Archipelago",
+  "Deportation Archipelago": "Detention Archipelago",
+  "DHS": "Department of Homeland Security",
+  "JD Vance": "Trump Administration",
+  "Robert F. Kennedy Jr.": "Trump Administration",
+  "Economic Policy": "Financial Markets",
+  "Visa Policy": "Immigration Actions", 
+  "Public Health": "Department of Health and Human Services",
+  "International Trade": "Financial Markets",
+  "Judicial Review": "Legal Challenges",
+  "Private Prisons": "Detention Archipelago",
+  "Fox News": "Press Freedom",
+  "Civil-Military Relations": "National Security",
+  "Military Deployment": "Posse Comitatus",
+  "Federal Takeover of Local Authority": "Posse Comitatus",
+  "Smithsonian Institution": "Federal Agencies", 
+  "Department of Health and Human Services": "Federal Agencies",
+  "Department of State": "Federal Agencies",
+  "Smithsonian Institution": "Federal Agencies",
 };
