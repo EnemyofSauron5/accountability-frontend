@@ -203,13 +203,14 @@ After initial consolidation, discovered additional variants, acronyms, and rare 
 **Rationale:** These are acronyms or alternate names for agencies already consolidated. FBI was already mapped but "Federal Bureau of Investigation" existed as a separate tag. Homeland Security Department is a variant of Department of Homeland Security.
 
 ### Political Figures - Individual Actors
-**Consolidated:** James Comey, Lisa Cook, Lisa Monaco → `Federal Agencies`
+**Retired:** Hunter Biden, James Biden, Ilhan Omar, James Comey, John Bolton, Kash Patel, Lindsey Halligan, Lisa Cook, Lisa Monaco, Marco Rubio → `null`
 
-**Consolidated:** John Bolton, Kash Patel, Lindsey Halligan, Marco Rubio, Ilhan Omar → `Trump Administration`
+**Rationale:** All appear in single entries and don't represent recurring narrative arcs worth tracking through tags. The archive's strength is documenting patterns, not cataloging one-off mentions of political figures. Specific context is preserved in entry summaries and remains searchable. This includes:
+- Democrat corruption cases (Hunter Biden, James Biden) - not core to archive focus
+- Trump retaliation targets (James Comey, John Bolton, Ilhan Omar) - single mentions
+- Various administration officials and political figures (Kash Patel, Marco Rubio, Lisa Cook, Lisa Monaco, Lindsey Halligan) - insufficient entries to establish patterns
 
-**Retired:** Hunter Biden, James Biden → `null`
-
-**Rationale:** All appear in single entries. None represent independent narrative arcs. Hunter and James Biden mentions are tangential to core archive focus and retired entirely. Other individuals fold into their institutional affiliations.
+If any of these individuals become subjects of recurring entries (5+), tags can be reinstated.
 
 ### Business Entities
 **Consolidated:** ByteDance, Oracle → `Tech Platforms`

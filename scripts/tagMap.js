@@ -408,17 +408,19 @@ module.exports = {
 "Federal Bureau of Investigation": "Federal Agencies",
 "Homeland Security Department": "Federal Agencies",
 
-// Political figures (all 1 entry each)
+// Replace the "Political figures (all 1 entry each)" section in tagMap.js with this:
+
+// Political figures - all single entries, retired
 "Hunter Biden": null,
 "James Biden": null,
-"James Comey": "Federal Agencies",
-"John Bolton": "Trump Administration",
-"Kash Patel": "Trump Administration",
-"Lindsey Halligan": "Trump Administration",
-"Lisa Cook": "Federal Agencies",
-"Lisa Monaco": "Federal Agencies",
-"Marco Rubio": "Trump Administration",
-"Ilhan Omar": "Trump Administration",
+"Ilhan Omar": null,
+"James Comey": null,
+"John Bolton": null,
+"Kash Patel": null,
+"Lindsey Halligan": null,
+"Lisa Cook": null,
+"Lisa Monaco": null,
+"Marco Rubio": null,
 
 // Business entities
 "ByteDance": "Tech Platforms",
