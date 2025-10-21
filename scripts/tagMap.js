@@ -330,4 +330,135 @@ module.exports = {
   "Department of Health and Human Services": "Federal Agencies",
   "Department of State": "Federal Agencies",
   "Smithsonian Institution": "Federal Agencies",
+
+// October 2025 consolidation round
+
+// Federal Agencies - rare tags
+"Bureau of Prisons": "Federal Agencies",
+"Centers for Disease Control and Prevention": "Federal Agencies",
+"Department of Agriculture": "Federal Agencies",
+"Department of Commerce": "Federal Agencies",
+"Department of Education": "Federal Agencies",
+"Department of Energy": "Federal Agencies",
+"Department of Housing and Urban Development": "Federal Agencies",
+"Department of the Interior": "Federal Agencies",
+"Department of Labor": "Federal Agencies",
+"Department of Transportation": "Federal Agencies",
+"Department of Veterans Affairs": "Federal Agencies",
+"Environmental Protection Agency": "Federal Agencies",
+"Office of Management and Budget": "Federal Agencies",
+"Small Business Administration": "Federal Agencies",
+"U.S. Citizenship and Immigration Services": "Federal Agencies",
+"USCIS": "Federal Agencies",
+"ATF": "Federal Agencies",
+"DEA": "Federal Agencies",
+"U.S. Marshals Service": "Federal Agencies",
+
+// Tech Platforms - rare companies
+"Amazon": "Tech Platforms",
+"Google": "Tech Platforms",
+"Microsoft": "Tech Platforms",
+"OpenAI": "Tech Platforms",
+"TikTok": "Tech Platforms",
+
+// Foreign Influence - geographic consolidation
+"Afghanistan": "Foreign Influence",
+"Canada": "Foreign Influence",
+"Colombia": "Foreign Influence",
+"Cuba": "Foreign Influence",
+"Gaza": "Foreign Influence",
+"Guatemala": "Foreign Influence",
+"Haiti": "Foreign Influence",
+"Honduras": "Foreign Influence",
+"India": "Foreign Influence",
+"Iran": "Foreign Influence",
+"Iraq": "Foreign Influence",
+"Israel": "Foreign Influence",
+"Mexico": "Foreign Influence",
+"Nicaragua": "Foreign Influence",
+"North Korea": "Foreign Influence",
+"Pakistan": "Foreign Influence",
+"Panama": "Foreign Influence",
+"Russia": "Foreign Influence",
+"Syria": "Foreign Influence",
+"Turkey": "Foreign Influence",
+"Ukraine": "Foreign Influence",
+"United Arab Emirates": "Foreign Influence",
+"Venezuela": "Foreign Influence",
+"Yemen": "Foreign Influence",
+
+// Immigration Actions - related terms
+"Border Security": "Immigration Actions",
+"Citizenship": "Immigration Actions",
+"Refugee Policy": "Immigration Actions",
+
+// Banking Relationships - rare institutions
+"Deutsche Bank": "Banking Relationships",
+"JPMorgan Chase": "Banking Relationships",
+"Wells Fargo": "Banking Relationships",
+
+// Trump Organization - family members
+"Ivanka Trump": "Trump Organization",
+"Lara Trump": "Trump Organization",
+
+// October 2025 - Round 2: Acronyms, variants, and remaining rare tags
+
+// Acronyms and variant spellings
+"CDC": "Federal Agencies",
+"Federal Bureau of Investigation": "Federal Agencies",
+"Homeland Security Department": "Federal Agencies",
+
+// Political figures (all 1 entry each)
+"Hunter Biden": null,
+"James Biden": null,
+"James Comey": "Federal Agencies",
+"John Bolton": "Trump Administration",
+"Kash Patel": "Trump Administration",
+"Lindsey Halligan": "Trump Administration",
+"Lisa Cook": "Federal Agencies",
+"Lisa Monaco": "Federal Agencies",
+"Marco Rubio": "Trump Administration",
+"Ilhan Omar": "Trump Administration",
+
+// Business entities
+"ByteDance": "Tech Platforms",
+"CEFC China Energy": "Foreign Influence",
+"Fox Corporation": "Press Freedom",
+"MGX": "Foreign Influence",
+"Oracle": "Tech Platforms",
+
+// Specific violations and concepts
+"Civil Rights": "Rights Violations",
+"Congressional Ethics": "Ethics",
+"Constitutional Crisis": "Legal Challenges",
+"Corporate Retaliation": "Oversight Interference",
+"Executive Power": "Legal Challenges",
+"Federal Courts": "Legal Challenges",
+"Financial Disclosure": "Transparency",
+"Financial Misconduct": "Financial Markets",
+"Financial Oversight Collapse": "Oversight Interference",
+"Freedom of Information Act": "Transparency",
+"Government Shutdown": "Trump Administration",
+"Law Enforcement Retaliation": "Oversight Interference",
+"Military Alliances": "National Security",
+"National Institutes of Health": "Federal Agencies",
+"Obstruction of Justice": "Legal Challenges",
+"Political Corruption": "Quid Pro Quo Corruption",
+"Redistricting": "Legal Challenges",
+"Religious Nationalism": "Christian Nationalism",
+"Scientific Retaliation": "Oversight Interference",
+"U.S. Coast Guard": "Federal Agencies",
+"Venture Capital": "Financial Markets",
+"Whistleblower Protections": "Oversight Interference",
+"Workforce Purge": "Federal Employees",
+
+// Geographic tags (keeping minimal for now)
+"Chicago": null,
+"Texas": null,
+
+// Tags to keep separate (explicitly noting for documentation)
+// DOJ Capture (8 entries) - keeping separate
+// Fed Capture (5 entries) - keeping separate  
+// National Guard (5 entries) - keeping separate
+// Christian Nationalism (4 entries) - keeping separate
 };

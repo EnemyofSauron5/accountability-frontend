@@ -146,8 +146,146 @@ This log documents the reasoning behind tag consolidations in the Accountability
 - **2025-10-21**: Created consolidation log, reverse-engineered historical decisions
 - **2025-08-30**: Federal agency consolidation, Detention Archipelago established
 - **Early 2025**: Initial major consolidation phase across banking, crypto, Trump business empire
+-**2025-10-21**: UI Cleanup & Geographic Consolidation
+
+This consolidation round focused on reducing tag sprawl while the archive expands beyond Trump-specific content. Removed approximately 50 rare tags (appearing 1-3 times) that don't represent distinct narrative arcs.
+
+### Federal Agencies - Comprehensive Consolidation
+**Consolidated:** Bureau of Prisons, Centers for Disease Control and Prevention, Department of Agriculture, Department of Commerce, Department of Education, Department of Energy, Department of Housing and Urban Development, Department of the Interior, Department of Labor, Department of Transportation, Department of Veterans Affairs, Environmental Protection Agency, Office of Management and Budget, Small Business Administration, U.S. Citizenship and Immigration Services (USCIS), ATF, DEA, U.S. Marshals Service → `Federal Agencies`
+
+**Rationale:** These agencies appear 1-3 times each and don't represent distinct narrative arcs separate from the broader "Federal Agencies" category. The archive's focus is on patterns of politicization, interference, and corruption across the federal bureaucracy - the specific agency matters less than the pattern. Users can still search entry text for specific agency names.
+
+**Preserved separately:** Department of Justice, Department of Homeland Security, Department of Health and Human Services - these continue to have substantial entry counts and represent major centers of Trump administration activity.
+
+### Tech Platforms - Industry Consolidation
+**Consolidated:** Amazon, Google, Microsoft, OpenAI, TikTok → `Tech Platforms`
+
+**Rationale:** Following the same logic as previous Apple, Facebook, and Meta consolidations. These companies appear 1-2 times each. The narrative arc is "tech companies' relationship with Trump administration" rather than company-specific stories.
+
+### Foreign Influence - Geographic Consolidation
+**Consolidated:** Afghanistan, Canada, Colombia, Cuba, Gaza, Guatemala, Haiti, Honduras, India, Iran, Iraq, Israel, Mexico, Nicaragua, North Korea, Pakistan, Panama, Russia, Syria, Turkey, Ukraine, United Arab Emirates, Venezuela, Yemen → `Foreign Influence`
+
+**Rationale:** 24 countries with 1-2 entries each. Unless a country becomes a major recurring narrative (like China with 8 entries, Saudi Arabia with 7 entries, El Salvador with 3 entries already preserved separately), geographic tags fragment the UI without adding browsing value.
+
+**Preserved separately:** China, Saudi Arabia, Qatar, Greenland, El Salvador - these have established themselves as significant recurring narratives.
+
+**Note:** This is the most aggressive consolidation. If any of these countries develops into a major story arc (e.g., Russia entries grow to 5+), we can extract it back out of Foreign Influence in a future round.
+
+### Immigration Actions - Related Terms
+**Consolidated:** Border Security, Citizenship, Refugee Policy → `Immigration Actions`
+
+**Rationale:** These are specific aspects of immigration policy/enforcement that don't warrant separate browsing categories. All represent facets of the immigration enforcement narrative already captured by Immigration Actions.
+
+### Banking Relationships - Financial Institutions
+**Consolidated:** Deutsche Bank, JPMorgan Chase, Wells Fargo → `Banking Relationships`
+
+**Rationale:** Same pattern as previous Bank of America and Goldman Sachs consolidations. Individual banks appear 1-2 times. The narrative is "financial institutions' treatment of Trump-related accounts" not bank-specific stories.
+
+### Trump Organization - Family Members
+**Consolidated:** Ivanka Trump, Lara Trump → `Trump Organization`
+
+**Rationale:** Neither currently represents an independent power center warranting separate tracking. Ivanka has been less involved in recent Trump administration activities. Lara is not a major power player in Trump business or political operations.
+
+**Preserved separately:** 
+- **Jared Kushner** - maintains independent international dealings, Saudi connections, and distinct conflict-of-interest narratives
+- **Barron Trump** - as a minor, mentions typically occur in specific contexts worth flagging separately
+- **Donald Trump Jr., Eric Trump** - previously consolidated, remain in Trump Organization
 
 ---
+
+## 2025-10-21 - Round 2: Cleanup Pass (Acronyms & Remaining Rare Tags)
+
+After initial consolidation, discovered additional variants, acronyms, and rare tags that needed attention.
+
+### Acronyms and Variant Spellings
+**Consolidated:** CDC, Federal Bureau of Investigation, Homeland Security Department → `Federal Agencies`
+
+**Rationale:** These are acronyms or alternate names for agencies already consolidated. FBI was already mapped but "Federal Bureau of Investigation" existed as a separate tag. Homeland Security Department is a variant of Department of Homeland Security.
+
+### Political Figures - Individual Actors
+**Consolidated:** James Comey, Lisa Cook, Lisa Monaco → `Federal Agencies`
+
+**Consolidated:** John Bolton, Kash Patel, Lindsey Halligan, Marco Rubio, Ilhan Omar → `Trump Administration`
+
+**Retired:** Hunter Biden, James Biden → `null`
+
+**Rationale:** All appear in single entries. None represent independent narrative arcs. Hunter and James Biden mentions are tangential to core archive focus and retired entirely. Other individuals fold into their institutional affiliations.
+
+### Business Entities
+**Consolidated:** ByteDance, Oracle → `Tech Platforms`
+
+**Consolidated:** CEFC China Energy, MGX → `Foreign Influence`
+
+**Consolidated:** Fox Corporation → `Press Freedom`
+
+**Rationale:** ByteDance (TikTok's parent) and Oracle are tech companies. CEFC China Energy is a Chinese conglomerate (1 entry). MGX is an investment vehicle with Middle East ties. Fox Corporation is the parent company of Fox News.
+
+### Legal and Institutional Concepts
+**Consolidated:** Civil Rights → `Rights Violations`
+
+**Consolidated:** Congressional Ethics → `Ethics`
+
+**Consolidated:** Constitutional Crisis, Executive Power, Federal Courts, Obstruction of Justice, Redistricting → `Legal Challenges`
+
+**Consolidated:** Freedom of Information Act, Financial Disclosure → `Transparency`
+
+**Rationale:** These single-entry tags describe specific aspects of broader categories already well-represented in the archive.
+
+### Oversight and Corruption
+**Consolidated:** Corporate Retaliation, Financial Oversight Collapse, Law Enforcement Retaliation, Scientific Retaliation, Whistleblower Protections → `Oversight Interference`
+
+**Consolidated:** Political Corruption → `Quid Pro Quo Corruption`
+
+**Rationale:** All describe mechanisms of oversight suppression or corruption already captured by existing tags.
+
+### Federal Agencies and National Security
+**Consolidated:** National Institutes of Health, U.S. Coast Guard → `Federal Agencies`
+
+**Consolidated:** Military Alliances → `National Security`
+
+**Rationale:** Following established pattern for rare agency mentions.
+
+### Financial and Workforce
+**Consolidated:** Financial Misconduct → `Financial Markets`
+
+**Consolidated:** Venture Capital → `Financial Markets`
+
+**Consolidated:** Workforce Purge → `Federal Employees`
+
+**Consolidated:** Government Shutdown → `Trump Administration`
+
+**Rationale:** Single-entry tags describing phenomena already covered by existing categories.
+
+### Religious Politics
+**Consolidated:** Religious Nationalism → `Christian Nationalism`
+
+**Rationale:** Religious Nationalism (1 entry) is a more generic term for the specific phenomenon already tracked as Christian Nationalism (4 entries).
+
+### Geographic Tags - Deferred
+**Retired:** Chicago, Texas → `null`
+
+**Rationale:** Single location mentions without recurring narrative significance. Geographic context preserved in entry summaries.
+
+### Preserved as Distinct Tags
+**Kept separate:**
+- **DOJ Capture** (8 entries) - Represents specific pattern of Justice Department politicization
+- **Fed Capture** (5 entries) - Federal Reserve independence is a distinct concern
+- **National Guard** (5 entries) - Domestic military deployment is a specific violation type
+- **Christian Nationalism** (4 entries) - Distinct ideological narrative arc
+
+---
+
+### Combined Impact (Both Rounds)
+- **Total tags removed:** ~75
+- **UI improvement:** Dramatically cleaner interface
+- **Narrative integrity:** All major story arcs preserved, minor variants consolidated
+- **Historical transparency:** All original tags remain in tagMap.js
+
+### Next Review Considerations
+- Monitor whether any consolidated countries (especially Russia, Ukraine, Israel, Iran) develop into major recurring narratives warranting re-extraction
+- Watch "Public Safety" (26 entries) - has grown significantly, distinct from Rights Violations
+- Continue monitoring Posse Comitatus (16 entries) vs Federal Takeover distinction
+- DOJ Capture and Fed Capture may warrant watching as potential sub-narratives of Oversight Interference
 
 ## Notes on Methodology
 
