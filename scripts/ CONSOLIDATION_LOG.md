@@ -298,3 +298,92 @@ git log -p scripts/tagMap.js | grep "YourTagName"
 ```
 
 To see entries that originally used a consolidated tag, search git history of `public/Entries/index.json`.
+## 2025-11-04 - November 2025 Tag Audit: Rare Tag Cleanup
+
+**Date:** November 4, 2025  
+**Entries Affected:** ~15  
+**Focus:** Consolidate single-use tags with clear redundancy while preserving emerging narrative arcs
+
+### Overview
+This consolidation round addresses rare single-use tags identified in the November 2025 audit that have not gained traction as distinct narrative arcs, and merges overlapping concepts for consistency.
+
+### Consolidations Applied
+
+#### 1. Trade and Tariffs → Tariffs
+**Entries affected:** 1 + 3 = 4 total  
+**Rationale:** Clear redundancy. "Trade and Tariffs" (1 entry) is functionally identical to "Tariffs" (3 entries). Unified under the shorter, more common form. Tariff-related entries now consolidated under a single browsable tag.
+
+#### 2. Trump Family Enterprises → Trump Organization
+**Entries affected:** 1 + 80 = 81 total  
+**Rationale:** "Trump Family Enterprises" and "Trump Organization" describe the same conceptual entity. "Trump Organization" is both the established legal entity name and the existing tag with substantial usage. No meaningful distinction between family business operations warrants separate tags.
+
+#### 3. Corporate Influence → Conflicts of Interest
+**Entries affected:** 1 + 174 entries  
+**Rationale:** Single-use tag describing corporate corruption/access that is better served by the broader, well-established "Conflicts of Interest" category. Corporate influence is a mechanism of conflicts of interest, not a distinct narrative arc.
+
+#### 4. ICE Deployments → Immigration Actions
+**Entries affected:** 1 + 127 entries  
+**Rationale:** ICE (Immigration and Customs Enforcement) operations are a subset of immigration enforcement actions. The specific agency context is preserved through article summaries while reducing tag sprawl. Users interested in ICE activities will find them under the comprehensive Immigration Actions tag.
+
+#### 5. Voting Rights → Rights Violations
+**Entries affected:** 1 + 200 entries  
+**Rationale:** Voting rights are a specific category of civil rights violations. Single-use tag consolidated into the established broader category. Voting rights abuses remain searchable via entry content and are conceptually aligned with other constitutional violations.
+
+#### 6. Agency-Specific Tags → Federal Agencies
+Three single-use tags merged:
+- **Cybersecurity and Infrastructure Security Agency** → Federal Agencies
+- **Department of the Treasury** → Federal Agencies  
+- **Government Accountability Office** → Federal Agencies
+
+**Entries affected:** 3 entries + 323 existing = 326 total  
+**Rationale:** At current archive scale, individual federal agencies with only one entry each create UI sprawl without providing meaningful filtering benefit. The overarching narrative is federal agency capture/politicization rather than agency-specific stories. 
+
+Users can search for specific agencies by name if needed. Following the established pattern from earlier consolidations (Bureau of Labor Statistics, National Science Foundation, etc.).
+
+**Exception:** Agencies with substantial entry counts remain separate (e.g., Department of Justice, Department of Homeland Security) as they represent major power centers.
+
+### Tags Strategically Preserved (Single-Use but Retained)
+
+Despite having only one entry each, the following tags were **explicitly kept separate**:
+
+#### Authoritarian Consolidation (1 entry)
+**Rationale:** Likely to grow. This tag captures power centralization and democratic backsliding as a distinct narrative arc. The single entry may be the first of many as the pattern develops. Premature consolidation would lose this important framing.
+
+#### China Relations (1 entry)
+**Rationale:** While a subset of Foreign Influence, China-specific relations warrant distinct tracking given geopolitical significance and potential for this to become a major story arc. Monitor for growth.
+
+#### Martial Law Threats (1 entry)
+**Rationale:** Extreme severity marker worth preserving. Threats to declare martial law represent a threshold threat to constitutional order that deserves independent visibility, even with minimal entries. This is a "canary in the coal mine" tag.
+
+#### Trump Family v. U.S. Interests (1 entry)
+**Rationale:** Per existing pin notes, this tag is being monitored as a potential distinct narrative arc. Decision is to wait until 8-10 clear examples emerge before determining if this represents a unique category (family enrichment directly contradicting U.S. national interests) or should merge with Conflicts of Interest. Currently in observation period.
+
+### Impact Summary
+
+**Quantitative:**
+- Rare single-use tags reduced from 13 → 4
+- Strengthened existing categories with minor additions
+- Maintained clean UI while preserving signal for emerging patterns
+
+**Qualitative:**
+- Improved consistency in organizational tags (agencies, rights violations)
+- Reduced cognitive load for users browsing tags
+- Preserved narrative arc potential for genuinely emerging patterns
+- Maintained distinction between data consolidation and pattern recognition
+
+### Decision Framework Applied
+
+This consolidation followed a conservative approach:
+1. ✅ **Clear redundancy** (Trade/Tariffs, Trump Family Enterprises)
+2. ✅ **Subset relationships** (ICE → Immigration, Voting → Rights, Corporate → Conflicts)
+3. ✅ **Scale-appropriate granularity** (individual agencies at 1 entry each)
+4. ⚠️ **Strategic preservation** of potential narrative arcs and severity markers
+
+The principle: **Merge noise, preserve signal.**
+
+### Next Review Considerations
+
+- Monitor whether **Authoritarian Consolidation** grows to 5+ entries (if so, validates preservation decision)
+- Watch **China Relations** - if US-China tensions escalate in archive coverage, may warrant expansion
+- Review **Trump Family v. U.S. Interests** at next audit or upon reaching 8-10 entries
+- Continue monitoring rare tags (1-2 entries) in future audits for similar patterns

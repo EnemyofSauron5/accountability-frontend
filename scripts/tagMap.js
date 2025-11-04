@@ -205,59 +205,47 @@ module.exports = {
   "Real Estate": "Financial Markets",
   "Refinancing Risk": "Financial Markets",
   "Regulatory Capture": "Regulatory Rollback",
-  "Regulatory Evasion": "Regulatory Rollback",
-  "Regulatory Policy": "Regulatory Rollback",
   "Regulatory Rollback": "Regulatory Rollback",
-  "Religion and Politics": "MAGA Inc.",
-  "Reputational Risk": "Financial Markets",
-  "Resource Extraction": "Conflicts of Interest",
+  "Retaliation": "Oversight Interference",
   "Rights Violations": "Rights Violations",
-  "Ron DeSantis": null,
-  "Satellite Communications": "Musk Companies",
+  "Russia": "Foreign Influence",
   "Saudi Arabia": "Foreign Influence",
-  "Scott Bessent": "Treasury Department",
-  "SEC": "Federal Agencies",
-  "Self-Dealing": "Conflicts of Interest",
+  "Schedule F": "Federal Employees",
+  "SEC Investigations": "Legal Challenges",
   "Senate": "Legal Challenges",
-  "Settlement": "Legal Challenges",
-  "Signal Scandal": "Data Privacy",
-  "Social Security Administration": "Federal Agencies",
-  "Solana": "Crypto",
+  "Silicon Valley": "Tech Platforms",
+  "Smithsonian": "Federal Agencies",
+  "Social Media": "Tech Platforms",
   "SpaceX": "Musk Companies",
-  "Spectrum Interference": "Satellite Communications",
-  "Square": "Financial Markets",
-  "SSA": "Social Security Administration",
-  "Stablecoin": "Crypto",
-  "STABLE Act": "Crypto",
+  "Starlink": "Musk Companies",
   "State Department": "Federal Agencies",
-  "Strategic Reserve": "Crypto",
-  "Stripe": "Financial Markets",
-  "Student Visas": "Immigration Actions",
-  "SuperPACs": "Campaign Finance",
-  "Surveillance": "Data Privacy",
-  "Symbolic Actions": "Trump Administration",
+  "Stablecoins": "Crypto",
+  "Structural Conflicts": "Conflicts of Interest",
+  "Supreme Court": "Legal Challenges",
   "Tariffs": "Tariffs",
-  "Tax Policy": "Financial Markets",
+  "Tax": "Legal Challenges",
+  "Tax Reform": "Legal Challenges",
+  "Tech": "Tech Platforms",
+  "Tech Billionaires": "Conflicts of Interest",
   "Tech Platforms": "Tech Platforms",
-  "Tech Regulation": "Tech Platforms",
-  "Terms of Service Violations": "Tech Platforms",
   "Tesla": "Musk Companies",
+  "Tether": "Crypto",
+  "The Boring Company": "Musk Companies",
+  "Trade": "Financial Markets",
   "Trade Policy": "Tariffs",
   "Transparency": "Transparency",
-  "Transportation Department": "Federal Agencies",
-  "Treasury": "Treasury Department",
   "Treasury Department": "Federal Agencies",
-  "Truth Social": "Trump Organization",
-  "Truth.Fi": "World Liberty Financial",
   "Trump": "Donald Trump",
   "Trump Administration": "Trump Administration",
-  "Trump Campaign": "Capitol Riot Fallout",
-  "Trump Family": "Trump Organization",
-  "Trump Media": "Trump Organization",
+  "Trump Business": "Trump Organization",
+  "Trump Hotels": "Trump Organization",
+  "Trump International Hotel": "Trump Organization",
+  "Trump National Doral": "Trump Organization",
   "Trump Organization": "Trump Organization",
-  "Trump Residences": "Trump Organization",
-  "Tulsi Gabbard": "Trump Administration",
-  "unofficial event": "Campaign Event",
+  "Trump Tower": "Trump Organization",
+  "Turkey": "Foreign Influence",
+  "Ukraine": "Foreign Influence",
+  "Unions": "Federal Employees",
   "USD1": "Crypto",
   "US Citizens Detained": "Citizens detained",
   "US citizens detained": "Citizens detained",
@@ -459,8 +447,30 @@ module.exports = {
 "Texas": null,
 
 // Tags to keep separate (explicitly noting for documentation)
-// DOJ Capture (8 entries) - keeping separate
+// DOJ Capture (10 entries) - keeping separate
 // Fed Capture (5 entries) - keeping separate  
-// National Guard (5 entries) - keeping separate
-// Christian Nationalism (4 entries) - keeping separate
+// National Guard (7 entries) - keeping separate
+// Christian Nationalism (5 entries) - keeping separate
+
+// ========================================
+// November 2025 Consolidation Round
+// ========================================
+
+// Merge similar/overlapping tags
+"Trade and Tariffs": "Tariffs",
+"Trump Family Enterprises": "Trump Organization",
+"Corporate Influence": "Conflicts of Interest",
+"ICE Deployments": "Immigration Actions",
+"Voting Rights": "Rights Violations",
+
+// Agency-specific tags → Federal Agencies (too granular for current scale)
+"Cybersecurity and Infrastructure Security Agency": "Federal Agencies",
+"Department of the Treasury": "Federal Agencies",
+"Government Accountability Office": "Federal Agencies",
+
+// Strategic preservation (explicitly documented)
+// "Authoritarian Consolidation" - KEEP SEPARATE (likely to grow)
+// "China Relations" - KEEP SEPARATE (warrants distinct tracking)
+// "Martial Law Threats" - KEEP SEPARATE (extreme severity marker)
+// "Trump Family v. U.S. Interests" - KEEP SEPARATE (monitoring until 8-10 examples)
 };
