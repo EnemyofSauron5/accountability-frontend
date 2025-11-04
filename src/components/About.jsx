@@ -7,7 +7,7 @@ function About() {
 
       <h2 className="text-xl font-semibold mt-6 mb-2">Our Mission</h2>
       <p className="mb-4">
-        The Accountability Archive exists for one reason: to make patterns visible. We document verifiable conflicts of interest and abuses of public office&mdash;primarily involving Donald Trump (especially in Trump 2.0) and Elon Musk. Each entry is rigorously tagged and time-stamped to support recombination, analysis, and public accountability.
+        The Accountability Archive exists for one reason: to make patterns visible. We document verifiable conflicts of interest and abuses of public office&mdash;primarily involving Donald Trump (especially in Trump 2.0). Each entry is rigorously tagged and time-stamped to support recombination, analysis, and public accountability.
       </p>
       <p className="mb-4">
         The Accountability Archive documents cases where immigration enforcement actions have violated individual rights, including wrongful detentions of visa holders and asylum seekers, deportations that violated legal processes, and instances where U.S. citizens were mistakenly targeted in enforcement operations.
